@@ -1,6 +1,36 @@
 {
- "updated": "2026-11-01T17:35:06",
+ "updated": "2026-11-01T17:42:45",
  "jobs": [
+  {
+   "id": "31568776",
+   "headline": "Gen B Graduate Program, Trainee Business Analyst",
+   "employer": "Boliden Mineral AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-17",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31568776",
+   "published": "2026-10-09",
+   "score": 9,
+   "reason": "Samma Boliden-program (trainee, business analyst) med start september 2027 i Stockholm. Ansökan på engelska, urvalsdag 16–19 feb 2027.",
+   "start": "September 2027",
+   "extent": "100%",
+   "duration": "Tills vidare"
+  },
+  {
+   "id": "31568834",
+   "headline": "Gen B Graduate Program, Business Analyst",
+   "employer": "Boliden Mineral AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-17",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31568834",
+   "published": "2026-10-09",
+   "score": 9,
+   "reason": "Ettårigt graduate program i Stockholm som börjar september 2027 – matchar din examenstid. Business Analyst-roll, kräver körkort och engelska. Ansök senast 17 nov.",
+   "start": "September 2027",
+   "extent": "100%",
+   "duration": "Tills vidare"
+  },
   {
    "id": "31576795",
    "headline": "Statistiker med intresse för programmering",
@@ -147,6 +177,21 @@
    "published": "2026-10-16",
    "score": 5,
    "reason": "AI/ML-fokus på Nordnet, mer engineering än din nuvarande nivå. Startdatum anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare"
+  },
+  {
+   "id": "31667003",
+   "headline": "Junior analytiker för utvecklingen av balansmarknaden",
+   "employer": "Svenska Kraftnät",
+   "city": "Sundbyberg",
+   "scope": "Heltid",
+   "deadline": "2026-11-25",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31667003",
+   "published": "2026-10-30",
+   "score": 4,
+   "reason": "Passar ämnesmässigt (kvantitativa beräkningar, elmarknad) men kräver minst 2 års arbetserfarenhet och startdatum anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare"
