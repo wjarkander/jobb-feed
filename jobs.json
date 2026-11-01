@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:09:09",
+ "updated": "2026-11-01T18:29:30",
  "jobs": [
   {
    "id": "31552681",
@@ -11,115 +11,11 @@
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31552681",
    "published": "2026-10-05",
    "score": 9,
-   "reason": "Graduate/junior data scientist-roll på Nordea i Stockholm för dem i början av karriären; startdatum ej angivet.",
+   "reason": "Graduate-/junior-roll som AI-scientist på Nordea i Stockholm, riktad mot nyexaminerade (högst ca 3 års erfarenhet). Startdatum anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
-   "duration": "Tills vidare"
-  },
-  {
-   "id": "31637493",
-   "headline": "Data scientist inom Kapacitetsmodeller",
-   "employer": "Svenska Kraftnät",
-   "city": "Sundbyberg",
-   "scope": "Heltid",
-   "deadline": "2026-11-13",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31637493",
-   "published": "2026-10-23",
-   "score": 8,
-   "reason": "Prognosmodeller för kraftsystemet, nära ditt ESEM-jobb. Tillsvidare, men startdatum anges inte – fråga om uppskjuten start till hösten 2027.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare"
-  },
-  {
-   "id": "31655552",
-   "headline": "Statistiker",
-   "employer": "Uppsala Universitet",
-   "city": "Uppsala",
-   "scope": "Heltid",
-   "deadline": "2026-11-16",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31655552",
-   "published": "2026-10-28",
-   "score": 8,
-   "reason": "Statistiker med metodstöd på Uppsala universitet, på hemorten. Tillträde 1 jan 2027 eller enligt överenskommelse – kan kanske skjutas till hösten. Kan sannolikt skjutas till sommaren 2027 – fråga arbetsgivaren.",
-   "start": "2027-01-01 / enl. överenskommelse",
-   "extent": "100%",
-   "duration": "Tills vidare"
-  },
-  {
-   "id": "31649329",
-   "headline": "Data Scientist till Savings Performance",
-   "employer": "Swedbank AB",
-   "city": "Sundbyberg",
-   "scope": "Heltid",
-   "deadline": "2026-11-22",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31649329",
-   "published": "2026-10-27",
-   "score": 8,
-   "reason": "Modellering och analys av sparaffären på Swedbank – passar ekonomi- och statistikprofilen. Startdatum anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare"
-  },
-  {
-   "id": "31576795",
-   "headline": "Statistiker med intresse för programmering",
-   "employer": "Socialstyrelsen",
-   "city": "STOCKHOLM",
-   "scope": "Heltid",
-   "deadline": "2026-11-01",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31576795",
-   "published": "2026-10-09",
-   "score": 7,
-   "reason": "Statistiker med SAS och programmering på Socialstyrelsen. Bra statistikmatch men startdatum anges inte (sista dag idag).",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare"
-  },
-  {
-   "id": "31591629",
-   "headline": "Dataanalytiker",
-   "employer": "UTBETALNINGSMYNDIGHETEN",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-01",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31591629",
-   "published": "2026-10-13",
-   "score": 7,
-   "reason": "Dataanalys mot felaktiga utbetalningar. Tillsvidare, startdatum anges inte (sista dag idag).",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare"
-  },
-  {
-   "id": "31576808",
-   "headline": "Dataanalytiker",
-   "employer": "Riksrevisionen",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-01",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31576808",
-   "published": "2026-10-09",
-   "score": 7,
-   "reason": "Dataanalys inom statlig granskning på Riksrevisionen. Tillsvidare, startdatum anges inte (sista dag idag).",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare"
-  },
-  {
-   "id": "31585418",
-   "headline": "Analytiker med inriktning mot prognoser",
-   "employer": "Kronofogdemyndigheten",
-   "city": "Sundbyberg",
-   "scope": "Heltid",
-   "deadline": "2026-11-02",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31585418",
-   "published": "2026-10-12",
-   "score": 7,
-   "reason": "Prognos- och tidsserieanalytiker på Kronofogden, passar kompetensen men kräver erfarenhet; ansökan stänger 2 nov och start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Junior/graduate AI-scientist i Nordeas Forward Deployed AI-team. Du lär dig bygga AI-lösningar från idé till produktion, bakom erfarna kollegor, och sitter nära affärsområdena.\n**Krav:** Ca 3 års erfarenhet eller mindre, nyexaminerad eller sista året. Tekniska grundkunskaper och vilja att lära. Hybrid, Stockholm (även Helsingfors, Köpenhamn, Polen).\n**Bra att veta:** Heltid, tillsvidare. Inte en del av Nordeas graduate-program. Sista ansökningsdag 30 dec 2026."
   },
   {
    "id": "31568776",
@@ -131,10 +27,11 @@
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31568776",
    "published": "2026-10-09",
    "score": 7,
-   "reason": "Start september 2027 i Stockholm. Trainee business analyst; accepterar utbildning i analytics och ekonomi, men mer affär än statistik.",
+   "reason": "Bolidens graduate-program (trainee business analyst), start september 2027 i Stockholm. Mer affär än statistik, men utbildning i analytics/ekonomi accepteras.",
    "start": "September 2027",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Ettårigt graduate-program som business analyst i Bolidens kommersiella enhet i Stockholm. Du arbetar med affärscase, marknadsanalys, försäljning, råvaror och risk, och besöker smältverk och gruvor.\n**Krav:** Kandidat- eller masterexamen inom bl.a. business, economics, analytics eller finance. Körkort, flytande engelska. Ansökan på engelska.\n**Bra att veta:** Fast anställning från dag ett, 6 träningsveckor, mentor efter programmet. Start september 2027. Urvalsdag 16–19 feb 2027. Sista dag 17 nov 2026."
   },
   {
    "id": "31568834",
@@ -146,40 +43,11 @@
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31568834",
    "published": "2026-10-09",
    "score": 7,
-   "reason": "Start september 2027 i Stockholm. Business analyst; accepterar utbildning i analytics och ekonomi, men innehållet är mer affär än statistik. Ansök senast 17 nov.",
+   "reason": "Bolidens graduate-program (business analyst), start september 2027 i Stockholm. Mer affär än statistik, men analytics/ekonomi accepteras.",
    "start": "September 2027",
    "extent": "100%",
-   "duration": "Tills vidare"
-  },
-  {
-   "id": "31555683",
-   "headline": "Data Analyst",
-   "employer": "Nordnet Bank AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2027-04-03",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31555683",
-   "published": "2026-10-05",
-   "score": 7,
-   "reason": "Analytiker med finansdomän på Nordnet. Realistisk junior-match, startdatum anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare"
-  },
-  {
-   "id": "31606365",
-   "headline": "Data Scientist",
-   "employer": "Nordnet Bank AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2027-04-14",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31606365",
-   "published": "2026-10-16",
-   "score": 7,
-   "reason": "AI/ML-fokus på Nordnet, mer engineering än din nuvarande nivå. Startdatum anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Ettårigt graduate-program som business analyst i Bolidens kommersiella enhet i Stockholm. Du analyserar affärscase och processer, tar fram rekommendationer och stödjer försäljning, inköp och planering.\n**Krav:** Kandidat- eller masterexamen inom business, economics, industrial engineering, analytics eller finance. Körkort, flytande engelska. Ansökan på engelska.\n**Bra att veta:** Fast anställning från dag ett, individuellt utvecklingsprogram och nätverk. Start september 2027. Sista dag 17 nov 2026."
   },
   {
    "id": "31622304",
@@ -191,10 +59,27 @@
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31622304",
    "published": "2026-10-20",
    "score": 7,
-   "reason": "R och dataanalys på Olink i Uppsala. Bra R-match, men startdatum anges inte och innehåller labbmoment.",
+   "reason": "R- och dataanalystjänst på Olink i Uppsala, bra R-match. Innehåller visst labbnära arbete. Startdatum anges inte; ligger ute till april 2027.",
    "start": "Ej angiven",
    "extent": "100%",
-   "duration": "6 månader eller längre"
+   "duration": "6 månader eller längre",
+   "summary": "**Rollen:** Scientist i Olinks R&D-team (Platform Solutions). Du analyserar stora datamängder, skriver och anpassar kod i R, skapar visualiseringar, automatiserar arbetsflöden och samarbetar med laboratoriekollegor.\n**Krav:** Starkt intresse och kompetens i R och dataanalys, gärna SQL. Laboratorieerfarenhet är värdefullt men inte huvudsaken.\n**Bra att veta:** Uppsala, team om fem. Konsultuppdrag via Academic Work. Annonsen ligger ute till 18 april 2027."
+  },
+  {
+   "id": "31576808",
+   "headline": "Dataanalytiker",
+   "employer": "Riksrevisionen",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-01",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31576808",
+   "published": "2026-10-09",
+   "score": 6,
+   "reason": "Dataanalytiker på Riksrevisionen med R/Python/Stata och AI. Krav på relevant utbildning (t.ex. nationalekonomi) och erfarenhet av samhällsvetenskapliga frågor. Startdatum anges inte; sista dag idag.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Dataanalytiker i funktionen för teknik, innovation och data. Du utvecklar och genomför avancerade dataanalyser med både statistiska och AI-baserade metoder och driver införandet av nya metoder och verktyg.\n**Krav:** Relevant akademisk utbildning (t.ex. nationalekonomi, civilingenjör), erfarenhet av samhällsvetenskapliga frågor, goda kodkunskaper i Stata, R eller Python, kvantitativ analys, mycket goda svenska.\n**Bra att veta:** 2 platser, Stockholm. Sista dag 1 nov 2026."
   },
   {
    "id": "31646719",
@@ -209,7 +94,24 @@
    "reason": "Statistik och geografi kring val på Valmyndigheten. Tillsvidare, startdatum anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31655552",
+   "headline": "Statistiker",
+   "employer": "Uppsala Universitet",
+   "city": "Uppsala",
+   "scope": "Heltid",
+   "deadline": "2026-11-16",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31655552",
+   "published": "2026-10-28",
+   "score": 6,
+   "reason": "Statistiker på Uppsala universitet, helt rätt område. Kräver masterexamen i statistik samt dokumenterad erfarenhet av statistisk konsultation, och du tar examen först i juni 2027. Tillträde 1 jan 2027 eller enligt överenskommelse.",
+   "start": "2027-01-01 / enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Statistiker vid CDHU, Uppsala universitet. Du ger statistiskt metodstöd till forskare: studiedesign, styrkeberäkningar, analyser och tolkning av resultat, samt kunskapsspridning via seminarier.\n**Krav:** Masterexamen i statistik/data science, dokumenterad erfarenhet av statistisk konsultation, goda kunskaper i R eller Python, god engelska.\n**Bra att veta:** Heltid, tillsvidare (provanställning 6 mån kan tillämpas), tillträde 2027-01-01 eller enligt överenskommelse. Sista dag 16 nov 2026."
   },
   {
    "id": "31666891",
@@ -224,7 +126,8 @@
    "reason": "Analytiker/prognoser för balansmarknaden hos Svenska kraftnät, mycket relevant energiområde; startdatum ej angivet och troligen erfarenhetskrav.",
    "start": "Ej angiven",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
   },
   {
    "id": "31626673",
@@ -239,7 +142,40 @@
    "reason": "Analytiker i försäkringsbolag, matematiskt inriktad och för karriärstartare; startdatum ej angivet, löpande urval.",
    "start": "Ej angiven",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31576795",
+   "headline": "Statistiker med intresse för programmering",
+   "employer": "Socialstyrelsen",
+   "city": "STOCKHOLM",
+   "scope": "Heltid",
+   "deadline": "2026-11-01",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31576795",
+   "published": "2026-10-09",
+   "score": 5,
+   "reason": "Statistiker på Socialstyrelsen, bra statistikjobb. Kräver aktuell erfarenhet av registerdata och statistikframställning samt programmering (SAS meriterande). Startdatum anges inte; sista dag idag.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Statistiker som tar fram och kommunicerar statistik från hälsodataregister, i SAS, till regioner, myndigheter, forskare och media. Du bedömer också utlämnande av statistik enligt statistiksekretess.\n**Krav:** Högskoleutbildning där statistik ingår, aktuell erfarenhet av registerdata/stora datamängder, programmering för statistik, tydlig svenska.\n**Meriterande:** SAS eller SQL, intresse för hälsa och samhällsfrågor.\n**Bra att veta:** Två tillsvidareanställningar, provanställning 6 mån, Stockholm (Solna från våren 2027), distans 2 dagar/vecka."
+  },
+  {
+   "id": "31585418",
+   "headline": "Analytiker med inriktning mot prognoser",
+   "employer": "Kronofogdemyndigheten",
+   "city": "Sundbyberg",
+   "scope": "Heltid",
+   "deadline": "2026-11-02",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31585418",
+   "published": "2026-10-12",
+   "score": 5,
+   "reason": "Prognosanalytiker på Kronofogden, helt rätt område, men kräver några års aktuell erfarenhet av prognosmodeller och tidsserier. Sista dag 2 nov. Startdatum anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Analytiker i Ledningsstödsenheten. Du utvecklar prognosmodeller, tar fram statistik och kvantitativa analyser inom överskuldsättning, hanterar datauttag och skriver beslutsunderlag.\n**Krav:** Akademisk examen (nationalekonomi, statistik, matematik m.fl.), några års aktuell erfarenhet (senaste 3 åren) av prognosmodeller och tidsserieanalys, goda kunskaper i Python och/eller R.\n**Bra att veta:** Sundbyberg. Sista dag 2 nov 2026."
   },
   {
    "id": "31553844",
@@ -254,7 +190,8 @@
    "reason": "Start september 2027, men kräver master i engineering/teknik – din bakgrund är statistik, så matchningen är svag.",
    "start": "September 2027",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
   },
   {
    "id": "31624031",
@@ -269,7 +206,24 @@
    "reason": "Traineeprogram med start 1 sep 2027 i Stockholm, men inriktat på affärsutveckling och management, inte statistik.",
    "start": "1 september 2027",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31637493",
+   "headline": "Data scientist inom Kapacitetsmodeller",
+   "employer": "Svenska Kraftnät",
+   "city": "Sundbyberg",
+   "scope": "Heltid",
+   "deadline": "2026-11-13",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31637493",
+   "published": "2026-10-23",
+   "score": 5,
+   "reason": "Rätt roll (prognosmodeller för kraftsystemet), men annonsen efterfrågar civilingenjörs-/masterexamen inom energi/teknik eller motsvarande. Startdatum anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Data scientist i enheten Kapacitetsmodeller. Du analyserar stora datamängder, utvecklar metoder och verktyg för att höja kvaliteten i prognosticerade nätmodeller, och driver förbättringar tillsammans med ett utvecklingsteam.\n**Krav:** Civilingenjörs- eller masterexamen med relevant inriktning (t.ex. energisystem, elkraft, teknisk fysik, datateknik) eller motsvarande kompetens. Analytisk och strukturerad. Stor vikt vid personliga egenskaper.\n**Bra att veta:** Sundbyberg, distans upp till 50 %. Tillsvidare. Sista dag 13 nov 2026."
   },
   {
    "id": "31637094",
@@ -284,7 +238,24 @@
    "reason": "Graduate-program med start augusti 2027 (Eskilstuna), men strategisk portföljplanering – mer affär än statistik. Kräver masterexamen.",
    "start": "Augusti 2027",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31591629",
+   "headline": "Dataanalytiker",
+   "employer": "UTBETALNINGSMYNDIGHETEN",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-01",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31591629",
+   "published": "2026-10-13",
+   "score": 4,
+   "reason": "Dataanalytiker på Utbetalningsmyndigheten, rätt område men kräver minst 2 års arbetslivserfarenhet av SQL och Python. Startdatum anges inte; sista dag idag.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Dataanalytiker som tar fram och förvaltar analyser för att upptäcka felaktiga utbetalningar från välfärdssystemen, presenterar resultat och bidrar till nya datakällor.\n**Krav:** Utbildning i statistik, systemvetenskap eller liknande. Minst 2 års aktuell erfarenhet av SQL mot stora datamängder och 2 år av analys med Python. Samarbete med verksamhet och jurister.\n**Meriterande:** Presentera analyser, riskbaserade urval, agilt arbete.\n**Bra att veta:** Heltid, tillsvidare, Stockholm (Gullmarsplan), säkerhetsprövning kan bli aktuell."
   },
   {
    "id": "31646084",
@@ -299,7 +270,8 @@
    "reason": "Ericsson early career-program inom supply chain, start ej angiven.",
    "start": "Ej angiven",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
   },
   {
    "id": "31666224",
@@ -314,7 +286,8 @@
    "reason": "Ericsson early career-program (säljinriktat), start ej angiven.",
    "start": "Ej angiven",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
   },
   {
    "id": "31663855",
@@ -329,7 +302,24 @@
    "reason": "Ericsson early career-program, produktledning inom transport; start ej angiven.",
    "start": "Ej angiven",
    "extent": "100%",
-   "duration": "6 månader eller längre"
+   "duration": "6 månader eller längre",
+   "summary": null
+  },
+  {
+   "id": "31649329",
+   "headline": "Data Scientist till Savings Performance",
+   "employer": "Swedbank AB",
+   "city": "Sundbyberg",
+   "scope": "Heltid",
+   "deadline": "2026-11-22",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31649329",
+   "published": "2026-10-27",
+   "score": 4,
+   "reason": "Data scientist på Swedbank, rätt område, men kräver 2–4 års erfarenhet som data scientist/analytiker. Startdatum anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Data scientist i Savings Performance (Swedbank Investment Center). Du analyserar sparaffären, bygger datamodeller, tar fram beslutsunderlag och dashboards i Power BI och Qlik.\n**Krav:** 2–4 års erfarenhet som data scientist/analytiker, stark SQL, Python eller motsvarande, BI-verktyg, flytande svenska och engelska, relevant utbildning (statistik, ekonomi, data, matematik).\n**Meriterande:** Bank-/finanserfarenhet, kunskap om sparande eller pension.\n**Bra att veta:** Sundbyberg. Sista dag 22 nov 2026."
   },
   {
    "id": "31637100",
@@ -344,7 +334,8 @@
    "reason": "Affärsutveckling/digital transformation i Flen – inte statistik.",
    "start": "Augusti 2027",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
   },
   {
    "id": "31667003",
@@ -359,7 +350,8 @@
    "reason": "Passar ämnesmässigt (kvantitativa beräkningar, elmarknad) men kräver minst 2 års arbetserfarenhet och startdatum anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
   },
   {
    "id": "31667542",
@@ -374,7 +366,24 @@
    "reason": "Junior managementkonsult – generellt konsult-/managementprogram, inte statistik eller dataanalys.",
    "start": "Ej angiven (efter examen 2027)",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31555683",
+   "headline": "Data Analyst",
+   "employer": "Nordnet Bank AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-04-03",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31555683",
+   "published": "2026-10-05",
+   "score": 4,
+   "reason": "Data analyst på Nordnet, rätt område men annonsen förutsätter 3+ års erfarenhet. Startdatum anges inte; ligger ute till april 2027.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Data analyst i Nordnets Data & Insights, inbäddad i produktteam. Du gör statistiska analyser av kund- och finansdata, designar experiment och presenterar insikter.\n**Krav:** SQL, Python, R och dbt, erfarenhet av A/B-testning, examen i ekonomi/data/statistik/matematik. Man tror att du har 3+ års erfarenhet som data analyst.\n**Bra att veta:** Hybrid, Stockholm. Annonsen ligger ute till 3 april 2027."
   },
   {
    "id": "31636577",
@@ -389,7 +398,8 @@
    "reason": "Konsumentanalys på Instabee, mer affärsinriktat. Startdatum anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
-   "duration": "Tills vidare"
+   "duration": "Tills vidare",
+   "summary": null
   }
  ]
 }
