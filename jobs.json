@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T18:34:14",
+ "updated": "2026-11-01T17:39:51",
  "jobs": [
   {
    "id": "31552681",
@@ -82,22 +82,6 @@
    "summary": "**Rollen:** Dataanalytiker i funktionen för teknik, innovation och data. Du utvecklar och genomför avancerade dataanalyser med både statistiska och AI-baserade metoder och driver införandet av nya metoder och verktyg.\n**Krav:** Relevant akademisk utbildning (t.ex. nationalekonomi, civilingenjör), erfarenhet av samhällsvetenskapliga frågor, goda kodkunskaper i Stata, R eller Python, kvantitativ analys, mycket goda svenska.\n**Bra att veta:** 2 platser, Stockholm. Sista dag 1 nov 2026."
   },
   {
-   "id": "31646719",
-   "headline": "Valhandläggare med statistikinriktning sökes till Valmyndigheten",
-   "employer": "Skatteverket",
-   "city": "Solna",
-   "scope": "Heltid",
-   "deadline": "2026-11-09",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31646719",
-   "published": "2026-10-26",
-   "score": 6,
-   "reason": "Statistik och geografi kring val på Valmyndigheten. Tillsvidare, startdatum anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
    "id": "31655552",
    "headline": "Statistiker",
    "employer": "Uppsala Universitet",
@@ -114,22 +98,6 @@
    "summary": "**Rollen:** Statistiker vid CDHU, Uppsala universitet. Du ger statistiskt metodstöd till forskare: studiedesign, styrkeberäkningar, analyser och tolkning av resultat, samt kunskapsspridning via seminarier.\n**Krav:** Masterexamen i statistik/data science, dokumenterad erfarenhet av statistisk konsultation, goda kunskaper i R eller Python, god engelska.\n**Bra att veta:** Heltid, tillsvidare (provanställning 6 mån kan tillämpas), tillträde 2027-01-01 eller enligt överenskommelse. Sista dag 16 nov 2026."
   },
   {
-   "id": "31666891",
-   "headline": "Analytiker för utvecklingen av balansmarknaden",
-   "employer": "Svenska Kraftnät",
-   "city": "Sundbyberg",
-   "scope": "Heltid",
-   "deadline": "2026-11-25",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31666891",
-   "published": "2026-10-30",
-   "score": 6,
-   "reason": "Analytiker/prognoser för balansmarknaden hos Svenska kraftnät, mycket relevant energiområde; startdatum ej angivet och troligen erfarenhetskrav.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
    "id": "31626673",
    "headline": "Analytiker till snabbväxande försäkringsbolag",
    "employer": "Academic Work Sweden AB",
@@ -139,11 +107,11 @@
    "url": "https://arbetsformedlingen.se/platsbanken/annonser/31626673",
    "published": "2026-10-21",
    "score": 6,
-   "reason": "Analytiker i försäkringsbolag, matematiskt inriktad och för karriärstartare; startdatum ej angivet, löpande urval.",
+   "reason": "Analytiker (prissättning/riskbedömning, SQL/Python/R) för karriärstartare; kräver civilingenjör eller master i matematik/ekonomi – statistikmaster bör vara nära. Inget erfarenhetskrav, starttid anges inte (-1).",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
-   "summary": null
+   "summary": "**Rollen:** Analytiker i försäkringsbolag: prissättning, riskbedömning (underwriting) och lönsamhetsanalys utifrån stora datamängder; automatisering och AI-projekt.\n**Krav:** Civilingenjör (t.ex. teknisk matematik) eller master i matematik/ekonomi, stark analytisk förmåga, intresse för SQL/Python/R, svenska och engelska.\n**Meriterande:** Intresse för AI/automatisering, fler språk.\n**Bra att veta:** Centrala Stockholm, hybrid, via Academic Work, löpande urval, start ej angiven, sista ansökan 2027-04-19."
   },
   {
    "id": "31576795",
@@ -191,7 +159,39 @@
    "start": "September 2027",
    "extent": "100%",
    "duration": "Tills vidare",
-   "summary": null
+   "summary": "**Rollen:** ABB Discovery Graduate Program: 18 månader med tre rotationer om sex månader, fast anställning från dag ett.\n**Krav:** Master inom teknik/ingenjör avslutad före start, högst två års yrkeserfarenhet, EU/EES-medborgare eller uppehållstillstånd.\n**Bra att veta:** Västerås, start september 2027, sista ansökan 2026-11-02. Teknikinriktad, inte statistik."
+  },
+  {
+   "id": "31646719",
+   "headline": "Valhandläggare med statistikinriktning sökes till Valmyndigheten",
+   "employer": "Skatteverket",
+   "city": "Solna",
+   "scope": "Heltid",
+   "deadline": "2026-11-09",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31646719",
+   "published": "2026-10-26",
+   "score": 5,
+   "reason": "Statistik- och valhandläggartjänst (SQL, Excel, statistiska modeller) på Valmyndigheten; kräver 'relevant och aktuell erfarenhet' av statistiska beräkningar, tillsvidare, starttid anges inte (-1). Mer handläggning än ren dataanalys.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Valhandläggare på Valmyndigheten (Skatteverket): valgeografi, statistik över röstberättigade, valresultat och mandatfördelning samt sannolikhetsberäkningar.\n**Krav:** Högskoleutbildning ≥180 hp med statistik/matematik, aktuell erfarenhet av statistiska/matematiska modeller, SQL/Excel och visualisering av statistik.\n**Meriterande:** GIS (ArcGIS, QGIS).\n**Bra att veta:** Solna/Sundbyberg, tillsvidare med provanställning, möjlig säkerhetsprövning, start ej angiven, sista ansökan 2026-11-09."
+  },
+  {
+   "id": "31652104",
+   "headline": "Concepts Researcher: AI in 6G RAN",
+   "employer": "Ericsson AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-10",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31652104",
+   "published": "2026-10-27",
+   "score": 5,
+   "reason": "AI/RL-forskning för 6G RAN på Ericsson; PhD eller MSc i EE/ML/Data Science efterfrågas men kräver stor AI-djup, teknisk ledarskap och telekomkunskap. Starttid anges inte (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Concepts Researcher inom AI i 6G RAN på Ericsson: studier, simuleringar och rekommendationer med RL/ML för radioresurshantering.\n**Krav:** PhD eller MSc i elektroteknik, ML eller Data Science, stark AI-kompetens (RL), Python, intresse för trådlös kommunikation och teknisk ledarskapsförmåga.\n**Meriterande:** Erfarenhet av forskning, simulering eller RAN-lösningar.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven, sista ansökan 2026-11-10."
   },
   {
    "id": "31624031",
@@ -207,7 +207,7 @@
    "start": "1 september 2027",
    "extent": "100%",
    "duration": "Tills vidare",
-   "summary": null
+   "summary": "**Rollen:** Management-trainee (3Talent) hos Tre inom Strategy & Business Development, med rotation mellan affärsområden; spår Technology eller Business Management.\n**Krav:** Examen 2027; ambition och kommunikationsförmåga.\n**Bra att veta:** Stockholm, fastanställning efter programmet, start 1 sep 2027, sista ansökan 2026-11-11. Affärsinriktat snarare än statistik."
   },
   {
    "id": "31637493",
@@ -239,7 +239,23 @@
    "start": "Augusti 2027",
    "extent": "100%",
    "duration": "Tills vidare",
-   "summary": null
+   "summary": "**Rollen:** Volvo Group Graduate Program 2027 (15 månader) i Strategic Portfolio Planning, Volvo CE: datadrivet beslutsunderlag och portföljstrategi, samordning med stakeholders.\n**Krav:** Masterexamen och intresse för strategi/transformation; enligt annonsen även rotationer och utbildning.\n**Bra att veta:** Eskilstuna, heltid, start augusti 2027, sista ansökan 2026-11-22. Mer affär/strategi än statistik."
+  },
+  {
+   "id": "31665366",
+   "headline": "SENIOR AI ENGINEER, PERSONALIZATION",
+   "employer": "Q Innovations Sweden AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-31",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31665366",
+   "published": "2026-10-30",
+   "score": 5,
+   "reason": "ML/personalisering (MSc i statistik godkänns), men Senior-roll med 2–5 års erfarenhet föredraget (nyexaminerade kan bedömas jämbördigt) och stark produktions-/ingenjörstyngd. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Senior AI Engineer inom personalisering och rekommendationssystem (beteendemodellering, feature pipelines, bandit-/RL-metoder) på ett tidigt techbolag.\n**Krav:** MSc i ML, datavetenskap, statistik eller liknande kvantitativt ämne; produktionsnära ML-arbete.\n**Meriterande:** PhD; 2–5 års erfarenhet (nyexaminerade kan bedömas jämbördigt).\n**Bra att veta:** Stockholm, heltid, start ej angiven, sista ansökan 2026-12-31."
   },
   {
    "id": "31591629",
@@ -306,6 +322,22 @@
    "summary": null
   },
   {
+   "id": "31643437",
+   "headline": "Systemutvecklare med inriktning databas till Karolinska Institutets",
+   "employer": "Karolinska Inst",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-15",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31643437",
+   "published": "2026-10-26",
+   "score": 4,
+   "reason": "Systemutvecklare med databas/SQL/Python på KI:s bibliotek – utvecklartjänst snarare än analys, ML bara meriterande. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
    "id": "31649329",
    "headline": "Data Scientist till Savings Performance",
    "employer": "Swedbank AB",
@@ -354,6 +386,22 @@
    "summary": null
   },
   {
+   "id": "31666891",
+   "headline": "Analytiker för utvecklingen av balansmarknaden",
+   "employer": "Svenska Kraftnät",
+   "city": "Sundbyberg",
+   "scope": "Heltid",
+   "deadline": "2026-11-25",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31666891",
+   "published": "2026-10-30",
+   "score": 4,
+   "reason": "Analytiker för balansmarknaden (prognoser, elmarknad) hos Svenska kraftnät, men kräver minst 5 års erfarenhet av kvantitativt analysarbete och flera års elmarknadserfarenhet. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
    "id": "31667542",
    "headline": "Digital & Management Talent Program 2027",
    "employer": "Combitech Aktiebolag",
@@ -365,6 +413,22 @@
    "score": 4,
    "reason": "Junior managementkonsult – generellt konsult-/managementprogram, inte statistik eller dataanalys.",
    "start": "Ej angiven (efter examen 2027)",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31599524",
+   "headline": "AI Engineer inom Integration och Utveckling till tekniskt bolag",
+   "employer": "Friday Väst AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-30",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31599524",
+   "published": "2026-10-15",
+   "score": 4,
+   "reason": "AI Engineer-konsultroll (integration/utveckling), mest utveckling; ML endast meriterande. Start 'enligt överenskommelse'.",
+   "start": "Enl. överenskommelse",
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": null
