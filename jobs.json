@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:26:59",
+ "updated": "2026-11-02T16:24:58",
  "jobs": [
   {
    "id": "31552681",
@@ -434,6 +434,22 @@
    "summary": "**Rollen:** Doktorand i ERC-projektet DYCLEX: kvantitativa analyser av multivariata extremväderhändelser, deras förutsägbarhet och långsiktiga trender i nuvarande och framtida klimat.\n**Krav:** Avancerad examen i bl.a. statistik eller meteorologi (krävs först vid antagning), gedigen programmering för dataanalys och mycket goda engelskkunskaper.\n**Bra att veta:** Uppsala, heltid, forskarutbildning (inte ordinarie jobb), upp till 20 % undervisning, resor förekommer. Sista ansökningsdag 2026-11-16. Starttid anges ej."
   },
   {
+   "id": "31673382",
+   "headline": "Finance Graduate Programme 2027",
+   "employer": "Arla Foods AB",
+   "city": "Solna",
+   "scope": "Heltid",
+   "deadline": "2026-11-17",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31673382",
+   "published": "2026-11-02",
+   "score": 5,
+   "reason": "Finance-graduateprogram (generalistiskt finans, ej statistik); rotation i Data & Digital. Start 1 sep 2027, kräver 1 års erfarenhet och flytt/rotation utomlands. Max 5 enligt reglerna.",
+   "start": "1 september 2027",
+   "extent": "100%",
+   "duration": "12 månader – upp till 2 år",
+   "summary": "**Rollen:** Tvåårigt Finance Graduate Programme med tre rotationer (Business & Performance, Data & Digital, Strategy & Execution), 6 månader utomlands.\n**Krav:** Kandidat- eller masterexamen senast sep 2027 (öppet för olika bakgrunder), minst 1 års relevant erfarenhet, flytande engelska, internationellt rörlig.\n**Bra att veta:** Tillsvidareanställning från start 1 sep 2027, Sverige/Danmark/Tyskland (Solna), generellt finansprogram snarare än statistik. Sista ansökningsdag 17 nov 2026."
+  },
+  {
    "id": "31633599",
    "headline": "Examensarbete hos SCB inom forskning, innovation och offentliga stöd",
    "employer": "Statistiska Centralbyrån",
@@ -706,6 +722,22 @@
    "summary": null
   },
   {
+   "id": "31673446",
+   "headline": "Supply Chain Graduate Programme 2027",
+   "employer": "Arla Foods AB",
+   "city": "Solna",
+   "scope": "Heltid",
+   "deadline": "2026-11-17",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31673446",
+   "published": "2026-11-02",
+   "score": 4,
+   "reason": "Supply chain-graduateprogram med produktion/logistik/planering, inte dataanalys. Start 2027, internationell rotation.",
+   "start": "2027 (hösten)",
+   "extent": "100%",
+   "duration": "12 månader – upp till 2 år",
+   "summary": null
+  },
+  {
    "id": "31663704",
    "headline": "Supply Chain Business Analyst - Digital Enablement",
    "employer": "SAAB Aktiebolag",
@@ -716,6 +748,22 @@
    "published": "2026-10-29",
    "score": 4,
    "reason": "Business analyst inom supply chain/BI/AI på Saab, flerårig erfarenhet krävs och rollen är strategisk snarare än statistisk. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31674545",
+   "headline": "Business/Data Analyst, Solna",
+   "employer": "PostNord Group AB",
+   "city": "Solna",
+   "scope": "Heltid",
+   "deadline": "2026-11-19",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31674545",
+   "published": "2026-11-02",
+   "score": 4,
+   "reason": "Business/Data Analyst med BI, men kräver några års erfarenhet som business analyst/controller och ekonomi/IT-examen. Starttid anges ej.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
@@ -829,6 +877,22 @@
    "score": 4,
    "reason": "AI Engineer-konsultroll (integration/utveckling), mest utveckling; ML endast meriterande. Start 'enligt överenskommelse'.",
    "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31675452",
+   "headline": "Entry level: Verification Developer",
+   "employer": "Ericsson AB",
+   "city": "Kista",
+   "scope": "Heltid",
+   "deadline": "2026-12-16",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31675452",
+   "published": "2026-11-02",
+   "score": 4,
+   "reason": "Entry level verification developer för nyexaminerade (data science godkänd examen), men testning/verifiering av radioprodukter snarare än statistik. Starttid ej angiven.",
+   "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": null
