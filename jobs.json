@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:13:23",
+ "updated": "2026-11-02T11:26:59",
  "jobs": [
   {
    "id": "31552681",
@@ -418,6 +418,38 @@
    "summary": "**Rollen:** Power BI-utvecklare i enheten Dataanalys och dataplattform: utveckla och förvalta Power BI-rapporter och dataflöden samt driva self-service och utbilda användare.\n**Krav:** Strukturerad och lösningsorienterad, förmåga att se helheten, samarbetsvillig; teknisk bakgrund inom BI/Power BI förväntas.\n**Bra att veta:** Sundbyberg, heltid, tillsvidare, start ej angiven. Sista ansökan 2026-11-16."
   },
   {
+   "id": "31612148",
+   "headline": "Doktorand i meteorologi: multivariata extremväderhändelser",
+   "employer": "Uppsala Universitet",
+   "city": "Uppsala",
+   "scope": "Heltid",
+   "deadline": "2026-11-16",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31612148",
+   "published": "2026-10-19",
+   "score": 5,
+   "reason": "Doktorandtjänst (ERC-projekt) i statistik och dynamik för multivariata extremväder, Uppsala. Han uppfyller behörigheten (master i statistik) men tjänsten är forskarutbildning, inte ett vanligt jobb; starttid anges ej.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
+   "summary": "**Rollen:** Doktorand i ERC-projektet DYCLEX: kvantitativa analyser av multivariata extremväderhändelser, deras förutsägbarhet och långsiktiga trender i nuvarande och framtida klimat.\n**Krav:** Avancerad examen i bl.a. statistik eller meteorologi (krävs först vid antagning), gedigen programmering för dataanalys och mycket goda engelskkunskaper.\n**Bra att veta:** Uppsala, heltid, forskarutbildning (inte ordinarie jobb), upp till 20 % undervisning, resor förekommer. Sista ansökningsdag 2026-11-16. Starttid anges ej."
+  },
+  {
+   "id": "31633599",
+   "headline": "Examensarbete hos SCB inom forskning, innovation och offentliga stöd",
+   "employer": "Statistiska Centralbyrån",
+   "city": "Solna",
+   "scope": "Deltid",
+   "deadline": "2026-11-19",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31633599",
+   "published": "2026-10-22",
+   "score": 5,
+   "reason": "Examensarbete (master) hos SCB om offentligt stöd till FoU med mikrodata; kräver pågående master i statistik/nationalekonomi och 30 hp statistik, SAS/R/Python. Passar innehållsmässigt men är ett examensarbete, inte en anställning; start anges ej.",
+   "start": "Ej angiven",
+   "extent": "0–100%",
+   "duration": "3 månader – upp till 6 månader",
+   "summary": "**Rollen:** Examensarbete på masternivå hos SCB: analys av data om FoU, innovation och offentligt stöd till företag, ofta med SCB:s mikrodata. Resultat redovisas i rapport och presentation.\n**Krav:** Pågående master i statistik, nationalekonomi eller liknande, minst 30 hp statistik, goda kunskaper i SAS, R, Python eller STATA, svenska och engelska.\n**Meriterande:** Erfarenhet av statistiskt eller vetenskapligt skrivande.\n**Bra att veta:** Solna, 3-6 månader, deltid, 1 plats (ensam eller i par). Det är ett examensarbete, inte en anställning. Sista ansökningsdag 2026-11-19. Starttid anges ej."
+  },
+  {
    "id": "31617564",
    "headline": "Analytics / BI Engineer till Synsam",
    "employer": "Synsam Group Sweden AB",
@@ -818,6 +850,22 @@
    "summary": "**Rollen:** Data analyst i Nordnets Data & Insights, inbäddad i produktteam. Du gör statistiska analyser av kund- och finansdata, designar experiment och presenterar insikter.\n**Krav:** SQL, Python, R och dbt, erfarenhet av A/B-testning, examen i ekonomi/data/statistik/matematik. Man tror att du har 3+ års erfarenhet som data analyst.\n**Bra att veta:** Hybrid, Stockholm. Annonsen ligger ute till 3 april 2027."
   },
   {
+   "id": "31601391",
+   "headline": "Erfaren datakonsult till expansivt techkonsultbolag!",
+   "employer": "Academic Work Sweden AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-04-13",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31601391",
+   "published": "2026-10-15",
+   "score": 4,
+   "reason": "Datakonsult med statistiska modeller/ML men kräver 3+ års erfarenhet och teknisk utbildning; konsultroll i Stockholm, start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
+   "summary": null
+  },
+  {
    "id": "31636563",
    "headline": "Decision Analyst",
    "employer": "Instabee Group AB",
@@ -844,6 +892,22 @@
    "published": "2026-10-23",
    "score": 4,
    "reason": "Konsumentanalys på Instabee, mer affärsinriktat. Startdatum anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31672778",
+   "headline": "Digital Affärsutvecklare & RPA-tränare",
+   "employer": "Rekryteringsgruppen i Stockholm AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-01",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31672778",
+   "published": "2026-11-02",
+   "score": 4,
+   "reason": "Power BI/dataanalys blandat med RPA-utbildning och affärsutveckling; inte statistisk modellering. Stockholm, start ej angiven.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
