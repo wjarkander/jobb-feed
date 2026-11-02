@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T07:11:21",
+ "updated": "2026-11-02T10:51:19",
  "jobs": [
   {
    "id": "31552681",
@@ -82,6 +82,22 @@
    "summary": "**Rollen:** Scientist i Olinks R&D-team (Platform Solutions). Du analyserar stora datamängder, skriver och anpassar kod i R, skapar visualiseringar, automatiserar arbetsflöden och samarbetar med laboratoriekollegor.\n**Krav:** Starkt intresse och kompetens i R och dataanalys, gärna SQL. Laboratorieerfarenhet är värdefullt men inte huvudsaken.\n**Bra att veta:** Uppsala, team om fem. Konsultuppdrag via Academic Work. Annonsen ligger ute till 18 april 2027."
   },
   {
+   "id": "31635960",
+   "headline": "Analytics Engineer",
+   "employer": "Acne Studios AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-03",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31635960",
+   "published": "2026-10-23",
+   "score": 6,
+   "reason": "Analytics Engineer hos Acne Studios i Stockholm: datamodellering, SQL och Power BI/Databricks; ligger nära data men är mer dataingenjörskap än statistik. Inget explicit erfarenhetskrav i texten, start ej angiven (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Analytics Engineer på Acne Studios huvudkontor; bygger datamodeller (stjärnschema) och pipelines i Databricks (PySpark/SQL) för Power BI.\n**Krav:** Datamodellering, SQL, PySpark, flytande engelska; tydlig kommunikatör mot verksamheten.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven, sista ansökningsdag 2026-11-03."
+  },
+  {
    "id": "31655552",
    "headline": "Statistiker",
    "employer": "Uppsala Universitet",
@@ -160,6 +176,38 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** ABB Discovery Graduate Program: 18 månader med tre rotationer om sex månader, fast anställning från dag ett.\n**Krav:** Master inom teknik/ingenjör avslutad före start, högst två års yrkeserfarenhet, EU/EES-medborgare eller uppehållstillstånd.\n**Bra att veta:** Västerås, start september 2027, sista ansökan 2026-11-02. Teknikinriktad, inte statistik."
+  },
+  {
+   "id": "31594335",
+   "headline": "Utredare till UKÄ – inriktning statistik",
+   "employer": "Universitetskanslersämbetet",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-03",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31594335",
+   "published": "2026-10-14",
+   "score": 5,
+   "reason": "Utredare med statistikinriktning på UKÄ i Stockholm, tydligt statistik/R, men kräver 'några års erfarenhet av utredande analysarbete' (Williams ca 6 mån) vilket ger tak 5. Start ej angiven, sista ansökan 2026-11-03.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Utredare med statistikinriktning på UKÄ; eget ansvar för ett statistikområde inom högskolan, analys av registerdata och officiell statistik.\n**Krav:** Akademisk examen, några års erfarenhet av utredande analysarbete, vana vid R eller Stata, svenska och engelska.\n**Meriterande:** Registerdata, officiell statistik, forskarutbildning.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven, sista ansökningsdag 2026-11-03."
+  },
+  {
+   "id": "31618871",
+   "headline": "Price Management Analyst",
+   "employer": "Alfa Laval Technologies AB",
+   "city": "Huddinge",
+   "scope": "Heltid",
+   "deadline": "2026-11-03",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31618871",
+   "published": "2026-10-20",
+   "score": 5,
+   "reason": "Price Management Analyst hos Alfa Laval i Huddinge: prissättning, Excel och dataanalys, inget erfarenhetskrav angivet; mer affärsanalys än statistik. Start ej angiven (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Price Management Analyst på Alfa Laval; underhåller globala kostnads- och prismodeller, analyserar lönsamhet och marknad.\n**Krav:** Relevant universitetsexamen (pricing, business analysis, finans), Excel och dataanalysverktyg, engelska.\n**Meriterande:** Kunskap om ERP-/prissystem.\n**Bra att veta:** Huddinge, heltid, tillsvidare, start ej angiven, sista ansökningsdag 2026-11-03 (sista ansökan nämns som 8 nov i texten)."
   },
   {
    "id": "31646719",
@@ -288,6 +336,38 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Senior AI Engineer inom personalisering och rekommendationssystem (beteendemodellering, feature pipelines, bandit-/RL-metoder) på ett tidigt techbolag.\n**Krav:** MSc i ML, datavetenskap, statistik eller liknande kvantitativt ämne; produktionsnära ML-arbete.\n**Meriterande:** PhD; 2–5 års erfarenhet (nyexaminerade kan bedömas jämbördigt).\n**Bra att veta:** Stockholm, heltid, start ej angiven, sista ansökan 2026-12-31."
+  },
+  {
+   "id": "31632250",
+   "headline": "Avtalscontroller",
+   "employer": "Botkyrka kommun",
+   "city": "Tumba",
+   "scope": "Heltid",
+   "deadline": "2026-11-05",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31632250",
+   "published": "2026-10-22",
+   "score": 4,
+   "reason": "Avtalscontroller i Botkyrka med spendanalys och statistik inom inköp; mer inköp/uppföljning än statistik. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31564331",
+   "headline": "Data Engineer - Bygg framtidens datadrivna kommun",
+   "employer": "Järfälla kommun",
+   "city": "JÄRFÄLLA",
+   "scope": "Heltid",
+   "deadline": "2026-11-06",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31564331",
+   "published": "2026-10-07",
+   "score": 4,
+   "reason": "Data engineer i Järfälla kommun: SQL, dataflöden och Power BI; kräver systemvetenskap/datateknik, ingen explicit erfarenhetsnivå. Mer dataingenjör än statistik. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
   },
   {
    "id": "31646084",
