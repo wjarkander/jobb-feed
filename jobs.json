@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T17:39:51",
+ "updated": "2026-11-02T07:11:21",
  "jobs": [
   {
    "id": "31552681",
@@ -50,6 +50,22 @@
    "summary": "**Rollen:** Ettårigt graduate-program som business analyst i Bolidens kommersiella enhet i Stockholm. Du analyserar affärscase och processer, tar fram rekommendationer och stödjer försäljning, inköp och planering.\n**Krav:** Kandidat- eller masterexamen inom business, economics, industrial engineering, analytics eller finance. Körkort, flytande engelska. Ansökan på engelska.\n**Bra att veta:** Fast anställning från dag ett, individuellt utvecklingsprogram och nätverk. Start september 2027. Sista dag 17 nov 2026."
   },
   {
+   "id": "31652302",
+   "headline": "Data Scientist – Machine Learning",
+   "employer": "Agile Resources AB",
+   "city": "Södertälje",
+   "scope": "Heltid",
+   "deadline": "2026-11-26",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31652302",
+   "published": "2026-10-27",
+   "score": 7,
+   "reason": "Data scientist (statistik, ML, optimering) i Södertälje, utbildning i statistik uppfyller kravet. Inget årskrav anges men Python-mjukvaruutveckling och AWS/Snowflake efterfrågas. Starttiden anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Data scientist som utvecklar och driftsätter modeller för maskininlärning, deep learning och optimering inom prissättning, garantiärenden och kostnadsanalys.\n**Krav:** Utbildning inom data, matematik, statistik, fysik eller annat kvantitativt område; mycket goda Python-kunskaper och erfarenhet av mjukvaruutveckling; erfarenhet av ML-/statistiska modeller; Git; engelska.\n**Meriterande:** PyTorch/TensorFlow, RAG, AWS Bedrock, Streamlit; svenska.\n**Bra att veta:** Södertälje, heltid, hybrid (kontor 3 dagar/vecka). Start ej angiven. Sista ansökningsdag 2026-11-26."
+  },
+  {
    "id": "31622304",
    "headline": "Scientist inom dataanalys och programmering till Olink",
    "employer": "Academic Work Sweden AB",
@@ -64,22 +80,6 @@
    "extent": "100%",
    "duration": "6 månader eller längre",
    "summary": "**Rollen:** Scientist i Olinks R&D-team (Platform Solutions). Du analyserar stora datamängder, skriver och anpassar kod i R, skapar visualiseringar, automatiserar arbetsflöden och samarbetar med laboratoriekollegor.\n**Krav:** Starkt intresse och kompetens i R och dataanalys, gärna SQL. Laboratorieerfarenhet är värdefullt men inte huvudsaken.\n**Bra att veta:** Uppsala, team om fem. Konsultuppdrag via Academic Work. Annonsen ligger ute till 18 april 2027."
-  },
-  {
-   "id": "31576808",
-   "headline": "Dataanalytiker",
-   "employer": "Riksrevisionen",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-01",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31576808",
-   "published": "2026-10-09",
-   "score": 6,
-   "reason": "Dataanalytiker på Riksrevisionen med R/Python/Stata och AI. Krav på relevant utbildning (t.ex. nationalekonomi) och erfarenhet av samhällsvetenskapliga frågor. Startdatum anges inte; sista dag idag.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Dataanalytiker i funktionen för teknik, innovation och data. Du utvecklar och genomför avancerade dataanalyser med både statistiska och AI-baserade metoder och driver införandet av nya metoder och verktyg.\n**Krav:** Relevant akademisk utbildning (t.ex. nationalekonomi, civilingenjör), erfarenhet av samhällsvetenskapliga frågor, goda kodkunskaper i Stata, R eller Python, kvantitativ analys, mycket goda svenska.\n**Bra att veta:** 2 platser, Stockholm. Sista dag 1 nov 2026."
   },
   {
    "id": "31655552",
@@ -98,6 +98,22 @@
    "summary": "**Rollen:** Statistiker vid CDHU, Uppsala universitet. Du ger statistiskt metodstöd till forskare: studiedesign, styrkeberäkningar, analyser och tolkning av resultat, samt kunskapsspridning via seminarier.\n**Krav:** Masterexamen i statistik/data science, dokumenterad erfarenhet av statistisk konsultation, goda kunskaper i R eller Python, god engelska.\n**Bra att veta:** Heltid, tillsvidare (provanställning 6 mån kan tillämpas), tillträde 2027-01-01 eller enligt överenskommelse. Sista dag 16 nov 2026."
   },
   {
+   "id": "31644663",
+   "headline": "ANALYTIKER VID MUST",
+   "employer": "Försvarsmakten",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-16",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31644663",
+   "published": "2026-10-26",
+   "score": 6,
+   "reason": "Analytiker på MUST med strukturerad dataanalys av stora datamängder; akademisk utbildning räcker och inget årskrav anges, men säkerhetsprövning krävs. Tillträde enligt överenskommelse.",
+   "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Analytiker vid Must (SÄKA) som analyserar främmande staters säkerhetshotande verksamhet mot Sverige och bearbetar stora datamängder.\n**Krav:** Akademisk (eller militär) utbildning eller lång myndighetserfarenhet; erfarenhet av strukturerad analys och mönster i stora datamängder; svenska och engelska; högt säkerhetsmedvetande.\n**Meriterande:** Databaser, länkanalysverktyg (i2, Maltego, Palantir), språk (ryska, kinesiska, persiska, arabiska), underrättelsearbete.\n**Bra att veta:** Stockholm, tillsvidare med 6 mån provanställning. Tillträde enligt överenskommelse. Sista ansökningsdag 2026-11-16."
+  },
+  {
    "id": "31626673",
    "headline": "Analytiker till snabbväxande försäkringsbolag",
    "employer": "Academic Work Sweden AB",
@@ -112,22 +128,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Analytiker i försäkringsbolag: prissättning, riskbedömning (underwriting) och lönsamhetsanalys utifrån stora datamängder; automatisering och AI-projekt.\n**Krav:** Civilingenjör (t.ex. teknisk matematik) eller master i matematik/ekonomi, stark analytisk förmåga, intresse för SQL/Python/R, svenska och engelska.\n**Meriterande:** Intresse för AI/automatisering, fler språk.\n**Bra att veta:** Centrala Stockholm, hybrid, via Academic Work, löpande urval, start ej angiven, sista ansökan 2027-04-19."
-  },
-  {
-   "id": "31576795",
-   "headline": "Statistiker med intresse för programmering",
-   "employer": "Socialstyrelsen",
-   "city": "STOCKHOLM",
-   "scope": "Heltid",
-   "deadline": "2026-11-01",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31576795",
-   "published": "2026-10-09",
-   "score": 5,
-   "reason": "Statistiker på Socialstyrelsen, bra statistikjobb. Kräver aktuell erfarenhet av registerdata och statistikframställning samt programmering (SAS meriterande). Startdatum anges inte; sista dag idag.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Statistiker som tar fram och kommunicerar statistik från hälsodataregister, i SAS, till regioner, myndigheter, forskare och media. Du bedömer också utlämnande av statistik enligt statistiksekretess.\n**Krav:** Högskoleutbildning där statistik ingår, aktuell erfarenhet av registerdata/stora datamängder, programmering för statistik, tydlig svenska.\n**Meriterande:** SAS eller SQL, intresse för hälsa och samhällsfrågor.\n**Bra att veta:** Två tillsvidareanställningar, provanställning 6 mån, Stockholm (Solna från våren 2027), distans 2 dagar/vecka."
   },
   {
    "id": "31585418",
@@ -242,6 +242,38 @@
    "summary": "**Rollen:** Volvo Group Graduate Program 2027 (15 månader) i Strategic Portfolio Planning, Volvo CE: datadrivet beslutsunderlag och portföljstrategi, samordning med stakeholders.\n**Krav:** Masterexamen och intresse för strategi/transformation; enligt annonsen även rotationer och utbildning.\n**Bra att veta:** Eskilstuna, heltid, start augusti 2027, sista ansökan 2026-11-22. Mer affär/strategi än statistik."
   },
   {
+   "id": "31652177",
+   "headline": "Samhällsintresserad analytiker",
+   "employer": "AcadeMedia Support AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-28",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31652177",
+   "published": "2026-10-27",
+   "score": 5,
+   "reason": "Analytiker (utbildningsdata) i Stockholm; kandidat i statistik räcker, men \"några års erfarenhet\" av analysarbete efterfrågas. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Analytiker i AcadeMedias analys- och kvalitetsfunktion: driver analys- och utredningsuppdrag, leder enkätundersökningar och analyserar stora datamängder om utbildning och lärande.\n**Krav:** Minst kandidatexamen (t.ex. statistik, nationalekonomi, data/IT) och några års erfarenhet av analys-/utredningsarbete; goda kunskaper i dataanalys; svenska och engelska.\n**Meriterande:** Power BI, R, Python; erfarenhet av undersökningar, skola eller offentlig sektor.\n**Bra att veta:** Stockholm, heltid. Start ej angiven. Sista ansökningsdag 2026-11-28."
+  },
+  {
+   "id": "31641894",
+   "headline": "Teknisk underrättelseanalytiker",
+   "employer": "Försvarets Radioanstalt",
+   "city": "Bromma",
+   "scope": "Heltid",
+   "deadline": "2026-11-29",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31641894",
+   "published": "2026-10-26",
+   "score": 5,
+   "reason": "Teknisk underrättelseanalytiker på FRA i Bromma, bearbetning av stora datamängder med Python; IT-examen krävs (statistik meriterande), inget årskrav. Säkerhetsprövning, starttid ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Teknisk underrättelseanalytiker på FRA (signalunderrättelser): bearbetar och analyserar stora informationsmängder, utvecklar analysmetoder och prototyper.\n**Krav:** Akademisk examen inom IT eller närliggande område; goda kunskaper i programmering (t.ex. Python); erfarenhet av eller studier i analys av mängddata; svenska och engelska.\n**Meriterande:** Utbildning i statistik/matematik, grafteoretisk analys, Postgres/ElasticSearch, Linux, språk (arabiska, ryska m.fl.).\n**Bra att veta:** Bromma, heltid. Stark sekretess/säkerhetsprövning. Start ej angiven. Sista ansökningsdag 2026-11-29."
+  },
+  {
    "id": "31665366",
    "headline": "SENIOR AI ENGINEER, PERSONALIZATION",
    "employer": "Q Innovations Sweden AB",
@@ -258,22 +290,6 @@
    "summary": "**Rollen:** Senior AI Engineer inom personalisering och rekommendationssystem (beteendemodellering, feature pipelines, bandit-/RL-metoder) på ett tidigt techbolag.\n**Krav:** MSc i ML, datavetenskap, statistik eller liknande kvantitativt ämne; produktionsnära ML-arbete.\n**Meriterande:** PhD; 2–5 års erfarenhet (nyexaminerade kan bedömas jämbördigt).\n**Bra att veta:** Stockholm, heltid, start ej angiven, sista ansökan 2026-12-31."
   },
   {
-   "id": "31591629",
-   "headline": "Dataanalytiker",
-   "employer": "UTBETALNINGSMYNDIGHETEN",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-01",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31591629",
-   "published": "2026-10-13",
-   "score": 4,
-   "reason": "Dataanalytiker på Utbetalningsmyndigheten, rätt område men kräver minst 2 års arbetslivserfarenhet av SQL och Python. Startdatum anges inte; sista dag idag.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Dataanalytiker som tar fram och förvaltar analyser för att upptäcka felaktiga utbetalningar från välfärdssystemen, presenterar resultat och bidrar till nya datakällor.\n**Krav:** Utbildning i statistik, systemvetenskap eller liknande. Minst 2 års aktuell erfarenhet av SQL mot stora datamängder och 2 år av analys med Python. Samarbete med verksamhet och jurister.\n**Meriterande:** Presentera analyser, riskbaserade urval, agilt arbete.\n**Bra att veta:** Heltid, tillsvidare, Stockholm (Gullmarsplan), säkerhetsprövning kan bli aktuell."
-  },
-  {
    "id": "31646084",
    "headline": "Project Manager | Early Career Program",
    "employer": "Ericsson AB",
@@ -284,6 +300,22 @@
    "published": "2026-10-26",
    "score": 4,
    "reason": "Ericsson early career-program inom supply chain, start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31647339",
+   "headline": "Real Estate Portfolio Project Manager",
+   "employer": "Ericsson AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-09",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31647339",
+   "published": "2026-10-26",
+   "score": 4,
+   "reason": "Ericssons Early Career Program (nyexaminerade eller upp till 5 år), men inledande roll är fastighetsportfölj-/projektledning med rotation mellan sälj, strategi och finans, utan tydlig dataanalys. Starttid anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
@@ -332,6 +364,38 @@
    "published": "2026-10-26",
    "score": 4,
    "reason": "Systemutvecklare med databas/SQL/Python på KI:s bibliotek – utvecklartjänst snarare än analys, ML bara meriterande. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31670473",
+   "headline": "Kreativ analytiker inom området underrättelsemetodik",
+   "employer": "Totalförsvarets Forskningsinstitut, Foi",
+   "city": "Kista",
+   "scope": "Heltid",
+   "deadline": "2026-11-15",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31670473",
+   "published": "2026-11-02",
+   "score": 4,
+   "reason": "Analytiker på FOI (underrättelsemetodik, kvalitativ/kvantitativ analys), men kräver minst 3 års erfarenhet av analys/forskning, magisternivå och projektledning. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31663704",
+   "headline": "Supply Chain Business Analyst - Digital Enablement",
+   "employer": "SAAB Aktiebolag",
+   "city": "Solna",
+   "scope": "Heltid",
+   "deadline": "2026-11-19",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31663704",
+   "published": "2026-10-29",
+   "score": 4,
+   "reason": "Business analyst inom supply chain/BI/AI på Saab, flerårig erfarenhet krävs och rollen är strategisk snarare än statistisk. Starttid anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
@@ -402,6 +466,22 @@
    "summary": null
   },
   {
+   "id": "31653905",
+   "headline": "Digital Business Analyst till Synsam",
+   "employer": "Synsam Group Sweden AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-27",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31653905",
+   "published": "2026-10-28",
+   "score": 4,
+   "reason": "Digital Business Analyst med kvantitativ analys inom e-handel, men efterfrågar 2-4 års erfarenhet och är kommersiellt inriktad. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
    "id": "31667542",
    "headline": "Digital & Management Talent Program 2027",
    "employer": "Combitech Aktiebolag",
@@ -448,6 +528,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Data analyst i Nordnets Data & Insights, inbäddad i produktteam. Du gör statistiska analyser av kund- och finansdata, designar experiment och presenterar insikter.\n**Krav:** SQL, Python, R och dbt, erfarenhet av A/B-testning, examen i ekonomi/data/statistik/matematik. Man tror att du har 3+ års erfarenhet som data analyst.\n**Bra att veta:** Hybrid, Stockholm. Annonsen ligger ute till 3 april 2027."
+  },
+  {
+   "id": "31636563",
+   "headline": "Decision Analyst",
+   "employer": "Instabee Group AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-04-21",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31636563",
+   "published": "2026-10-23",
+   "score": 4,
+   "reason": "Decision Analyst i Stockholm, men kräver minst 4 års erfarenhet i datatung miljö. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
   },
   {
    "id": "31636577",
