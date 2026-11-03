@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T06:07:47",
+ "updated": "2026-11-03T16:17:42",
  "jobs": [
   {
    "id": "31552681",
@@ -256,6 +256,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Analytiker i försäkringsbolag: prissättning, riskbedömning (underwriting) och lönsamhetsanalys utifrån stora datamängder; automatisering och AI-projekt.\n**Krav:** Civilingenjör (t.ex. teknisk matematik) eller master i matematik/ekonomi, stark analytisk förmåga, intresse för SQL/Python/R, svenska och engelska.\n**Meriterande:** Intresse för AI/automatisering, fler språk.\n**Bra att veta:** Centrala Stockholm, hybrid, via Academic Work, löpande urval, start ej angiven, sista ansökan 2027-04-19."
+  },
+  {
+   "id": "31679802",
+   "headline": "Credit Analyst",
+   "employer": "Northmill Bank AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-02",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31679802",
+   "published": "2026-11-03",
+   "score": 6,
+   "reason": "Credit Analyst (kreditpolicy, portföljanalys, SQL/Snowflake) på Northmill i Stockholm; kandidat/master godkänns och inget årskrav anges, men erfarenhet av liknande analytikerroll efterfrågas. Starttid anges ej.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Analysera kreditprestanda och portföljer under hela kreditlivscykeln, ta fram datadrivna förslag till kreditpolicy och lägga fram dem för Credit Committee. Samarbetar med data scientists och data engineers.\n**Krav:** Kandidat- eller masterexamen i relevant område, erfarenhet som credit analyst/data analyst eller liknande, SQL och Snowflake, avancerad Excel, svenska och engelska flytande.\n**Meriterande:** Vana att använda AI-verktyg som Claude/Cursor i analysarbetet.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Starttid anges inte i annonsen. Sista ansökningsdag ej tydligt angiven (2027-05-02 i systemet)."
   },
   {
    "id": "31594335",
@@ -690,6 +706,22 @@
    "summary": null
   },
   {
+   "id": "31677166",
+   "headline": "Data- och informationsanalytiker",
+   "employer": "UTBETALNINGSMYNDIGHETEN",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-15",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31677166",
+   "published": "2026-11-03",
+   "score": 4,
+   "reason": "Data-/informationsanalytiker på Utbetalningsmyndigheten, statistikexamen efterfrågas, men kräver minst 3 års SQL- och analyserfarenhet (tak 5). Starttid anges ej.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
    "id": "31673446",
    "headline": "Supply Chain Graduate Programme 2027",
    "employer": "Arla Foods AB",
@@ -845,6 +877,22 @@
    "score": 4,
    "reason": "AI Engineer-konsultroll (integration/utveckling), mest utveckling; ML endast meriterande. Start 'enligt överenskommelse'.",
    "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31678125",
+   "headline": "Total Rewards Analyst",
+   "employer": "H & M Hennes & Mauritz GBC AB",
+   "city": "STOCKHOLM",
+   "scope": "Heltid",
+   "deadline": "2026-12-03",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31678125",
+   "published": "2026-11-03",
+   "score": 4,
+   "reason": "Total Rewards Analyst (HR-/lönedata) hos H&M; kandidat i statistik godkänns men kräver minst 2 års erfarenhet av data/analys (tak 5). Starttid anges ej.",
+   "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": null
