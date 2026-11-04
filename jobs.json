@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T06:16:24",
+ "updated": "2026-11-04T16:19:40",
  "jobs": [
   {
    "id": "31552681",
@@ -466,6 +466,22 @@
    "summary": "**Rollen:** Utredare/utvecklare i Tierps kommun: ansvarar för kommunens befolkningsstatistik och demografiska analyser, utredningar, uppföljning och intern kontroll.\n**Krav:** Akademisk examen, gärna statistik/nationalekonomi; dokumenterad erfarenhet av att bearbeta data, analysera och skriva utredningar; mycket god svenska.\n**Meriterande:** Erfarenhet av befolkningsstatistik, uppföljning/intern kontroll, politiskt styrda organisationer.\n**Bra att veta:** Tierp (nära Uppsala/Stockholm, delvis distans), heltid, tillsvidare, tillträde 2027-02-01 eller enl. överenskommelse. Sista ansökan 2026-11-22."
   },
   {
+   "id": "31685418",
+   "headline": "Data Analyst & Steward",
+   "employer": "Aktiebolaget Electrolux",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-23",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31685418",
+   "published": "2026-11-04",
+   "score": 5,
+   "reason": "Data Analyst & Steward hos Electrolux, Stockholm: dataanalys, dashboards och data governance, inga explicita erfarenhets- eller utbildningskrav. Mer styrning/metadata än statistik och modellering; start anges inte (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Data Analyst & Steward: ansvar för datakvalitet, mätvärdesdefinitioner, metadata/katalog, dashboards och komplexa analysfrågor samt utbildning i self-service.\n**Krav:** Inga explicita utbildnings-/erfarenhetskrav angivna; analytisk förmåga, vana vid BI och dataprodukter.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Start ej angiven. Sista ansökningsdag 2026-11-23."
+  },
+  {
    "id": "31548431",
    "headline": "Doktorand i Limnologi: Modellering av växtplanktonsuccession i sjöar",
    "employer": "Uppsala Universitet",
@@ -480,6 +496,22 @@
    "extent": "100%",
    "duration": "6 månader eller längre",
    "summary": "**Rollen:** Doktorand vid Uppsala universitet (Ekologi och Genetik, Limnologiprogrammet) som modellerar växtplanktonsuccession i sjöar med processbaserade modeller; fokus på datahantering och modellering samt undervisning.\n**Krav:** Avancerad examen i limnologi/ekologi/miljö m.fl. eller motsvarande, avancerade numeriska metoder (modellering, statistik, dataanalys), programmering i R eller Python, mycket god engelska.\n**Meriterande:** Erfarenhet av sjömodeller/processbaserade modeller.\n**Bra att veta:** Uppsala, heltid, start ej angiven. Sista ansökningsdag 2026-11-25."
+  },
+  {
+   "id": "31684415",
+   "headline": "Dataanalytiker",
+   "employer": "Svenska Kraftnät",
+   "city": "Sundbyberg",
+   "scope": "Heltid",
+   "deadline": "2026-11-25",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31684415",
+   "published": "2026-11-04",
+   "score": 5,
+   "reason": "Dataanalytiker hos Svenska kraftnät (Sundbyberg), Excel/Power BI/SQL, utbildning i statistik godkänns, statistik meriterande. Beskrivs som senior roll med erfarenhetskrav men utan angivet antal år; start ej angiven (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Dataanalytiker med fokus Excel och Power BI: kvalificerade analyser, beslutsstöd, datamodeller och rapporter, dataflöden med utvecklare.\n**Krav:** Högskoleutbildning inom bl.a. statistik/teknik/ekonomi; expertkunskaper i Excel, Power BI, SQL/DAX; erfarenhet av självständig leverans av analyser (senior profil).\n**Meriterande:** Statistik, generativ AI, energibranschen, offentlig verksamhet.\n**Bra att veta:** Sundbyberg, upp till 50 % distans, tillsvidare. Start ej angiven. Sista ansökan 2026-11-25."
   },
   {
    "id": "31652177",
@@ -528,6 +560,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Senior AI Engineer inom personalisering och rekommendationssystem (beteendemodellering, feature pipelines, bandit-/RL-metoder) på ett tidigt techbolag.\n**Krav:** MSc i ML, datavetenskap, statistik eller liknande kvantitativt ämne; produktionsnära ML-arbete.\n**Meriterande:** PhD; 2–5 års erfarenhet (nyexaminerade kan bedömas jämbördigt).\n**Bra att veta:** Stockholm, heltid, start ej angiven, sista ansökan 2026-12-31."
+  },
+  {
+   "id": "31686435",
+   "headline": "Data & AI Engineer to a Fast-Growing Scandinavian Brand!",
+   "employer": "Academic Work Sweden AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-03",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31686435",
+   "published": "2026-11-04",
+   "score": 5,
+   "reason": "Data & AI Engineer (BigQuery/Dataform, Python) i Stockholm, öppen för personer tidigt i karriären (upp till ca 2 års erfarenhet), BSc/MSc godkänns. Engineering-roll snarare än statistik och start anges inte (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
+   "summary": "**Rollen:** Data & AI Engineer i Tech-teamet hos ett Stockholmsbaserat beauty-varumärke: pipelines och modeller i BigQuery/Dataform, Python/TypeScript-tjänster på GCP, semantiskt lager och AI-assistenter.\n**Krav:** BSc/MSc i datavetenskap/IS eller likvärdigt; upp till ca 2 års erfarenhet (praktik/exjobb räknas); solid SQL, Python eller TypeScript; flytande svenska och engelska.\n**Meriterande:** BigQuery, dbt/Dataform, dimensionell modellering, LLM-verktyg.\n**Bra att veta:** Stockholm, heltid. Start ej angiven. Sista ansökan 2027-05-03 (via Academic Work)."
   },
   {
    "id": "31632250",
@@ -816,6 +864,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": null
+  },
+  {
+   "id": "31685784",
+   "headline": "Data scientist",
+   "employer": "Svenska Kraftnät",
+   "city": "sundbyberg",
+   "scope": "Heltid",
+   "deadline": "2026-11-25",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31685784",
+   "published": "2026-11-04",
+   "score": 4,
+   "reason": "Data scientist (ML, modellering) hos Svenska kraftnät, utbildning i statistik/data science passar, men kräver minst 3 års erfarenhet av Python/statistik och 1 år data governance, vilket är över Williams ca 6 mån. Start ej angiven; sista ansökan 25 nov.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Data scientist i enheten Anläggningsanalys: utforma data-/BI-/AI-lösningar, utveckla ML-modeller och analysmetoder.\n**Krav:** Utbildning inom data science/matematik/statistik; minst 3 års erfarenhet av Python för dataanalys och 3 år av statistik/modellutvärdering, 1 år data governance.\n**Meriterande:** ML-ramverk (scikit-learn, PyTorch), dataplattformar, statlig/energi-erfarenhet.\n**Bra att veta:** Sundbyberg/Västerås/Sundsvall, upp till 50 % distans, tillsvidare. Start ej angiven. Sista ansökan 2026-11-25."
   },
   {
    "id": "31653905",
