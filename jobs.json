@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T16:17:42",
+ "updated": "2026-11-04T06:16:24",
  "jobs": [
   {
    "id": "31552681",
@@ -146,22 +146,6 @@
    "summary": "**Rollen:** Scientist i Olinks R&D-team (Platform Solutions). Du analyserar stora datamängder, skriver och anpassar kod i R, skapar visualiseringar, automatiserar arbetsflöden och samarbetar med laboratoriekollegor.\n**Krav:** Starkt intresse och kompetens i R och dataanalys, gärna SQL. Laboratorieerfarenhet är värdefullt men inte huvudsaken.\n**Bra att veta:** Uppsala, team om fem. Konsultuppdrag via Academic Work. Annonsen ligger ute till 18 april 2027."
   },
   {
-   "id": "31635960",
-   "headline": "Analytics Engineer",
-   "employer": "Acne Studios AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-03",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31635960",
-   "published": "2026-10-23",
-   "score": 6,
-   "reason": "Analytics Engineer hos Acne Studios i Stockholm: datamodellering, SQL och Power BI/Databricks; ligger nära data men är mer dataingenjörskap än statistik. Inget explicit erfarenhetskrav i texten, start ej angiven (-1).",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Analytics Engineer på Acne Studios huvudkontor; bygger datamodeller (stjärnschema) och pipelines i Databricks (PySpark/SQL) för Power BI.\n**Krav:** Datamodellering, SQL, PySpark, flytande engelska; tydlig kommunikatör mot verksamheten.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven, sista ansökningsdag 2026-11-03."
-  },
-  {
    "id": "31582809",
    "headline": "Analytiker till Protector Försäkring",
    "employer": "MultiMind Holding AB",
@@ -226,6 +210,22 @@
    "summary": "**Rollen:** Analytiker vid Must (SÄKA) som analyserar främmande staters säkerhetshotande verksamhet mot Sverige och bearbetar stora datamängder.\n**Krav:** Akademisk (eller militär) utbildning eller lång myndighetserfarenhet; erfarenhet av strukturerad analys och mönster i stora datamängder; svenska och engelska; högt säkerhetsmedvetande.\n**Meriterande:** Databaser, länkanalysverktyg (i2, Maltego, Palantir), språk (ryska, kinesiska, persiska, arabiska), underrättelsearbete.\n**Bra att veta:** Stockholm, tillsvidare med 6 mån provanställning. Tillträde enligt överenskommelse. Sista ansökningsdag 2026-11-16."
   },
   {
+   "id": "31641926",
+   "headline": "Bearbetare med inriktning på radiokommunikation",
+   "employer": "Försvarets Radioanstalt",
+   "city": "Bromma",
+   "scope": "Heltid",
+   "deadline": "2026-11-22",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31641926",
+   "published": "2026-10-26",
+   "score": 6,
+   "reason": "Analys av stora mängder radio- och datakommunikation på FRA i Bromma; högskoleutbildning krävs och statistik är meriterande, men rollen är mer underrättelsebearbetning än statistik. Säkerhetsklassad, start ej angiven (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Bearbetare på FRA (signalunderrättelser) som bearbetar och analyserar data- och radiokommunikation, drar slutsatser ur stora datamängder och rapporterar skriftligt/muntligt.\n**Krav:** Relevant högskoleutbildning (eller motsvarande erfarenhet), MS Office, svenska och engelska.\n**Meriterande:** Utbildning inom statistik, erfarenhet som statistiker eller av radiokommunikation, ryska.\n**Bra att veta:** Bromma, heltid, säkerhetsklassad tjänst, resor ingår. Start ej angiven. Sista ansökningsdag 2026-11-22."
+  },
+  {
    "id": "31576617",
    "headline": "Data Scientist - Commercial",
    "employer": "Embark Studios AB",
@@ -272,38 +272,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Analysera kreditprestanda och portföljer under hela kreditlivscykeln, ta fram datadrivna förslag till kreditpolicy och lägga fram dem för Credit Committee. Samarbetar med data scientists och data engineers.\n**Krav:** Kandidat- eller masterexamen i relevant område, erfarenhet som credit analyst/data analyst eller liknande, SQL och Snowflake, avancerad Excel, svenska och engelska flytande.\n**Meriterande:** Vana att använda AI-verktyg som Claude/Cursor i analysarbetet.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Starttid anges inte i annonsen. Sista ansökningsdag ej tydligt angiven (2027-05-02 i systemet)."
-  },
-  {
-   "id": "31594335",
-   "headline": "Utredare till UKÄ – inriktning statistik",
-   "employer": "Universitetskanslersämbetet",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-03",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31594335",
-   "published": "2026-10-14",
-   "score": 5,
-   "reason": "Utredare med statistikinriktning på UKÄ i Stockholm, tydligt statistik/R, men kräver 'några års erfarenhet av utredande analysarbete' (Williams ca 6 mån) vilket ger tak 5. Start ej angiven, sista ansökan 2026-11-03.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Utredare med statistikinriktning på UKÄ; eget ansvar för ett statistikområde inom högskolan, analys av registerdata och officiell statistik.\n**Krav:** Akademisk examen, några års erfarenhet av utredande analysarbete, vana vid R eller Stata, svenska och engelska.\n**Meriterande:** Registerdata, officiell statistik, forskarutbildning.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven, sista ansökningsdag 2026-11-03."
-  },
-  {
-   "id": "31618871",
-   "headline": "Price Management Analyst",
-   "employer": "Alfa Laval Technologies AB",
-   "city": "Huddinge",
-   "scope": "Heltid",
-   "deadline": "2026-11-03",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31618871",
-   "published": "2026-10-20",
-   "score": 5,
-   "reason": "Price Management Analyst hos Alfa Laval i Huddinge: prissättning, Excel och dataanalys, inget erfarenhetskrav angivet; mer affärsanalys än statistik. Start ej angiven (-1).",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Price Management Analyst på Alfa Laval; underhåller globala kostnads- och prismodeller, analyserar lönsamhet och marknad.\n**Krav:** Relevant universitetsexamen (pricing, business analysis, finans), Excel och dataanalysverktyg, engelska.\n**Meriterande:** Kunskap om ERP-/prissystem.\n**Bra att veta:** Huddinge, heltid, tillsvidare, start ej angiven, sista ansökningsdag 2026-11-03 (sista ansökan nämns som 8 nov i texten)."
   },
   {
    "id": "31646719",
@@ -496,6 +464,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Utredare/utvecklare i Tierps kommun: ansvarar för kommunens befolkningsstatistik och demografiska analyser, utredningar, uppföljning och intern kontroll.\n**Krav:** Akademisk examen, gärna statistik/nationalekonomi; dokumenterad erfarenhet av att bearbeta data, analysera och skriva utredningar; mycket god svenska.\n**Meriterande:** Erfarenhet av befolkningsstatistik, uppföljning/intern kontroll, politiskt styrda organisationer.\n**Bra att veta:** Tierp (nära Uppsala/Stockholm, delvis distans), heltid, tillsvidare, tillträde 2027-02-01 eller enl. överenskommelse. Sista ansökan 2026-11-22."
+  },
+  {
+   "id": "31548431",
+   "headline": "Doktorand i Limnologi: Modellering av växtplanktonsuccession i sjöar",
+   "employer": "Uppsala Universitet",
+   "city": "Uppsala",
+   "scope": "Heltid",
+   "deadline": "2026-11-25",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31548431",
+   "published": "2026-10-02",
+   "score": 5,
+   "reason": "Doktorandtjänst i Uppsala med fokus på datahantering och dynamisk modellering (R/Python) inom limnologi; ämnet ligger utanför statistik och är en forskarutbildning snarare än heltidsjobb. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
+   "summary": "**Rollen:** Doktorand vid Uppsala universitet (Ekologi och Genetik, Limnologiprogrammet) som modellerar växtplanktonsuccession i sjöar med processbaserade modeller; fokus på datahantering och modellering samt undervisning.\n**Krav:** Avancerad examen i limnologi/ekologi/miljö m.fl. eller motsvarande, avancerade numeriska metoder (modellering, statistik, dataanalys), programmering i R eller Python, mycket god engelska.\n**Meriterande:** Erfarenhet av sjömodeller/processbaserade modeller.\n**Bra att veta:** Uppsala, heltid, start ej angiven. Sista ansökningsdag 2026-11-25."
   },
   {
    "id": "31652177",
