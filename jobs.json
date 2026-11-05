@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T06:17:21",
+ "updated": "2026-11-05T16:20:28",
  "jobs": [
   {
    "id": "31552681",
@@ -288,6 +288,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Analysera kreditprestanda och portföljer under hela kreditlivscykeln, ta fram datadrivna förslag till kreditpolicy och lägga fram dem för Credit Committee. Samarbetar med data scientists och data engineers.\n**Krav:** Kandidat- eller masterexamen i relevant område, erfarenhet som credit analyst/data analyst eller liknande, SQL och Snowflake, avancerad Excel, svenska och engelska flytande.\n**Meriterande:** Vana att använda AI-verktyg som Claude/Cursor i analysarbetet.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Starttid anges inte i annonsen. Sista ansökningsdag ej tydligt angiven (2027-05-02 i systemet)."
+  },
+  {
+   "id": "31692002",
+   "headline": "Operations Analyst",
+   "employer": "Instabee Group AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-04",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31692002",
+   "published": "2026-11-05",
+   "score": 6,
+   "reason": "Operations Analyst i Stockholm med SQL, Excel och nätverksanalys; inga krav på flera års erfarenhet, men logistik snarare än statistik och start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Operations Analyst i Group Operations (First & Middle Mile). Analysera och optimera transportnätverket, bygga datalandskap och dashboards.\n**Krav:** Analytisk och datadriven, SQL och Excel/Google Sheets, god kommunikation, intresse för logistik. Ingen längre erfarenhet angiven.\n**Meriterande:** Tableau.\n**Bra att veta:** Stockholm, heltid, hybrid. Start ej angiven. Sista ansökningsdag 2027-05-04."
   },
   {
    "id": "31646719",
@@ -1068,6 +1084,22 @@
    "published": "2026-11-02",
    "score": 4,
    "reason": "Power BI/dataanalys blandat med RPA-utbildning och affärsutveckling; inte statistisk modellering. Stockholm, start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31688236",
+   "headline": "Analytics/ML Engineer  - Data Team",
+   "employer": "Aira Group AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-04",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31688236",
+   "published": "2026-11-05",
+   "score": 4,
+   "reason": "Analytics/ML-engineer med SQL/dbt, statistik och ML i Stockholm, passar området men kräver 3+ års erfarenhet; startdatum ej angivet.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
