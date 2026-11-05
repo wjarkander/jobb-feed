@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T16:19:40",
+ "updated": "2026-11-05T06:17:21",
  "jobs": [
   {
    "id": "31552681",
@@ -208,6 +208,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Analytiker vid Must (SÄKA) som analyserar främmande staters säkerhetshotande verksamhet mot Sverige och bearbetar stora datamängder.\n**Krav:** Akademisk (eller militär) utbildning eller lång myndighetserfarenhet; erfarenhet av strukturerad analys och mönster i stora datamängder; svenska och engelska; högt säkerhetsmedvetande.\n**Meriterande:** Databaser, länkanalysverktyg (i2, Maltego, Palantir), språk (ryska, kinesiska, persiska, arabiska), underrättelsearbete.\n**Bra att veta:** Stockholm, tillsvidare med 6 mån provanställning. Tillträde enligt överenskommelse. Sista ansökningsdag 2026-11-16."
+  },
+  {
+   "id": "31682591",
+   "headline": "Operations Analysis Engineer",
+   "employer": "Senior Material (Europe) AB",
+   "city": "Eskilstuna",
+   "scope": "Heltid",
+   "deadline": "2026-11-16",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31682591",
+   "published": "2026-11-04",
+   "score": 6,
+   "reason": "Operations-analys (KPI:er, dashboards, kostnads-/kapacitetsanalys) i Eskilstuna; kräver kandidat inom bl.a. statistik och viss erfarenhet av analysroll, SQL/Power BI meriterande. Starttid anges inte (-1), pendling från Uppsala är lång; mer produktionsdrift än statistik.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Analysera produktionens KPI:er (output, kapacitetsutnyttjande, yield, stillestånd), bygga dashboards/rapporter och stödja kapacitets- och kostnadsanalys på batterifilmstillverkaren Senior Material.\n**Krav:** Kandidat inom industriell ekonomi, business analytics, statistik, finans el. liknande; tidigare erfarenhet av analysroll (gärna tillverkning); Excel, ERP/BI-verktyg; god engelska.\n**Meriterande:** SQL, Power BI, rapportautomation.\n**Bra att veta:** Eskilstuna, heltid, tillsvidare. Start ej angiven. Sista ansökningsdag 2026-11-16."
   },
   {
    "id": "31641926",
@@ -943,6 +959,22 @@
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31687071",
+   "headline": "Doktorand inom inom maskininlärning för strömningsmekanik",
+   "employer": "Kungliga Tekniska Högskolan",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-07",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31687071",
+   "published": "2026-11-05",
+   "score": 4,
+   "reason": "Doktorandtjänst i probabilistisk ML/Bayesiansk inferens vid KTH; ämnesmässigt nära Williams statistikprofil men är forskarutbildning, inte jobb, och kräver gärna strömningsmekanik. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
    "summary": null
   },
   {
