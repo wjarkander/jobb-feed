@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T06:17:52",
+ "updated": "2026-11-06T16:17:49",
  "jobs": [
   {
    "id": "31552681",
@@ -128,6 +128,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Data scientist som utvecklar och driftsätter modeller för maskininlärning, deep learning och optimering inom prissättning, garantiärenden och kostnadsanalys.\n**Krav:** Utbildning inom data, matematik, statistik, fysik eller annat kvantitativt område; mycket goda Python-kunskaper och erfarenhet av mjukvaruutveckling; erfarenhet av ML-/statistiska modeller; Git; engelska.\n**Meriterande:** PyTorch/TensorFlow, RAG, AWS Bedrock, Streamlit; svenska.\n**Bra att veta:** Södertälje, heltid, hybrid (kontor 3 dagar/vecka). Start ej angiven. Sista ansökningsdag 2026-11-26."
+  },
+  {
+   "id": "31696102",
+   "headline": "Kvantitativ utredare/analytiker med fokus på statlig omprövning",
+   "employer": "Statskontoret",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-29",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31696102",
+   "published": "2026-11-06",
+   "score": 7,
+   "reason": "Kvantitativ analytiker på Statskontoret; statistikexamen efterfrågas uttryckligen, Python/R, NLP. Kräver erfarenhet av utredningsarbete i offentlig verksamhet (inga år angivna). Tillträde enl. överenskommelse.",
+   "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Kvantitativ utredare/analytiker på Statskontoret (avd. Effektiv förvaltning). Analysera mönster i stora datamängder, tillämpa kvantitativa metoder, NLP och AI-verktyg i omprövande analyser till regeringen.\n**Krav:** Akademisk examen med kvantitativ inriktning (t.ex. statistik, matematik); erfarenhet av kvalificerat utrednings-/analysarbete inom offentlig verksamhet; mycket goda kunskaper i statistik/kvantitativ metod; programmering i Python eller R; erfarenhet av AI-verktyg.\n**Bra att veta:** Stockholm, tillsvidare med 6 mån provanställning. Tillträde enligt överenskommelse. Sista ansökningsdag 2026-11-29."
   },
   {
    "id": "31622304",
@@ -450,6 +466,22 @@
    "summary": "**Rollen:** Examensarbete på masternivå hos SCB: analys av data om FoU, innovation och offentligt stöd till företag, ofta med SCB:s mikrodata. Resultat redovisas i rapport och presentation.\n**Krav:** Pågående master i statistik, nationalekonomi eller liknande, minst 30 hp statistik, goda kunskaper i SAS, R, Python eller STATA, svenska och engelska.\n**Meriterande:** Erfarenhet av statistiskt eller vetenskapligt skrivande.\n**Bra att veta:** Solna, 3-6 månader, deltid, 1 plats (ensam eller i par). Det är ett examensarbete, inte en anställning. Sista ansökningsdag 2026-11-19. Starttid anges ej."
   },
   {
+   "id": "31698103",
+   "headline": "Senior statistiker",
+   "employer": "Statens Skolverk",
+   "city": "Solna",
+   "scope": "Heltid",
+   "deadline": "2026-11-19",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31698103",
+   "published": "2026-11-06",
+   "score": 5,
+   "reason": "Statistiker på Skolverket (officiell statistik), utbildningen passar perfekt men kräver aktuell flerårig erfarenhet som statistiker och är senior, därav tak 5. Starttid ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Senior statistiker på Skolverkets analysavdelning (förskole- och grundskolestatistik). Producera, publicera och utveckla officiell statistik samt planera utvecklingsarbete.\n**Krav:** Högskoleexamen med inriktning statistik eller relevant; aktuell flerårig arbetslivserfarenhet som statistiker.\n**Bra att veta:** Solna, tillsvidare, heltid. Starttid anges inte. Sista ansökningsdag 2026-11-19."
+  },
+  {
    "id": "31617564",
    "headline": "Analytics / BI Engineer till Synsam",
    "employer": "Synsam Group Sweden AB",
@@ -592,6 +624,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Senior AI Engineer inom personalisering och rekommendationssystem (beteendemodellering, feature pipelines, bandit-/RL-metoder) på ett tidigt techbolag.\n**Krav:** MSc i ML, datavetenskap, statistik eller liknande kvantitativt ämne; produktionsnära ML-arbete.\n**Meriterande:** PhD; 2–5 års erfarenhet (nyexaminerade kan bedömas jämbördigt).\n**Bra att veta:** Stockholm, heltid, start ej angiven, sista ansökan 2026-12-31."
+  },
+  {
+   "id": "31696898",
+   "headline": "Machine Learning Engineer",
+   "employer": "Safemind AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-31",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31696898",
+   "published": "2026-11-06",
+   "score": 5,
+   "reason": "ML Engineer på hälsodata (risk för sjukskrivning); \"öppen för några års erfarenhet\", mer ML-ingenjör/MLOps. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Machine Learning Engineer i datateamet hos MedHelp Care/Safemind. Ansvar för modellen Larix (risk för långtidssjukskrivning): omträning, drift och övervakning, samt analysprodukter.\n**Krav:** Några års erfarenhet (de är öppna för personlighet framför år), Python/SQL, orkestrering som Airflow/Prefect/Dagster, förmåga att förklara siffror för icke-tekniker.\n**Meriterande:** LLM-utvärdering, känslig persondata, hälsa/försäkring.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Starttid anges inte. Sista ansökningsdag 2026-12-31."
   },
   {
    "id": "31686435",
@@ -764,6 +812,38 @@
    "published": "2026-11-03",
    "score": 4,
    "reason": "Data-/informationsanalytiker på Utbetalningsmyndigheten, statistikexamen efterfrågas, men kräver minst 3 års SQL- och analyserfarenhet (tak 5). Starttid anges ej.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31694366",
+   "headline": "Data Scientist",
+   "employer": "A-Talent Tech Management Sweden AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-15",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31694366",
+   "published": "2026-11-06",
+   "score": 4,
+   "reason": "ML/prognosroll inom energi, men kräver minst 2 års erfarenhet som Data Scientist och produktionssättning (Docker/K8s). Starttid anges inte (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31696218",
+   "headline": "DATA SCIENTIST",
+   "employer": "Scandinavian Airlines System Denmark -Norway-Swe",
+   "city": "Solna",
+   "scope": "Heltid",
+   "deadline": "2026-11-16",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31696218",
+   "published": "2026-11-06",
+   "score": 4,
+   "reason": "Data Scientist inom intäktsoptimering, passar innehållsmässigt men kräver mer än 3 års erfarenhet; starttid ej angiven.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
@@ -978,6 +1058,22 @@
    "summary": null
   },
   {
+   "id": "31698987",
+   "headline": "Machine Learning Engineer",
+   "employer": "Sellhelp AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-06",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31698987",
+   "published": "2026-11-06",
+   "score": 4,
+   "reason": "ML Engineer på Sellpy; kräver minst 2 års ML-erfarenhet och CS-bakgrund, mer ingenjör. Start enl. överenskommelse.",
+   "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
    "id": "31687071",
    "headline": "Doktorand inom inom maskininlärning för strömningsmekanik",
    "employer": "Kungliga Tekniska Högskolan",
@@ -1004,6 +1100,22 @@
    "published": "2026-11-02",
    "score": 4,
    "reason": "Entry level verification developer för nyexaminerade (data science godkänd examen), men testning/verifiering av radioprodukter snarare än statistik. Starttid ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31695076",
+   "headline": "Seniora dataanalytiker sökes!",
+   "employer": "Chas Visual Management AB",
+   "city": "Nacka",
+   "scope": "Heltid",
+   "deadline": "2026-12-31",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31695076",
+   "published": "2026-11-06",
+   "score": 4,
+   "reason": "Seniora dataanalytiker (konsult); statistikexamen passar men flera års erfarenhet krävs. Start ej angiven.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
