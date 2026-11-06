@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T16:20:28",
+ "updated": "2026-11-06T06:17:52",
  "jobs": [
   {
    "id": "31552681",
@@ -610,22 +610,6 @@
    "summary": "**Rollen:** Data & AI Engineer i Tech-teamet hos ett Stockholmsbaserat beauty-varumärke: pipelines och modeller i BigQuery/Dataform, Python/TypeScript-tjänster på GCP, semantiskt lager och AI-assistenter.\n**Krav:** BSc/MSc i datavetenskap/IS eller likvärdigt; upp till ca 2 års erfarenhet (praktik/exjobb räknas); solid SQL, Python eller TypeScript; flytande svenska och engelska.\n**Meriterande:** BigQuery, dbt/Dataform, dimensionell modellering, LLM-verktyg.\n**Bra att veta:** Stockholm, heltid. Start ej angiven. Sista ansökan 2027-05-03 (via Academic Work)."
   },
   {
-   "id": "31632250",
-   "headline": "Avtalscontroller",
-   "employer": "Botkyrka kommun",
-   "city": "Tumba",
-   "scope": "Heltid",
-   "deadline": "2026-11-05",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31632250",
-   "published": "2026-10-22",
-   "score": 4,
-   "reason": "Avtalscontroller i Botkyrka med spendanalys och statistik inom inköp; mer inköp/uppföljning än statistik. Start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
    "id": "31564331",
    "headline": "Data Engineer - Bygg framtidens datadrivna kommun",
    "employer": "Järfälla kommun",
@@ -944,6 +928,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": null
+  },
+  {
+   "id": "31693754",
+   "headline": "Analytiker inom styrning och produktledning för beslutsstöd i Stockholm",
+   "employer": "Försäkringskassan",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-29",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31693754",
+   "published": "2026-11-06",
+   "score": 4,
+   "reason": "BI-/beslutsstödsroll på Försäkringskassan (produktägare/affärsanalytiker) men kräver flerårig erfarenhet från verksamhetsområdet och är mer krav-/produktledning än statistik. Start enl. överenskommelse.",
+   "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** BI-/beslutsstödsroll (produktägare/affärsanalytiker) som omsätter verksamhetens behov till dataprodukter, BI-lösningar och rapporter.\n**Krav:** Högskoleexamen, flerårig erfarenhet från verksamhetsområdet/verksamhetsutveckling, erfarenhet av krav och behovsanalys.\n**Meriterande:** Produktledning, dataprodukter, BI-utveckling, visualisering/self service.\n**Bra att veta:** Stockholm, tillsvidare heltid, tillträde enl. överenskommelse, distans möjligt, säkerhetsprövning. Sista ansökan 2026-11-29."
   },
   {
    "id": "31599524",
