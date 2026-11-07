@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T16:17:49",
+ "updated": "2026-11-07T06:16:04",
  "jobs": [
   {
    "id": "31552681",
@@ -658,22 +658,6 @@
    "summary": "**Rollen:** Data & AI Engineer i Tech-teamet hos ett Stockholmsbaserat beauty-varumärke: pipelines och modeller i BigQuery/Dataform, Python/TypeScript-tjänster på GCP, semantiskt lager och AI-assistenter.\n**Krav:** BSc/MSc i datavetenskap/IS eller likvärdigt; upp till ca 2 års erfarenhet (praktik/exjobb räknas); solid SQL, Python eller TypeScript; flytande svenska och engelska.\n**Meriterande:** BigQuery, dbt/Dataform, dimensionell modellering, LLM-verktyg.\n**Bra att veta:** Stockholm, heltid. Start ej angiven. Sista ansökan 2027-05-03 (via Academic Work)."
   },
   {
-   "id": "31564331",
-   "headline": "Data Engineer - Bygg framtidens datadrivna kommun",
-   "employer": "Järfälla kommun",
-   "city": "JÄRFÄLLA",
-   "scope": "Heltid",
-   "deadline": "2026-11-06",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31564331",
-   "published": "2026-10-07",
-   "score": 4,
-   "reason": "Data engineer i Järfälla kommun: SQL, dataflöden och Power BI; kräver systemvetenskap/datateknik, ingen explicit erfarenhetsnivå. Mer dataingenjör än statistik. Start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
    "id": "31646084",
    "headline": "Project Manager | Early Career Program",
    "employer": "Ericsson AB",
@@ -1212,6 +1196,22 @@
    "published": "2026-11-05",
    "score": 4,
    "reason": "Analytics/ML-engineer med SQL/dbt, statistik och ML i Stockholm, passar området men kräver 3+ års erfarenhet; startdatum ej angivet.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31699344",
+   "headline": "FP&A Associate",
+   "employer": "Aonic AB (publ)",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-05",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31699344",
+   "published": "2026-11-06",
+   "score": 4,
+   "reason": "Finansanalys/FP&A med prognoser och Excel-modeller, men kräver 2-3 års erfarenhet inom bank/konsult/finansanalys och är mer ekonomi än statistik. Start ej angiven.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
