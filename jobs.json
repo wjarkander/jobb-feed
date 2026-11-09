@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T06:21:27",
+ "updated": "2026-11-09T16:20:16",
  "jobs": [
   {
    "id": "31552681",
@@ -98,6 +98,22 @@
    "summary": "**Rollen:** Strateg/utredare i Region Uppsalas Vårduppdragsenhet: utvecklar prognoser för vårdkonsumtion och vårdbehov, kapacitets- och produktionsplanering samt scenarier för hälso- och sjukvården.\n**Krav:** Akademisk utbildning t.ex. statistik, hälsoekonomi, samhällsvetenskap eller ekonomi; erfarenhet av kvalificerat analys-/utredningsarbete; vana vid verksamhetsdata och statistik; mycket god svenska.\n**Meriterande:** Bakgrund från hälso- och sjukvård.\n**Bra att veta:** Uppsala, tillsvidare, tillträde enligt överenskommelse. Sista ansökan 2026-11-23."
   },
   {
+   "id": "31703620",
+   "headline": "Telecom Data Scientist | Early Career Program",
+   "employer": "Ericsson AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-23",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31703620",
+   "published": "2026-11-09",
+   "score": 7,
+   "reason": "Early Career Program (18 mån) för nyexaminerade, data science/ML/GenAI på Ericsson i Stockholm; MSc i data science/matematik efterfrågas. Kräver viss telekomkunskap och programmering; starttid anges inte (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Telecom Data Scientist i Ericssons Early Career Program (18 mån, tre rotationer) i Stockholm. Du använder data science, ML och generativ AI i Applied Generative AI-teamet för att göra ingenjörsdata användbar för AI, bygga pipelines och utvärdera LLM-/agentlösningar.\n**Krav:** MSc/PhD i data science, AI, matematik, datateknik eller liknande; tillämpad data science/ML (statistik, experiment, modellutvärdering); programmering; engelska. Nyexaminerade eller upp till 5 års erfarenhet.\n**Meriterande:** Kunskap om radionät/telekom, praktisk GenAI (LLM, RAG, agenter).\n**Bra att veta:** Stockholm, heltid, tillsvidare. Starttid ej angiven. Sista ansökningsdag 2026-11-23."
+  },
+  {
    "id": "31652302",
    "headline": "Data Scientist – Machine Learning",
    "employer": "Agile Resources AB",
@@ -144,6 +160,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Junior Data Analyst/BI Analyst inom BI & Digital Tools på Saab: utveckla och förvalta dashboards i Qlik Sense, arbeta med SQL och dokumentera datakällor.\n**Krav:** 1-3 års erfarenhet av dataanalys/BI, högskoleutbildning (t.ex. statistik, data, ekonomi), dashboards i Qlik Sense/Power BI, goda SQL-kunskaper, engelska. Säkerhetsprövning krävs.\n**Meriterande:** ERP/MES/PLM, Microsoft Fabric/Power BI, stora datamängder, data governance.\n**Bra att veta:** Järfälla (ev. Solna 1-2 dagar/vecka), heltid, tillsvidare, start ej angiven, sista ansökningsdag 2026-11-29."
+  },
+  {
+   "id": "31702993",
+   "headline": "Analytiker - inriktning lön och villkor",
+   "employer": "SVERIGES KOMMUNER OCH REGIONER",
+   "city": "STOCKHOLM",
+   "scope": "Heltid",
+   "deadline": "2026-11-30",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31702993",
+   "published": "2026-11-09",
+   "score": 7,
+   "reason": "Analytiker på SKR (Stockholm) som analyserar personal- och lönestatistik med SAS/R; akademisk utbildning i statistik efterfrågas och inget erfarenhetskrav nämns. Tillträde enligt överenskommelse (-1).",
+   "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Analytiker på SKR:s avdelning för arbetsgivarpolitik. Du analyserar personal- och lönestatistik för över 1,3 miljoner anställda i kommuner och regioner som underlag till kollektivavtalsförhandlingar och stöd till medlemmar.\n**Krav:** Akademisk utbildning inom nationalekonomi, samhällsvetenskap, statistik eller liknande; van Excel-användare; van att hantera stora datamängder; svenska i tal och skrift.\n**Meriterande:** SAS, R eller Python (SAS används idag); erfarenhet från arbetsgivar- eller facklig organisation.\n**Bra att veta:** Stockholm (Slussen), hybrid, heltid, tillsvidare. Tillträde enligt överenskommelse. Sista ansökningsdag 2026-11-30."
   },
   {
    "id": "31622304",
@@ -1100,6 +1132,22 @@
    "published": "2026-11-06",
    "score": 4,
    "reason": "Seniora dataanalytiker (konsult); statistikexamen passar men flera års erfarenhet krävs. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31706215",
+   "headline": "BI Engineer",
+   "employer": "Gears of Leo AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-31",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31706215",
+   "published": "2026-11-09",
+   "score": 4,
+   "reason": "BI Engineer på LeoVegas (Stockholm) med krav på 2-5 års erfarenhet av BI/analytics engineering (SQL, dbt, Sigma); engineering-tungt och för hög erfarenhet. Starttid ej angiven.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
