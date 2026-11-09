@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T16:15:35",
+ "updated": "2026-11-09T06:21:27",
  "jobs": [
   {
    "id": "31552681",
@@ -16,22 +16,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Junior/graduate AI-scientist i Nordeas Forward Deployed AI-team. Du lär dig bygga AI-lösningar från idé till produktion, bakom erfarna kollegor, och sitter nära affärsområdena.\n**Krav:** Ca 3 års erfarenhet eller mindre, nyexaminerad eller sista året. Tekniska grundkunskaper och vilja att lära. Hybrid, Stockholm (även Helsingfors, Köpenhamn, Polen).\n**Bra att veta:** Heltid, tillsvidare. Inte en del av Nordeas graduate-program. Sista ansökningsdag 30 dec 2026."
-  },
-  {
-   "id": "31595945",
-   "headline": "Kvantitativ konsult Quantitative Intelligence | Stockholm",
-   "employer": "Ernst & Young Aktiebolag",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-08",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31595945",
-   "published": "2026-10-14",
-   "score": 7,
-   "reason": "Kvantitativ modellering/statistik inom bank och försäkring, kräver master i statistik/matematik (uppfylls) och 1–4 års erfarenhet. Starttid anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Kvantitativ konsult i EY:s Quantitative Intelligence-team: utveckla, analysera och validera kvantitativa modeller inom bank och försäkring, statistiska analyser, AI-risk.\n**Krav:** Master i matematik, statistik, fysik eller liknande, 1–4 års erfarenhet, goda kunskaper i statistik och programmering (Python, SAS, R, SQL), regelverkskunskap bank/försäkring, god svenska och engelska.\n**Meriterande:** Modellvalidering, bank/försäkring/tillsyn, AI-/ESG-risk.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven. Sista ansökan 2026-11-08."
   },
   {
    "id": "31652614",
@@ -144,6 +128,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Kvantitativ utredare/analytiker på Statskontoret (avd. Effektiv förvaltning). Analysera mönster i stora datamängder, tillämpa kvantitativa metoder, NLP och AI-verktyg i omprövande analyser till regeringen.\n**Krav:** Akademisk examen med kvantitativ inriktning (t.ex. statistik, matematik); erfarenhet av kvalificerat utrednings-/analysarbete inom offentlig verksamhet; mycket goda kunskaper i statistik/kvantitativ metod; programmering i Python eller R; erfarenhet av AI-verktyg.\n**Bra att veta:** Stockholm, tillsvidare med 6 mån provanställning. Tillträde enligt överenskommelse. Sista ansökningsdag 2026-11-29."
+  },
+  {
+   "id": "31700972",
+   "headline": "BI Analyst",
+   "employer": "SAAB Aktiebolag",
+   "city": "Järfälla",
+   "scope": "Heltid",
+   "deadline": "2026-11-29",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31700972",
+   "published": "2026-11-08",
+   "score": 7,
+   "reason": "Junior Data Analyst/BI-roll (Qlik Sense, SQL) hos Saab i Järfälla, statistik nämns som utbildning. Kräver 1-3 års erfarenhet (William har ca 6 mån) och starttid anges inte; mer BI än statistik.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Junior Data Analyst/BI Analyst inom BI & Digital Tools på Saab: utveckla och förvalta dashboards i Qlik Sense, arbeta med SQL och dokumentera datakällor.\n**Krav:** 1-3 års erfarenhet av dataanalys/BI, högskoleutbildning (t.ex. statistik, data, ekonomi), dashboards i Qlik Sense/Power BI, goda SQL-kunskaper, engelska. Säkerhetsprövning krävs.\n**Meriterande:** ERP/MES/PLM, Microsoft Fabric/Power BI, stora datamängder, data governance.\n**Bra att veta:** Järfälla (ev. Solna 1-2 dagar/vecka), heltid, tillsvidare, start ej angiven, sista ansökningsdag 2026-11-29."
   },
   {
    "id": "31622304",
