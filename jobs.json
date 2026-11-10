@@ -1,6 +1,22 @@
 {
- "updated": "2026-11-10T06:20:33",
+ "updated": "2026-11-10T16:21:02",
  "jobs": [
+  {
+   "id": "31712502",
+   "headline": "Quantitative Risk Analyst (Credit Risk)",
+   "employer": "Nordea Bank Abp, filial i Sverige",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-24",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31712502",
+   "published": "2026-11-10",
+   "score": 8,
+   "reason": "Kvantitativ kreditriskmodellering (IRB) i Stockholm i Python/SQL; kräver master i kvantitativt ämne inkl. statistik, ingen specifik erfarenhetsnivå (nivå efter erfarenhet). Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Utveckla, underhålla och implementera kreditriskmodeller (IRB, IFRS9) i Nordeas modelleringsteam, bygga verktyg i Python och presentera resultat för intressenter.\n**Krav:** Master eller PhD i kvantitativt ämne (t.ex. statistik, matematik), intresse för eller erfarenhet av data och modellering inom finans, programmering (Python/SQL). Nivå (assistant till senior) sätts efter erfarenhet.\n**Bra att veta:** Stockholm, heltid, tillsvidare, minst 60 % på kontoret. Arbetsspråk engelska. Start ej angiven. Sista ansökningsdag 2026-11-24."
+  },
   {
    "id": "31552681",
    "headline": "Associate Forward Deployed AI Scientist",
@@ -272,6 +288,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Bearbetare på FRA (signalunderrättelser) som bearbetar och analyserar data- och radiokommunikation, drar slutsatser ur stora datamängder och rapporterar skriftligt/muntligt.\n**Krav:** Relevant högskoleutbildning (eller motsvarande erfarenhet), MS Office, svenska och engelska.\n**Meriterande:** Utbildning inom statistik, erfarenhet som statistiker eller av radiokommunikation, ryska.\n**Bra att veta:** Bromma, heltid, säkerhetsklassad tjänst, resor ingår. Start ej angiven. Sista ansökningsdag 2026-11-22."
+  },
+  {
+   "id": "31708664",
+   "headline": "Varuflödesanalytiker / Supply Chain Analyst",
+   "employer": "ICA Sverige AB",
+   "city": "Västerås",
+   "scope": "Heltid",
+   "deadline": "2026-12-04",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31708664",
+   "published": "2026-11-10",
+   "score": 6,
+   "reason": "Analysroll inom varuflöde/supply chain (RELEX) i Västerås/Solna, akademisk utbildning och inget erfarenhetskrav, men mindre statistik/modellering. Tillträde enligt överenskommelse.",
+   "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Varuflödesanalytiker inom ICA Replenishment: genomföra analyser, vidareutveckla systemstödet RELEX och förbättra processer för varuförsörjningen.\n**Krav:** Akademisk utbildning, analytisk och van att strukturera komplexa problem. Inget uttalat erfarenhetskrav.\n**Meriterande:** Supply chain/detaljhandel, replenishmentsystem, särskilt RELEX.\n**Bra att veta:** Västerås eller Solna, heltid, tillsvidare, tillträde enligt överenskommelse. Sista ansökningsdag 2026-12-04."
   },
   {
    "id": "31576617",
@@ -608,6 +640,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Teknisk underrättelseanalytiker på FRA (signalunderrättelser): bearbetar och analyserar stora informationsmängder, utvecklar analysmetoder och prototyper.\n**Krav:** Akademisk examen inom IT eller närliggande område; goda kunskaper i programmering (t.ex. Python); erfarenhet av eller studier i analys av mängddata; svenska och engelska.\n**Meriterande:** Utbildning i statistik/matematik, grafteoretisk analys, Postgres/ElasticSearch, Linux, språk (arabiska, ryska m.fl.).\n**Bra att veta:** Bromma, heltid. Stark sekretess/säkerhetsprövning. Start ej angiven. Sista ansökningsdag 2026-11-29."
+  },
+  {
+   "id": "31708850",
+   "headline": "Senior Data Scientist",
+   "employer": "H & M Hennes & Mauritz GBC AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-10",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31708850",
+   "published": "2026-11-10",
+   "score": 5,
+   "reason": "Datavetenskap/ML med statistik i kärnan och utbildning i statistik passar, men tjänsten är Senior med produktions-MLOps (Vertex AI, CI/CD) som William saknar erfarenhet av. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Senior Data Scientist i H&M:s Markdown Retail-team: bygga och driva ML-modeller och pipelines i produktion (GCP/Vertex AI) för prissänkningsbeslut.\n**Krav:** Kandidat/master i statistik, teknik, datavetenskap eller liknande, stark statistik och ML, Python (LightGBM, scikit-learn), MLOps/CI/CD, SQL/dbt. Seniorroll med produktionsansvar.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Start ej angiven. Ingen relocation. Sista ansökningsdag 2026-12-10."
   },
   {
    "id": "31665366",
@@ -1058,6 +1106,22 @@
    "summary": null
   },
   {
+   "id": "31710080",
+   "headline": "Trainee inom Försvar och M&A – MW Group söker trainees till augusti 2027",
+   "employer": "MW Sverige AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-10",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31710080",
+   "published": "2026-11-10",
+   "score": 4,
+   "reason": "Traineeprogram inom försvar/M&A med start augusti 2027 (bra tid), men kräver master i ekonomi/finans och rollen är värdering/M&A, inte dataanalys.",
+   "start": "Augusti 2027",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
    "id": "31675452",
    "headline": "Entry level: Verification Developer",
    "employer": "Ericsson AB",
@@ -1100,6 +1164,22 @@
    "published": "2026-11-09",
    "score": 4,
    "reason": "BI Engineer på LeoVegas (Stockholm) med krav på 2-5 års erfarenhet av BI/analytics engineering (SQL, dbt, Sigma); engineering-tungt och för hög erfarenhet. Starttid ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31712715",
+   "headline": "Junior Finance Analyst till internationellt bolag i Uppsala!",
+   "employer": "OIO Väst AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-31",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31712715",
+   "published": "2026-11-10",
+   "score": 4,
+   "reason": "Junior finance analyst i Uppsala för nyexaminerade, men ekonomi/bokslut snarare än statistik och uppdrag via konsultbolag. Starttid anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
