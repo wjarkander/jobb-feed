@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T16:20:16",
+ "updated": "2026-11-10T06:20:33",
  "jobs": [
   {
    "id": "31552681",
@@ -16,22 +16,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Junior/graduate AI-scientist i Nordeas Forward Deployed AI-team. Du lär dig bygga AI-lösningar från idé till produktion, bakom erfarna kollegor, och sitter nära affärsområdena.\n**Krav:** Ca 3 års erfarenhet eller mindre, nyexaminerad eller sista året. Tekniska grundkunskaper och vilja att lära. Hybrid, Stockholm (även Helsingfors, Köpenhamn, Polen).\n**Bra att veta:** Heltid, tillsvidare. Inte en del av Nordeas graduate-program. Sista ansökningsdag 30 dec 2026."
-  },
-  {
-   "id": "31652614",
-   "headline": "Professional Analyst",
-   "employer": "Vattenfall AB",
-   "city": "STOCKHOLM",
-   "scope": "Heltid",
-   "deadline": "2026-11-09",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31652614",
-   "published": "2026-10-27",
-   "score": 7,
-   "reason": "Kraftmarknadsanalys och modellering i Python hos Vattenfall, matematik/data science efterfrågas; inget uttryckligt erfarenhetskrav. Starttid anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Analytiker i Vattenfalls Fundamental Analysis-team: bygger och förbättrar prismodeller för elmarknaden, kör simuleringar och levererar marknadsinsikter.\n**Krav:** Förståelse för nordiska energimarknader, starka Pythonkunskaper, kunskap om kvantitativa metoder/optimering/data science, flytande engelska. Examen i ingenjörsvetenskap, matematik eller liknande föredras.\n**Meriterande:** Git, DevOps, Azure, energisystemmodellering (t.ex. EMPS), svenska.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven, tillfälliga resor till Hamburg. Sista ansökan 2026-11-09."
   },
   {
    "id": "31672413",
@@ -354,22 +338,6 @@
    "summary": "**Rollen:** Operations Analyst i Group Operations (First & Middle Mile). Analysera och optimera transportnätverket, bygga datalandskap och dashboards.\n**Krav:** Analytisk och datadriven, SQL och Excel/Google Sheets, god kommunikation, intresse för logistik. Ingen längre erfarenhet angiven.\n**Meriterande:** Tableau.\n**Bra att veta:** Stockholm, heltid, hybrid. Start ej angiven. Sista ansökningsdag 2027-05-04."
   },
   {
-   "id": "31646719",
-   "headline": "Valhandläggare med statistikinriktning sökes till Valmyndigheten",
-   "employer": "Skatteverket",
-   "city": "Solna",
-   "scope": "Heltid",
-   "deadline": "2026-11-09",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31646719",
-   "published": "2026-10-26",
-   "score": 5,
-   "reason": "Statistik- och valhandläggartjänst (SQL, Excel, statistiska modeller) på Valmyndigheten; kräver 'relevant och aktuell erfarenhet' av statistiska beräkningar, tillsvidare, starttid anges inte (-1). Mer handläggning än ren dataanalys.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Valhandläggare på Valmyndigheten (Skatteverket): valgeografi, statistik över röstberättigade, valresultat och mandatfördelning samt sannolikhetsberäkningar.\n**Krav:** Högskoleutbildning ≥180 hp med statistik/matematik, aktuell erfarenhet av statistiska/matematiska modeller, SQL/Excel och visualisering av statistik.\n**Meriterande:** GIS (ArcGIS, QGIS).\n**Bra att veta:** Solna/Sundbyberg, tillsvidare med provanställning, möjlig säkerhetsprövning, start ej angiven, sista ansökan 2026-11-09."
-  },
-  {
    "id": "31652104",
    "headline": "Concepts Researcher: AI in 6G RAN",
    "employer": "Ericsson AB",
@@ -690,35 +658,19 @@
    "summary": "**Rollen:** Data & AI Engineer i Tech-teamet hos ett Stockholmsbaserat beauty-varumärke: pipelines och modeller i BigQuery/Dataform, Python/TypeScript-tjänster på GCP, semantiskt lager och AI-assistenter.\n**Krav:** BSc/MSc i datavetenskap/IS eller likvärdigt; upp till ca 2 års erfarenhet (praktik/exjobb räknas); solid SQL, Python eller TypeScript; flytande svenska och engelska.\n**Meriterande:** BigQuery, dbt/Dataform, dimensionell modellering, LLM-verktyg.\n**Bra att veta:** Stockholm, heltid. Start ej angiven. Sista ansökan 2027-05-03 (via Academic Work)."
   },
   {
-   "id": "31646084",
-   "headline": "Project Manager | Early Career Program",
-   "employer": "Ericsson AB",
+   "id": "lever:spotify:a4651332-6400-40e8-8c22-5491e7a34161",
+   "headline": "Analyst, Royalty Operations",
+   "employer": "Spotify",
    "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-09",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31646084",
-   "published": "2026-10-26",
+   "scope": null,
+   "deadline": "",
+   "url": "https://jobs.lever.co/spotify/a4651332-6400-40e8-8c22-5491e7a34161",
+   "published": "2026-11-09",
    "score": 4,
-   "reason": "Ericsson early career-program inom supply chain, start ej angiven.",
+   "reason": "Analyst i Stockholm men annonstexten saknas, så krav, erfarenhet och start går inte att bedöma. Kolla annonsen manuellt.",
    "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
-   "id": "31647339",
-   "headline": "Real Estate Portfolio Project Manager",
-   "employer": "Ericsson AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-09",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31647339",
-   "published": "2026-10-26",
-   "score": 4,
-   "reason": "Ericssons Early Career Program (nyexaminerade eller upp till 5 år), men inledande roll är fastighetsportfölj-/projektledning med rotation mellan sälj, strategi och finans, utan tydlig dataanalys. Starttid anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
+   "extent": null,
+   "duration": null,
    "summary": null
   },
   {
