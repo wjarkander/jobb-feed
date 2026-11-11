@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T16:21:02",
+ "updated": "2026-11-11T06:22:08",
  "jobs": [
   {
    "id": "31712502",
@@ -368,22 +368,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Operations Analyst i Group Operations (First & Middle Mile). Analysera och optimera transportnätverket, bygga datalandskap och dashboards.\n**Krav:** Analytisk och datadriven, SQL och Excel/Google Sheets, god kommunikation, intresse för logistik. Ingen längre erfarenhet angiven.\n**Meriterande:** Tableau.\n**Bra att veta:** Stockholm, heltid, hybrid. Start ej angiven. Sista ansökningsdag 2027-05-04."
-  },
-  {
-   "id": "31652104",
-   "headline": "Concepts Researcher: AI in 6G RAN",
-   "employer": "Ericsson AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-10",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31652104",
-   "published": "2026-10-27",
-   "score": 5,
-   "reason": "AI/RL-forskning för 6G RAN på Ericsson; PhD eller MSc i EE/ML/Data Science efterfrågas men kräver stor AI-djup, teknisk ledarskap och telekomkunskap. Starttid anges inte (-1).",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Concepts Researcher inom AI i 6G RAN på Ericsson: studier, simuleringar och rekommendationer med RL/ML för radioresurshantering.\n**Krav:** PhD eller MSc i elektroteknik, ML eller Data Science, stark AI-kompetens (RL), Python, intresse för trådlös kommunikation och teknisk ledarskapsförmåga.\n**Meriterande:** Erfarenhet av forskning, simulering eller RAN-lösningar.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven, sista ansökan 2026-11-10."
   },
   {
    "id": "31624031",
@@ -944,6 +928,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": null
+  },
+  {
+   "id": "31713428",
+   "headline": "AI-Native CI/CD Engineer | Early Career Program",
+   "employer": "Ericsson AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-24",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31713428",
+   "published": "2026-11-10",
+   "score": 4,
+   "reason": "Early Career-program (nyexaminerade) men rollen är CI/CD/DevOps-mjukvara, inte statistik/dataanalys; start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** AI-Native CI/CD Engineer i Ericssons Early Career Program (18 mån, tre rotationer); bygger CI/CD, automation och utvecklarverktyg.\n**Krav:** Nyexaminerad eller upp till 5 års erfarenhet; CI/CD (GitLab, Jenkins, Azure DevOps), Python/Bash, moln och containrar.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven, sista ansökningsdag 2026-11-24. Mjukvaru-/DevOps-spår, inte statistik."
   },
   {
    "id": "31667003",
