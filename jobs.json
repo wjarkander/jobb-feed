@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:22:08",
+ "updated": "2026-11-11T16:19:16",
  "jobs": [
   {
    "id": "31712502",
@@ -32,6 +32,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Junior/graduate AI-scientist i Nordeas Forward Deployed AI-team. Du lär dig bygga AI-lösningar från idé till produktion, bakom erfarna kollegor, och sitter nära affärsområdena.\n**Krav:** Ca 3 års erfarenhet eller mindre, nyexaminerad eller sista året. Tekniska grundkunskaper och vilja att lära. Hybrid, Stockholm (även Helsingfors, Köpenhamn, Polen).\n**Bra att veta:** Heltid, tillsvidare. Inte en del av Nordeas graduate-program. Sista ansökningsdag 30 dec 2026."
+  },
+  {
+   "id": "31716496",
+   "headline": "Teknisk dataanalytiker till AI Center",
+   "employer": "REGION UPPSALA",
+   "city": "Uppsala",
+   "scope": "Heltid",
+   "deadline": "2027-01-15",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31716496",
+   "published": "2026-11-11",
+   "score": 8,
+   "reason": "Teknisk dataanalytiker i Uppsala med Python/SQL, utbildning i statistik uttryckligen önskad, inga års-erfarenhetskrav. Start enl. överenskommelse (ej angiven) drar ned ett steg.",
+   "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Teknisk dataanalytiker på Region Uppsalas AI Center: analyserar data, bedömer datakvalitet, gör kontroller reproducerbara och utvecklar plattformskomponenter för datainläsning och omvandling.\n**Krav:** Högskole-/universitetsutbildning i t.ex. statistik, matematik eller dataanalys (eller motsvarande erfarenhet); erfarenhet av att självständigt analysera data och förklara resultat; goda kunskaper i SQL och Python, Git; svenska i tal och skrift.\n**Meriterande:** Dataarbete inom hälso- och sjukvård/offentlig verksamhet, metadata och datakataloger, open source.\n**Bra att veta:** Uppsala, heltid, tillsvidare. Tillträde enligt överenskommelse (starttid ej angiven). Verktyg: Python, SQL, DuckDB, Parquet, Prefect. Sista ansökningsdag 2027-01-15."
   },
   {
    "id": "31672413",
@@ -994,6 +1010,22 @@
    "summary": "**Rollen:** Data scientist i enheten Anläggningsanalys: utforma data-/BI-/AI-lösningar, utveckla ML-modeller och analysmetoder.\n**Krav:** Utbildning inom data science/matematik/statistik; minst 3 års erfarenhet av Python för dataanalys och 3 år av statistik/modellutvärdering, 1 år data governance.\n**Meriterande:** ML-ramverk (scikit-learn, PyTorch), dataplattformar, statlig/energi-erfarenhet.\n**Bra att veta:** Sundbyberg/Västerås/Sundsvall, upp till 50 % distans, tillsvidare. Start ej angiven. Sista ansökan 2026-11-25."
   },
   {
+   "id": "31717221",
+   "headline": "Strategy Manager | Early Career Program",
+   "employer": "Ericsson AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-25",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31717221",
+   "published": "2026-11-11",
+   "score": 4,
+   "reason": "Ericssons Early Career Program (18 mån, nyexaminerade välkomna) men strategi/affärsanalys snarare än statistik – tak 5, start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
+   "summary": null
+  },
+  {
    "id": "31653905",
    "headline": "Digital Business Analyst till Synsam",
    "employer": "Synsam Group Sweden AB",
@@ -1053,6 +1085,22 @@
    "score": 4,
    "reason": "AI Engineer-konsultroll (integration/utveckling), mest utveckling; ML endast meriterande. Start 'enligt överenskommelse'.",
    "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31718160",
+   "headline": "Dataengineer - Livscykelhantering och datakvalitet",
+   "employer": "Socialstyrelsen",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-01",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31718160",
+   "published": "2026-11-11",
+   "score": 4,
+   "reason": "Dataengineer (SAS/SQL, ETL) på Socialstyrelsen; mer datakvalitet/utveckling än statistik, kräver ETL-erfarenhet. Start ej angiven, ingen distans.",
+   "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": null
