@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T06:17:32",
+ "updated": "2026-11-13T16:34:06",
  "jobs": [
   {
    "id": "31712502",
@@ -272,6 +272,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Varuflödesanalytiker inom ICA Replenishment: genomföra analyser, vidareutveckla systemstödet RELEX och förbättra processer för varuförsörjningen.\n**Krav:** Akademisk utbildning, analytisk och van att strukturera komplexa problem. Inget uttalat erfarenhetskrav.\n**Meriterande:** Supply chain/detaljhandel, replenishmentsystem, särskilt RELEX.\n**Bra att veta:** Västerås eller Solna, heltid, tillsvidare, tillträde enligt överenskommelse. Sista ansökningsdag 2026-12-04."
+  },
+  {
+   "id": "31726033",
+   "headline": "Analytics Engineer",
+   "employer": "Länsförsäkringar AB (publ)",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-13",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31726033",
+   "published": "2026-11-13",
+   "score": 6,
+   "reason": "Analytics Engineer (Power BI, SQL, Python, Databricks/Fabric) i Stockholm hos Länsförsäkringar. Ingen specifik erfarenhetsnivå angiven men kräver praktisk erfarenhet; mer BI/engineering än statistik. Starttid anges inte (−1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Analytics Engineer i Affärsenhet Sak; samla in, bearbeta och visualisera data i Databricks och Microsoft Fabric, bygga semantiska modeller och Power BI-rapporter.\n**Krav:** Stark datavisualisering (Power BI), datamodellering och analys, praktisk erfarenhet av SQL och Python, god kommunikation, svenska i tal och skrift. Erfarenhetsnivå anges inte.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Start ej angiven. Löpande urval. Sista ansökningsdag 2026-12-13."
   },
   {
    "id": "31576617",
@@ -656,6 +672,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Machine Learning Engineer i datateamet hos MedHelp Care/Safemind. Ansvar för modellen Larix (risk för långtidssjukskrivning): omträning, drift och övervakning, samt analysprodukter.\n**Krav:** Några års erfarenhet (de är öppna för personlighet framför år), Python/SQL, orkestrering som Airflow/Prefect/Dagster, förmåga att förklara siffror för icke-tekniker.\n**Meriterande:** LLM-utvärdering, känslig persondata, hälsa/försäkring.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Starttid anges inte. Sista ansökningsdag 2026-12-31."
+  },
+  {
+   "id": "31725891",
+   "headline": "Machine Learning Engineer - Stockholm",
+   "employer": "Kraftsam Rekrytering & Bemanning AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-31",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31725891",
+   "published": "2026-11-13",
+   "score": 5,
+   "reason": "ML Engineer i Stockholm (Python, statistik, modellvalidering) men kräver minst 3 års ML-erfarenhet och MLOps – tak 5. Tillträde enligt överenskommelse.",
+   "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Machine Learning Engineer hos konsultbolaget Valcon (via Kraftsam); träna och utvärdera ML-modeller i Python, bygga ML-pipelines, MLOps och generativ AI (RAG) i Azure.\n**Krav:** Minst 3 års erfarenhet av ML, Python/ML-bibliotek, produktionssättning, statistik och modellvalidering, CI/CD, molntjänster (gärna Azure), svenska och engelska.\n**Bra att veta:** Stockholm, heltid, 6 månaders provanställning, tillträde enligt överenskommelse. Sista ansökningsdag 2026-12-31."
   },
   {
    "id": "31686435",
@@ -1122,6 +1154,22 @@
    "summary": null
   },
   {
+   "id": "31730003",
+   "headline": "BI Utvecklare till Stockholms stad",
+   "employer": "Stockholms kommun",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-04",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31730003",
+   "published": "2026-11-13",
+   "score": 4,
+   "reason": "BI-utvecklare (Tableau) som kräver flerårig dokumenterad BI-erfarenhet; mer förvaltning och coachning än statistik. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
    "id": "31698987",
    "headline": "Machine Learning Engineer",
    "employer": "Sellhelp AB",
@@ -1372,6 +1420,22 @@
    "published": "2026-11-12",
    "score": 4,
    "reason": "Kvantitativ produktanalys (experiment, segmentering, statistik) i Stockholm, men kräver 'strong working knowledge' och erfarenhet; UX-inriktad. Nordic Investin är ett rekryteringsbolag med mallade annonser; partner, anställningsform och start anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31729756",
+   "headline": "Data Engineer – AI & Cloud till Knowit i Stockholm",
+   "employer": "Knowit Aktiebolag (publ)",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-12",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31729756",
+   "published": "2026-11-13",
+   "score": 4,
+   "reason": "Erfaren data engineer (Azure, Fabric, Databricks) hos Knowit; mer ingenjör än statistik och 'erfaren' nivå. Starttid anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
