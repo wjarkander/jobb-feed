@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:18:21",
+ "updated": "2026-11-13T06:17:32",
  "jobs": [
   {
    "id": "31712502",
@@ -48,22 +48,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Teknisk dataanalytiker på Region Uppsalas AI Center: analyserar data, bedömer datakvalitet, gör kontroller reproducerbara och utvecklar plattformskomponenter för datainläsning och omvandling.\n**Krav:** Högskole-/universitetsutbildning i t.ex. statistik, matematik eller dataanalys (eller motsvarande erfarenhet); erfarenhet av att självständigt analysera data och förklara resultat; goda kunskaper i SQL och Python, Git; svenska i tal och skrift.\n**Meriterande:** Dataarbete inom hälso- och sjukvård/offentlig verksamhet, metadata och datakataloger, open source.\n**Bra att veta:** Uppsala, heltid, tillsvidare. Tillträde enligt överenskommelse (starttid ej angiven). Verktyg: Python, SQL, DuckDB, Parquet, Prefect. Sista ansökningsdag 2027-01-15."
-  },
-  {
-   "id": "31672413",
-   "headline": "AI Researcher",
-   "employer": "Ericsson AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-12",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31672413",
-   "published": "2026-11-02",
-   "score": 7,
-   "reason": "Tidig karriär-roll inom AI/ML-forskning för en nyexaminerad master; ML och sannolikhetsmodellering matchar Williams kurser, telekomkunskap behövs inte. Mer ML/forskning än klassisk statistik, starttid anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** AI Researcher på Ericsson Research: forskar, designar och utvärderar AI/ML-koncept för framtida radionät (6G), utvecklar algoritmer, modeller och simuleringsramverk.\n**Krav:** MSc i AI, data science, datavetenskap eller liknande (nyexaminerad eller några års erfarenhet), grund i modern AI/probabilistisk modellering, Python och ML-ramverk (PyTorch/JAX/TensorFlow), viss erfarenhet av ML via studier/projekt.\n**Meriterande:** Docker/Kubernetes, intresse för telekom och signalbehandling.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven. Sista ansökan 2026-11-12."
   },
   {
    "id": "31568776",
@@ -208,38 +192,6 @@
    "extent": "100%",
    "duration": "6 månader eller längre",
    "summary": "**Rollen:** Scientist i Olinks R&D-team (Platform Solutions). Du analyserar stora datamängder, skriver och anpassar kod i R, skapar visualiseringar, automatiserar arbetsflöden och samarbetar med laboratoriekollegor.\n**Krav:** Starkt intresse och kompetens i R och dataanalys, gärna SQL. Laboratorieerfarenhet är värdefullt men inte huvudsaken.\n**Bra att veta:** Uppsala, team om fem. Konsultuppdrag via Academic Work. Annonsen ligger ute till 18 april 2027."
-  },
-  {
-   "id": "31582809",
-   "headline": "Analytiker till Protector Försäkring",
-   "employer": "MultiMind Holding AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-12",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31582809",
-   "published": "2026-10-12",
-   "score": 6,
-   "reason": "Analytiker i försäkringsbolag med matematisk/analytisk inriktning (SQL, R, Python); önskar civilingenjör men statistikmaster kan passa. Inget uttryckligt erfarenhetskrav, start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Analytiker på analysavdelningen hos Protector Försäkring: analyserar och stödjer tillväxt och affär i det nordiska försäkringsbolaget.\n**Krav:** Stark analytisk och matematisk förmåga, gärna civilingenjörsexamen (teknisk fysik/matematik) eller liknande med tung matematik, goda studieresultat, SQL/R/Python/Matlab, Excel, svenska och engelska.\n**Meriterande:** Andra nordiska/europeiska språk, t.ex. tyska eller italienska.\n**Bra att veta:** Centrala Stockholm, heltid, rekrytering via MultiMind, start ej angiven. Sista ansökan 2026-11-12."
-  },
-  {
-   "id": "31589093",
-   "headline": "Analyst",
-   "employer": "Klarna Bank AB",
-   "city": "STOCKHOLM",
-   "scope": "Heltid",
-   "deadline": "2026-11-12",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31589093",
-   "published": "2026-10-13",
-   "score": 6,
-   "reason": "Analytiker på Klarna (SQL, dashboards, A/B-tester), kräver 1–3 års analytikererfarenhet; statistikexamen nämns som plus. Starttid anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Analytiker på Klarna: SQL-analyser, dashboards, utreder metrikförändringar och presenterar insikter för produkt-/risk-/affärsteam.\n**Krav:** 1–3 års erfarenhet som analytiker, regelbunden SQL, BI-verktyg (Looker/Tableau/Power BI), tydlig kommunikation, CV på engelska.\n**Meriterande:** Python/R, A/B-tester, AI-verktyg, betalning/bank/e-handel, examen i ekonomi/statistik/teknik/matematik.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven. Sista ansökan 2026-11-12."
   },
   {
    "id": "31655552",
@@ -416,6 +368,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Junior analyst i PwC Deals, Valuation & Analytics: finansiella analyser och värderingsmodeller för transaktioner.\n**Krav:** Riktad mot nyexaminerade, analytisk/finansiell profil; CV, personligt brev och betyg ska bifogas.\n**Meriterande:** Ej angivet.\n**Bra att veta:** Stockholm, heltid, start augusti 2027, Edge graduate-program. Sista ansökan 2026-11-13."
+  },
+  {
+   "id": "31724731",
+   "headline": "Strategic Product Manager, Transport | Early Career Program",
+   "employer": "Ericsson AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-14",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31724731",
+   "published": "2026-11-13",
+   "score": 5,
+   "reason": "Ericssons Early Career Program (produktstrategi, AI/data) för nyexaminerade, men kräver master i business/engineering/economics – generellt traineeprogram utan tydlig statistik; sista ansökan 14 nov. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
+   "summary": "**Rollen:** Strategic Product Manager i Ericssons 18 mån Early Career Program (Innovate-spåret): förbättra arbetsflöden, pilota AI/automation och datadrivna arbetssätt, bidra till portföljstrategi.\n**Krav:** Nyligen avlagd master i business, engineering, economics, technology management eller liknande; analytisk förmåga, kommersiellt tänk, god kommunikation.\n**Meriterande:** Praktik, examensarbete eller tidig erfarenhet inom strategi, produktledning eller digital transformation.\n**Bra att veta:** Stockholm, heltid, rotation i tre steg inkl. internationellt. Start ej angiven. Sista ansökan 2026-11-14 (imorgon)."
   },
   {
    "id": "31602644",
@@ -704,6 +672,22 @@
    "extent": "100%",
    "duration": "6 månader eller längre",
    "summary": "**Rollen:** Data & AI Engineer i Tech-teamet hos ett Stockholmsbaserat beauty-varumärke: pipelines och modeller i BigQuery/Dataform, Python/TypeScript-tjänster på GCP, semantiskt lager och AI-assistenter.\n**Krav:** BSc/MSc i datavetenskap/IS eller likvärdigt; upp till ca 2 års erfarenhet (praktik/exjobb räknas); solid SQL, Python eller TypeScript; flytande svenska och engelska.\n**Meriterande:** BigQuery, dbt/Dataform, dimensionell modellering, LLM-verktyg.\n**Bra att veta:** Stockholm, heltid. Start ej angiven. Sista ansökan 2027-05-03 (via Academic Work)."
+  },
+  {
+   "id": "31724195",
+   "headline": "Junior Business Intelligence Developer",
+   "employer": "Nordic Investin Group Aktiebolag",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-11",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31724195",
+   "published": "2026-11-12",
+   "score": 5,
+   "reason": "Junior BI-developer (Power BI, DAX, SQL) i Stockholm, men kräver 'relevant experience'. Nordic Investin är ett rekryteringsbolag med mallade annonser; partner, anställningsform och start anges inte. Starttid ej angiven (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Junior BI-developer som bygger interaktiv rapportering på styrda datakällor (Power BI, DAX, SQL), med fokus på datavisualisering och kravinsamling.\n**Krav:** Gedigen kunskap i Power BI och DAX, praktisk erfarenhet av SQL och datavisualisering, kommunikation med intressenter, professionell engelska. Erfarenhetsnivån är oklar trots 'junior'.\n**Meriterande:** Erfarenhet från finans-, sälj- och serviceverksamhet; svenska.\n**Bra att veta:** Stockholm, heltid, rekryteringsbolag (Nordic Investin) för okänd partner. Start ej angiven. Sista ansökan 2027-05-11."
   },
   {
    "id": "lever:spotify:a4651332-6400-40e8-8c22-5491e7a34161",
@@ -1356,6 +1340,38 @@
    "published": "2026-11-06",
    "score": 4,
    "reason": "Finansanalys/FP&A med prognoser och Excel-modeller, men kräver 2-3 års erfarenhet inom bank/konsult/finansanalys och är mer ekonomi än statistik. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31724333",
+   "headline": "People Data and Workforce Planning Analyst",
+   "employer": "Nordic Investin Group Aktiebolag",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-11",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31724333",
+   "published": "2026-11-12",
+   "score": 4,
+   "reason": "People analytics/workforce planning i Stockholm, men kräver erfarenhet av scenariomodellering i krävande miljö, ingen nivå angiven. Nordic Investin är ett rekryteringsbolag med mallade annonser; partner, anställningsform och start anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31724441",
+   "headline": "UX Analytics Specialist",
+   "employer": "Nordic Investin Group Aktiebolag",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-11",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31724441",
+   "published": "2026-11-12",
+   "score": 4,
+   "reason": "Kvantitativ produktanalys (experiment, segmentering, statistik) i Stockholm, men kräver 'strong working knowledge' och erfarenhet; UX-inriktad. Nordic Investin är ett rekryteringsbolag med mallade annonser; partner, anställningsform och start anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
