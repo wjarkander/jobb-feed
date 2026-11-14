@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T16:34:06",
+ "updated": "2026-11-14T06:15:12",
  "jobs": [
   {
    "id": "31712502",
@@ -354,38 +354,6 @@
    "summary": "**Rollen:** Operations Analyst i Group Operations (First & Middle Mile). Analysera och optimera transportnätverket, bygga datalandskap och dashboards.\n**Krav:** Analytisk och datadriven, SQL och Excel/Google Sheets, god kommunikation, intresse för logistik. Ingen längre erfarenhet angiven.\n**Meriterande:** Tableau.\n**Bra att veta:** Stockholm, heltid, hybrid. Start ej angiven. Sista ansökningsdag 2027-05-04."
   },
   {
-   "id": "31637493",
-   "headline": "Data scientist inom Kapacitetsmodeller",
-   "employer": "Svenska Kraftnät",
-   "city": "Sundbyberg",
-   "scope": "Heltid",
-   "deadline": "2026-11-13",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31637493",
-   "published": "2026-10-23",
-   "score": 5,
-   "reason": "Rätt roll (prognosmodeller för kraftsystemet), men annonsen efterfrågar civilingenjörs-/masterexamen inom energi/teknik eller motsvarande. Startdatum anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Data scientist i enheten Kapacitetsmodeller. Du analyserar stora datamängder, utvecklar metoder och verktyg för att höja kvaliteten i prognosticerade nätmodeller, och driver förbättringar tillsammans med ett utvecklingsteam.\n**Krav:** Civilingenjörs- eller masterexamen med relevant inriktning (t.ex. energisystem, elkraft, teknisk fysik, datateknik) eller motsvarande kompetens. Analytisk och strukturerad. Stor vikt vid personliga egenskaper.\n**Bra att veta:** Sundbyberg, distans upp till 50 %. Tillsvidare. Sista dag 13 nov 2026."
-  },
-  {
-   "id": "31672626",
-   "headline": "Junior Analysts | Deals and Corporate Finance",
-   "employer": "Öhrlings PricewaterhouseCoopers AB",
-   "city": "STOCKHOLM",
-   "scope": "Heltid",
-   "deadline": "2026-11-13",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31672626",
-   "published": "2026-11-02",
-   "score": 5,
-   "reason": "Junior analyst inom värdering/finansiell modellering på PwC, start augusti 2027 och riktad mot nyexaminerade, men ekonomi/finans snarare än statistik.",
-   "start": "Augusti 2027",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Junior analyst i PwC Deals, Valuation & Analytics: finansiella analyser och värderingsmodeller för transaktioner.\n**Krav:** Riktad mot nyexaminerade, analytisk/finansiell profil; CV, personligt brev och betyg ska bifogas.\n**Meriterande:** Ej angivet.\n**Bra att veta:** Stockholm, heltid, start augusti 2027, Edge graduate-program. Sista ansökan 2026-11-13."
-  },
-  {
    "id": "31724731",
    "headline": "Strategic Product Manager, Transport | Early Career Program",
    "employer": "Ericsson AB",
@@ -735,38 +703,6 @@
    "start": "Ej angiven",
    "extent": null,
    "duration": null,
-   "summary": null
-  },
-  {
-   "id": "31666224",
-   "headline": "Account Manager | Early Career Program",
-   "employer": "Ericsson AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-13",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31666224",
-   "published": "2026-10-30",
-   "score": 4,
-   "reason": "Ericsson early career-program (säljinriktat), start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
-   "id": "31663855",
-   "headline": "Strategic Product Manager, Transport | Early Career Program",
-   "employer": "Ericsson AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-13",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31663855",
-   "published": "2026-10-30",
-   "score": 4,
-   "reason": "Ericsson early career-program, produktledning inom transport; start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "6 månader eller längre",
    "summary": null
   },
   {
