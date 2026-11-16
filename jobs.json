@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T06:16:52",
+ "updated": "2026-11-16T16:20:12",
  "jobs": [
   {
    "id": "31712502",
@@ -674,6 +674,22 @@
    "summary": "**Rollen:** Junior BI-developer som bygger interaktiv rapportering på styrda datakällor (Power BI, DAX, SQL), med fokus på datavisualisering och kravinsamling.\n**Krav:** Gedigen kunskap i Power BI och DAX, praktisk erfarenhet av SQL och datavisualisering, kommunikation med intressenter, professionell engelska. Erfarenhetsnivån är oklar trots 'junior'.\n**Meriterande:** Erfarenhet från finans-, sälj- och serviceverksamhet; svenska.\n**Bra att veta:** Stockholm, heltid, rekryteringsbolag (Nordic Investin) för okänd partner. Start ej angiven. Sista ansökan 2027-05-11."
   },
   {
+   "id": "31735985",
+   "headline": "Data Scientist inom Life Science till Olink",
+   "employer": "Academic Work Sweden AB",
+   "city": "Uppsala",
+   "scope": "Heltid",
+   "deadline": "2027-05-15",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31735985",
+   "published": "2026-11-16",
+   "score": 5,
+   "reason": "Data scientist (statistik, R/Python/SQL) i Uppsala hos Olink via Academic Work, passar kärnan, men kräver 'gedigen erfarenhet' av statistisk analys inom life science och bidrag från start (team med många PhD); 1 års konsultuppdrag, starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
+   "summary": "**Rollen:** Data scientist i teamet Data Science Development hos Olink (via Academic Work): statistisk analys av proteomik/genomik-data, studiedesign och rekommendationer till produktutveckling.\n**Krav:** Gedigen erfarenhet av statistisk analys inom life science, R/Python/SQL, förståelse för biologi; ska kunna bidra med specialistkompetens från start.\n**Bra att veta:** Uppsala (på plats, 2 dagar hemma), konsultuppdrag 1 år med möjlig förlängning, heltid, start ej angiven, sista ansökan 2027-05-15."
+  },
+  {
    "id": "lever:spotify:a4651332-6400-40e8-8c22-5491e7a34161",
    "headline": "Analyst, Royalty Operations",
    "employer": "Spotify",
@@ -781,6 +797,22 @@
    "score": 4,
    "reason": "Affärsutveckling/digital transformation i Flen – inte statistik.",
    "start": "Augusti 2027",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31737435",
+   "headline": "Data Scientist",
+   "employer": "A-Talent Tech Management Sweden AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-11-22",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31737435",
+   "published": "2026-11-16",
+   "score": 4,
+   "reason": "Data scientist/ML i Stockholm (konsult) men kräver minst 2 års erfarenhet som Data Scientist, praktisk ML i arbetslivet samt CI/CD/Kubernetes; starttid anges inte.",
+   "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": null
@@ -1039,6 +1071,22 @@
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "6 månader eller längre",
+   "summary": null
+  },
+  {
+   "id": "31733182",
+   "headline": "System- och statistiksamordnare till Gnesta kommun ",
+   "employer": "Gnesta kommun",
+   "city": "Gnesta",
+   "scope": "Heltid",
+   "deadline": "2026-12-07",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31733182",
+   "published": "2026-11-16",
+   "score": 4,
+   "reason": "System- och statistiksamordnare i Gnesta: statistikhantering och SCB-rapportering ingår men tyngdpunkten är systemförvaltning, upphandling och administration; ingen erfarenhetsnivå angiven, starttid anges inte. Pendling från Uppsala krånglig.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
    "summary": null
   },
   {
