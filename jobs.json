@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T06:15:21",
+ "updated": "2026-11-17T16:18:46",
  "jobs": [
   {
    "id": "31712502",
@@ -498,6 +498,22 @@
    "summary": "**Rollen:** Medverka i framställningen av värdepappersstatistik (VINN, SVDB) och förvalta mikrodatabaser hos SCB; datahantering, kvalitetssäkring och viss analys.\n**Krav:** 90 hp i nationalekonomi, företagsekonomi, statistik eller motsvarande; minst 2 års relevant arbetslivserfarenhet (finansmarknad eller statistikproduktion/analys av stora datamängder); programmering eller visualisering; svenska och engelska.\n**Meriterande:** R, Python eller SQL, master i statistik, agila metoder.\n**Bra att veta:** Solna, heltid, tillsvidare. Start ej angiven. Sista ansökan 2026-12-01."
   },
   {
+   "id": "31740242",
+   "headline": "FI söker erfarna medarbetare inom finansiell riskhantering och regelverk",
+   "employer": "Finansinspektionen",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-08",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31740242",
+   "published": "2026-11-17",
+   "score": 5,
+   "reason": "Kreditriskmodeller hos FI: statistik/matematik som utbildning nämns och kvantitativ analys är meriterande, men kräver flerårig erfarenhet från bank/tillsyn (tak 5). Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Granska och bedöma bankernas interna kreditriskmodeller (IRK) hos enheten Kreditriskmodeller; tillståndsprövning, tillsyn och utveckling av tillsynsmetoder.\n**Krav:** Akademisk examen inom t.ex. ekonomi, juridik, matematik eller statistik; flerårig erfarenhet från bank, finanssektor, tillsyn eller granskning; förståelse för kreditrisk och regelverk; svenska och engelska.\n**Meriterande:** Kapitaltäckningsregelverk/IRK, kvantitativ analys, statistik, programmering, modellutveckling eller validering.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Start anges ej. Sista ansökningsdag 2026-12-08."
+  },
+  {
    "id": "31708850",
    "headline": "Senior Data Scientist",
    "employer": "H & M Hennes & Mauritz GBC AB",
@@ -914,6 +930,22 @@
    "summary": null
   },
   {
+   "id": "31739715",
+   "headline": "Digital & Management Talent Program 2027",
+   "employer": "Combitech Aktiebolag",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-01",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31739715",
+   "published": "2026-11-17",
+   "score": 4,
+   "reason": "Traineeprogram för junior managementkonsult (Stockholm), men strategi/organisation utan tydlig dataanalys (tak 5); start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
    "id": "31678125",
    "headline": "Total Rewards Analyst",
    "employer": "H & M Hennes & Mauritz GBC AB",
@@ -1010,6 +1042,22 @@
    "summary": null
   },
   {
+   "id": "31742195",
+   "headline": "Compensation & Analytics Specialist till Stena Recycling, Göteborg",
+   "employer": "Jerrie AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-13",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31742195",
+   "published": "2026-11-17",
+   "score": 4,
+   "reason": "HR-/ersättningsanalys (Excel, BI, HR-data) men kräver flera års erfarenhet inom Compensation/HR Analytics; Stockholm/Enskede. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
    "id": "31675452",
    "headline": "Entry level: Verification Developer",
    "employer": "Ericsson AB",
@@ -1020,6 +1068,22 @@
    "published": "2026-11-02",
    "score": 4,
    "reason": "Entry level verification developer för nyexaminerade (data science godkänd examen), men testning/verifiering av radioprodukter snarare än statistik. Starttid ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31741574",
+   "headline": "Project Controls Performance and Reporting Lead",
+   "employer": "Stegra AB",
+   "city": "STOCKHOLM",
+   "scope": "Heltid",
+   "deadline": "2026-12-17",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31741574",
+   "published": "2026-11-17",
+   "score": 4,
+   "reason": "Project controls/rapportering (analys, Power BI) i Stockholm, men kräver erfarenhet inom project controls av komplexa projekt och annan inriktning än statistik. Start ej angiven.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
