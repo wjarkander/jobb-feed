@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T16:18:46",
+ "updated": "2026-11-18T06:16:55",
  "jobs": [
   {
    "id": "31712502",
@@ -48,38 +48,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Teknisk dataanalytiker på Region Uppsalas AI Center: analyserar data, bedömer datakvalitet, gör kontroller reproducerbara och utvecklar plattformskomponenter för datainläsning och omvandling.\n**Krav:** Högskole-/universitetsutbildning i t.ex. statistik, matematik eller dataanalys (eller motsvarande erfarenhet); erfarenhet av att självständigt analysera data och förklara resultat; goda kunskaper i SQL och Python, Git; svenska i tal och skrift.\n**Meriterande:** Dataarbete inom hälso- och sjukvård/offentlig verksamhet, metadata och datakataloger, open source.\n**Bra att veta:** Uppsala, heltid, tillsvidare. Tillträde enligt överenskommelse (starttid ej angiven). Verktyg: Python, SQL, DuckDB, Parquet, Prefect. Sista ansökningsdag 2027-01-15."
-  },
-  {
-   "id": "31568776",
-   "headline": "Gen B Graduate Program, Trainee Business Analyst",
-   "employer": "Boliden Mineral AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-17",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31568776",
-   "published": "2026-10-09",
-   "score": 7,
-   "reason": "Bolidens graduate-program (trainee business analyst), start september 2027 i Stockholm. Mer affär än statistik, men utbildning i analytics/ekonomi accepteras.",
-   "start": "September 2027",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Ettårigt graduate-program som business analyst i Bolidens kommersiella enhet i Stockholm. Du arbetar med affärscase, marknadsanalys, försäljning, råvaror och risk, och besöker smältverk och gruvor.\n**Krav:** Kandidat- eller masterexamen inom bl.a. business, economics, analytics eller finance. Körkort, flytande engelska. Ansökan på engelska.\n**Bra att veta:** Fast anställning från dag ett, 6 träningsveckor, mentor efter programmet. Start september 2027. Urvalsdag 16–19 feb 2027. Sista dag 17 nov 2026."
-  },
-  {
-   "id": "31568834",
-   "headline": "Gen B Graduate Program, Business Analyst",
-   "employer": "Boliden Mineral AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-17",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31568834",
-   "published": "2026-10-09",
-   "score": 7,
-   "reason": "Bolidens graduate-program (business analyst), start september 2027 i Stockholm. Mer affär än statistik, men analytics/ekonomi accepteras.",
-   "start": "September 2027",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Ettårigt graduate-program som business analyst i Bolidens kommersiella enhet i Stockholm. Du analyserar affärscase och processer, tar fram rekommendationer och stödjer försäljning, inköp och planering.\n**Krav:** Kandidat- eller masterexamen inom business, economics, industrial engineering, analytics eller finance. Körkort, flytande engelska. Ansökan på engelska.\n**Bra att veta:** Fast anställning från dag ett, individuellt utvecklingsprogram och nätverk. Start september 2027. Sista dag 17 nov 2026."
   },
   {
    "id": "31671370",
@@ -304,22 +272,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Operations Analyst i Group Operations (First & Middle Mile). Analysera och optimera transportnätverket, bygga datalandskap och dashboards.\n**Krav:** Analytisk och datadriven, SQL och Excel/Google Sheets, god kommunikation, intresse för logistik. Ingen längre erfarenhet angiven.\n**Meriterande:** Tableau.\n**Bra att veta:** Stockholm, heltid, hybrid. Start ej angiven. Sista ansökningsdag 2027-05-04."
-  },
-  {
-   "id": "31673382",
-   "headline": "Finance Graduate Programme 2027",
-   "employer": "Arla Foods AB",
-   "city": "Solna",
-   "scope": "Heltid",
-   "deadline": "2026-11-17",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31673382",
-   "published": "2026-11-02",
-   "score": 5,
-   "reason": "Finance-graduateprogram (generalistiskt finans, ej statistik); rotation i Data & Digital. Start 1 sep 2027, kräver 1 års erfarenhet och flytt/rotation utomlands. Max 5 enligt reglerna.",
-   "start": "1 september 2027",
-   "extent": "100%",
-   "duration": "12 månader – upp till 2 år",
-   "summary": "**Rollen:** Tvåårigt Finance Graduate Programme med tre rotationer (Business & Performance, Data & Digital, Strategy & Execution), 6 månader utomlands.\n**Krav:** Kandidat- eller masterexamen senast sep 2027 (öppet för olika bakgrunder), minst 1 års relevant erfarenhet, flytande engelska, internationellt rörlig.\n**Bra att veta:** Tillsvidareanställning från start 1 sep 2027, Sverige/Danmark/Tyskland (Solna), generellt finansprogram snarare än statistik. Sista ansökningsdag 17 nov 2026."
   },
   {
    "id": "31633599",
@@ -639,22 +591,6 @@
    "start": "Ej angiven",
    "extent": null,
    "duration": null,
-   "summary": null
-  },
-  {
-   "id": "31673446",
-   "headline": "Supply Chain Graduate Programme 2027",
-   "employer": "Arla Foods AB",
-   "city": "Solna",
-   "scope": "Heltid",
-   "deadline": "2026-11-17",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31673446",
-   "published": "2026-11-02",
-   "score": 4,
-   "reason": "Supply chain-graduateprogram med produktion/logistik/planering, inte dataanalys. Start 2027, internationell rotation.",
-   "start": "2027 (hösten)",
-   "extent": "100%",
-   "duration": "12 månader – upp till 2 år",
    "summary": null
   },
   {
