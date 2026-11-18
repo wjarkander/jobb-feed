@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T06:16:55",
+ "updated": "2026-11-18T16:17:55",
  "jobs": [
   {
    "id": "31712502",
@@ -480,6 +480,38 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Senior Data Scientist i H&M:s Markdown Retail-team: bygga och driva ML-modeller och pipelines i produktion (GCP/Vertex AI) för prissänkningsbeslut.\n**Krav:** Kandidat/master i statistik, teknik, datavetenskap eller liknande, stark statistik och ML, Python (LightGBM, scikit-learn), MLOps/CI/CD, SQL/dbt. Seniorroll med produktionsansvar.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Start ej angiven. Ingen relocation. Sista ansökningsdag 2026-12-10."
+  },
+  {
+   "id": "31748399",
+   "headline": "Nordic Operations Analyst at PostNord, Stockholm.",
+   "employer": "TNG Group AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-18",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31748399",
+   "published": "2026-11-18",
+   "score": 5,
+   "reason": "Operations Analytics på PostNord i Stockholm/Solna: dashboards, KPI:er och rotorsaksanalys, men affärsnära logistikanalys snarare än statistik, och kräver tidigare analyserfarenhet. Start ej angiven (tills vidare), därför -1.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Nordic Operations Analytics Specialist på PostNord: bygger dashboards, KPI:er och analysverktyg, analyserar volymer, flöden och ledtider samt tar fram business case och rekommendationer.\n**Krav:** Högskoleutbildning; erfarenhet av analys, business control, BI/rapportering och rotorsaksanalys av stora datamängder; förståelse för logistik; erfarenhet av dashboards/KPI-modeller; flytande engelska och ett nordiskt språk.\n**Bra att veta:** Stockholm/Solna (hybrid, 3 dagar på kontor), heltid, tills vidare. Start ej angiven. Sista ansökan 2026-12-18."
+  },
+  {
+   "id": "31748343",
+   "headline": "Customer & Market Insights Analyst at PostNord.",
+   "employer": "TNG Group AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-18",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31748343",
+   "published": "2026-11-18",
+   "score": 5,
+   "reason": "Customer & Market Insights Analyst på PostNord (Stockholm): kund- och marknadsdata, KPI:er och dashboards, men kommersiell insiktsroll utan statistikkärna och kräver analyserfarenhet. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Nordic Value Proposition Analyst på PostNord: bygger faktabas av kund-, marknads- och försäljningsdata, definierar KPI:er, tar fram dashboards och rekommendationer till produktchefer.\n**Krav:** Analytisk, kommersiellt inriktad profil; erfarenhet av kund-/marknadsinsikter eller commercial analytics; dashboards/beslutsstöd; engelska och nordiskt språk.\n**Bra att veta:** Stockholm (eller Helsingfors/Oslo/Köpenhamn), hybrid 3 dagar på kontor, heltid, tills vidare. Start ej angiven. Sista ansökan 2026-12-18."
   },
   {
    "id": "31665366",
@@ -1026,6 +1058,22 @@
    "summary": null
   },
   {
+   "id": "31745694",
+   "headline": "Senior Associate Audit Analytics & Data Insights | Assurance | Stockholm",
+   "employer": "Ernst & Young Aktiebolag",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-21",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31745694",
+   "published": "2026-11-18",
+   "score": 4,
+   "reason": "Audit analytics (SQL, Power BI, Databricks) i Stockholm hos EY, men kräver ca 2-4 års erfarenhet och revisionsbakgrund; start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Senior Associate inom Audit Analytics & Data Insights på EY: analyser av stora datamängder i revisionsuppdrag, återanvändbara arbetsflöden, dashboards i Power BI.\n**Krav:** Ca 2-4 års erfarenhet inom audit/data analytics eller BI; revisionsförståelse; starka SQL-kunskaper; datavisualisering (helst Power BI).\n**Meriterande:** Alteryx, Databricks, Python, SAP/Oracle, processmining.\n**Bra att veta:** Stockholm, heltid, tills vidare. Start ej angiven. Sista ansökan 2026-12-21."
+  },
+  {
    "id": "31695076",
    "headline": "Seniora dataanalytiker sökes!",
    "employer": "Chas Visual Management AB",
@@ -1232,6 +1280,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": null
+  },
+  {
+   "id": "31746722",
+   "headline": "Business Analyst till Egon Zehnder",
+   "employer": "Academic Work Sweden AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-17",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31746722",
+   "published": "2026-11-18",
+   "score": 4,
+   "reason": "Business Analyst hos Egon Zehnder, datadriven analys i Stockholm, men kräver civilekonom/civilingenjör-master och är mer researchbetonad än statistik; start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
+   "summary": "**Rollen:** Business Analyst hos Egon Zehnder: marknads-, bransch- och ledningsgruppsanalyser, kandidatkartläggning och klientleveranser; utvecklar arbetssätt med data och AI.\n**Krav:** Civilekonom-, civilingenjörs- eller motsvarande master (t.ex. ekonomi/statsvetenskap); intresse för AI och data; flytande svenska och engelska.\n**Meriterande:** Ytterligare skandinaviskt språk.\n**Bra att veta:** Stockholm, heltid, 6 månader eller längre via Academic Work. Start ej angiven. Sista ansökan 2027-05-17 (löpande urval)."
   }
  ]
 }
