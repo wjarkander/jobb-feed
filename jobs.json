@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:17:55",
+ "updated": "2026-11-19T06:15:34",
  "jobs": [
   {
    "id": "31712502",
@@ -908,6 +908,22 @@
    "published": "2026-11-17",
    "score": 4,
    "reason": "Traineeprogram för junior managementkonsult (Stockholm), men strategi/organisation utan tydlig dataanalys (tak 5); start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31749725",
+   "headline": "Nyfiken forskare/analytiker inom framväxande teknik",
+   "employer": "Totalförsvarets Forskningsinstitut, Foi",
+   "city": "Kista",
+   "scope": "Heltid",
+   "deadline": "2026-12-02",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31749725",
+   "published": "2026-11-19",
+   "score": 4,
+   "reason": "Forskar-/analytikerroll på FOI i Kista, men kräver minst 3 års erfarenhet av analys/forskning och är samhällsvetenskaplig/policyinriktad snarare än statistik; start ej angiven (tills vidare).",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
