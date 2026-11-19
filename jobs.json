@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:15:34",
+ "updated": "2026-11-19T16:18:18",
  "jobs": [
   {
    "id": "31712502",
@@ -146,6 +146,22 @@
    "summary": "**Rollen:** Analytiker på SKR:s avdelning för arbetsgivarpolitik. Du analyserar personal- och lönestatistik för över 1,3 miljoner anställda i kommuner och regioner som underlag till kollektivavtalsförhandlingar och stöd till medlemmar.\n**Krav:** Akademisk utbildning inom nationalekonomi, samhällsvetenskap, statistik eller liknande; van Excel-användare; van att hantera stora datamängder; svenska i tal och skrift.\n**Meriterande:** SAS, R eller Python (SAS används idag); erfarenhet från arbetsgivar- eller facklig organisation.\n**Bra att veta:** Stockholm (Slussen), hybrid, heltid, tillsvidare. Tillträde enligt överenskommelse. Sista ansökningsdag 2026-11-30."
   },
   {
+   "id": "31751056",
+   "headline": "(Senior) Quantitative Analyst, Model Monitoring and Performance",
+   "employer": "Nordea Bank Abp, filial i Sverige",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-03",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31751056",
+   "published": "2026-11-19",
+   "score": 7,
+   "reason": "Kvantitativ analys av IRB/IFRS9-modellers prestanda i Python/SQL; kräver master i kvantitativt ämne (econometrics/data science ingår), inget explicit årskrav. Fast tjänst i Stockholm, starttid anges inte (-1); 'Senior' i rubriken kan innebära visst erfarenhetsglapp.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Kvantitativ analytiker i Nordeas Model Monitoring and Performance: följer upp prestanda i IRB/IFRS9-modeller (PD, LGD, EAD) och rapporterar till modellutvecklare och ledning.\n**Krav:** Master i kvantitativt ämne (t.ex. matematik, ekonometri, data science), Python och SQL, god kvantitativ förmåga, engelska.\n**Meriterande:** Kunskap om kreditrisk, IRB/IFRS9, Snowflake/SAS.\n**Bra att veta:** Fast tjänst, Stockholm (eller Helsingfors), hybrid. Start ej angiven. Sista ansökningsdag 2026-12-03."
+  },
+  {
    "id": "31622304",
    "headline": "Scientist inom dataanalys och programmering till Olink",
    "employer": "Academic Work Sweden AB",
@@ -192,6 +208,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Varuflödesanalytiker inom ICA Replenishment: genomföra analyser, vidareutveckla systemstödet RELEX och förbättra processer för varuförsörjningen.\n**Krav:** Akademisk utbildning, analytisk och van att strukturera komplexa problem. Inget uttalat erfarenhetskrav.\n**Meriterande:** Supply chain/detaljhandel, replenishmentsystem, särskilt RELEX.\n**Bra att veta:** Västerås eller Solna, heltid, tillsvidare, tillträde enligt överenskommelse. Sista ansökningsdag 2026-12-04."
+  },
+  {
+   "id": "31754368",
+   "headline": "Data Analyst",
+   "employer": "Sandvik Aktiebolag",
+   "city": null,
+   "scope": "Heltid",
+   "deadline": "2026-12-04",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31754368",
+   "published": "2026-11-19",
+   "score": 6,
+   "reason": "Data/produktanalytiker på Sandvik med KPI:er, Power BI och SQL; kräver erfarenhet av dataanalys/produktanalys (ej årskrav angivet) och kan arbetas på distans. Starttid anges inte (-1); mer BI/produktanalys än statistisk modellering.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Data analyst i Sandviks Cloud Product Organization: äger produktanalys, KPI:er och dashboards samt analyserar användarbeteende.\n**Krav:** Erfarenhet av dataanalys/produktanalys eller BI, analytisk förmåga med stora datamängder, Power BI, SQL eftersträvas, tydlig kommunikation.\n**Meriterande:** SaaS-/produktmetrik, experiment och produktledd miljö.\n**Bra att veta:** Heltid, kan arbeta på distans eller från kontor i Sverige. Start ej angiven. Sista ansökningsdag 2026-12-04."
   },
   {
    "id": "31726033",
@@ -450,6 +482,22 @@
    "summary": "**Rollen:** Medverka i framställningen av värdepappersstatistik (VINN, SVDB) och förvalta mikrodatabaser hos SCB; datahantering, kvalitetssäkring och viss analys.\n**Krav:** 90 hp i nationalekonomi, företagsekonomi, statistik eller motsvarande; minst 2 års relevant arbetslivserfarenhet (finansmarknad eller statistikproduktion/analys av stora datamängder); programmering eller visualisering; svenska och engelska.\n**Meriterande:** R, Python eller SQL, master i statistik, agila metoder.\n**Bra att veta:** Solna, heltid, tillsvidare. Start ej angiven. Sista ansökan 2026-12-01."
   },
   {
+   "id": "31750817",
+   "headline": "Data Scientist/AI Engineer to Swedbank´s Group AI Accelerator",
+   "employer": "Swedbank AB",
+   "city": "Sundbyberg",
+   "scope": "Heltid",
+   "deadline": "2026-12-01",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31750817",
+   "published": "2026-11-19",
+   "score": 5,
+   "reason": "Data Scientist/AI Engineer på Swedbank med fokus på generativ AI (RAG, LLM) i Python; kräver 'practicing data scientist' och är mindre statistikinriktad. Tidsbegränsad tjänst till årsskiftet 2027/28, starttid ej angiven (-1). Kandidat/master i DS räcker.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
+   "summary": "**Rollen:** Data scientist/AI engineer i Swedbanks Group AI Accelerator: utveckla generativ AI (LLM, vektordatabaser, dokumentintelligens) och utvärderingsmetodik.\n**Krav:** Praktiserande data scientist, Python, erfarenhet av RAG; kandidat eller högre inom CS/Data Science/AI eller motsvarande erfarenhet.\n**Meriterande:** Azure Foundry/OpenAI, agentiska ramverk, Docker, CI/CD.\n**Bra att veta:** Sundbyberg/Stockholm (Umeå), hybrid. Tidsbegränsad till årsskiftet 2027/28. Start ej angiven. Sista ansökningsdag 2026-12-01."
+  },
+  {
    "id": "31740242",
    "headline": "FI söker erfarna medarbetare inom finansiell riskhantering och regelverk",
    "employer": "Finansinspektionen",
@@ -608,6 +656,22 @@
    "extent": "100%",
    "duration": "6 månader eller längre",
    "summary": "**Rollen:** Data scientist i teamet Data Science Development hos Olink (via Academic Work): statistisk analys av proteomik/genomik-data, studiedesign och rekommendationer till produktutveckling.\n**Krav:** Gedigen erfarenhet av statistisk analys inom life science, R/Python/SQL, förståelse för biologi; ska kunna bidra med specialistkompetens från start.\n**Bra att veta:** Uppsala (på plats, 2 dagar hemma), konsultuppdrag 1 år med möjlig förlängning, heltid, start ej angiven, sista ansökan 2027-05-15."
+  },
+  {
+   "id": "31751201",
+   "headline": "Software Engineer - Machine Learning or Computer Vision",
+   "employer": "Volumental AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-18",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31751201",
+   "published": "2026-11-19",
+   "score": 5,
+   "reason": "ML/Computer Vision-ingenjör på Volumental i Stockholm; kräver master inom CS/teknisk fysik/EE 'eller liknande' samt matematisk modellering och programmering; juniora välkomna men CV/C++-tung. Starttid anges inte (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Software engineer inom ML/Computer Vision på Volumental: utveckla 3D-skanning och rekommendationssystem för skor, med empirisk utvärdering på stora dataset.\n**Krav:** Matematisk modellering och programmering, erfarenhet av dataset och metodutvärdering, master i CS/teknisk fysik/EE eller liknande.\n**Meriterande:** Professionell mjukvaruerfarenhet, ML, datorseende, optimering.\n**Bra att veta:** Stockholm, minst 3 dagar/vecka på kontoret, junior och senior välkomna. Start ej angiven. Sista ansökningsdag 2027-05-18."
   },
   {
    "id": "lever:spotify:a4651332-6400-40e8-8c22-5491e7a34161",
@@ -1068,6 +1132,22 @@
    "published": "2026-11-17",
    "score": 4,
    "reason": "Project controls/rapportering (analys, Power BI) i Stockholm, men kräver erfarenhet inom project controls av komplexa projekt och annan inriktning än statistik. Start ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31754032",
+   "headline": "Software Engineer & Data Scientist",
+   "employer": "Hopsworks AB",
+   "city": "STOCKHOLM",
+   "scope": "Heltid",
+   "deadline": "2026-12-19",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31754032",
+   "published": "2026-11-19",
+   "score": 4,
+   "reason": "Mjukvaru- och data science-roll på Hopsworks med Java som huvudspråk och CS-bakgrund; ML-plattform snarare än statistik. Start anges inte.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
