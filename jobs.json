@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:18:18",
+ "updated": "2026-11-20T06:16:19",
  "jobs": [
   {
    "id": "31712502",
@@ -304,38 +304,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Operations Analyst i Group Operations (First & Middle Mile). Analysera och optimera transportnätverket, bygga datalandskap och dashboards.\n**Krav:** Analytisk och datadriven, SQL och Excel/Google Sheets, god kommunikation, intresse för logistik. Ingen längre erfarenhet angiven.\n**Meriterande:** Tableau.\n**Bra att veta:** Stockholm, heltid, hybrid. Start ej angiven. Sista ansökningsdag 2027-05-04."
-  },
-  {
-   "id": "31633599",
-   "headline": "Examensarbete hos SCB inom forskning, innovation och offentliga stöd",
-   "employer": "Statistiska Centralbyrån",
-   "city": "Solna",
-   "scope": "Deltid",
-   "deadline": "2026-11-19",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31633599",
-   "published": "2026-10-22",
-   "score": 5,
-   "reason": "Examensarbete (master) hos SCB om offentligt stöd till FoU med mikrodata; kräver pågående master i statistik/nationalekonomi och 30 hp statistik, SAS/R/Python. Passar innehållsmässigt men är ett examensarbete, inte en anställning; start anges ej.",
-   "start": "Ej angiven",
-   "extent": "0–100%",
-   "duration": "3 månader – upp till 6 månader",
-   "summary": "**Rollen:** Examensarbete på masternivå hos SCB: analys av data om FoU, innovation och offentligt stöd till företag, ofta med SCB:s mikrodata. Resultat redovisas i rapport och presentation.\n**Krav:** Pågående master i statistik, nationalekonomi eller liknande, minst 30 hp statistik, goda kunskaper i SAS, R, Python eller STATA, svenska och engelska.\n**Meriterande:** Erfarenhet av statistiskt eller vetenskapligt skrivande.\n**Bra att veta:** Solna, 3-6 månader, deltid, 1 plats (ensam eller i par). Det är ett examensarbete, inte en anställning. Sista ansökningsdag 2026-11-19. Starttid anges ej."
-  },
-  {
-   "id": "31698103",
-   "headline": "Senior statistiker",
-   "employer": "Statens Skolverk",
-   "city": "Solna",
-   "scope": "Heltid",
-   "deadline": "2026-11-19",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31698103",
-   "published": "2026-11-06",
-   "score": 5,
-   "reason": "Statistiker på Skolverket (officiell statistik), utbildningen passar perfekt men kräver aktuell flerårig erfarenhet som statistiker och är senior, därav tak 5. Starttid ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Senior statistiker på Skolverkets analysavdelning (förskole- och grundskolestatistik). Producera, publicera och utveckla officiell statistik samt planera utvecklingsarbete.\n**Krav:** Högskoleexamen med inriktning statistik eller relevant; aktuell flerårig arbetslivserfarenhet som statistiker.\n**Bra att veta:** Solna, tillsvidare, heltid. Starttid anges inte. Sista ansökningsdag 2026-11-19."
   },
   {
    "id": "31617564",
@@ -687,38 +655,6 @@
    "start": "Ej angiven",
    "extent": null,
    "duration": null,
-   "summary": null
-  },
-  {
-   "id": "31663704",
-   "headline": "Supply Chain Business Analyst - Digital Enablement",
-   "employer": "SAAB Aktiebolag",
-   "city": "Solna",
-   "scope": "Heltid",
-   "deadline": "2026-11-19",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31663704",
-   "published": "2026-10-29",
-   "score": 4,
-   "reason": "Business analyst inom supply chain/BI/AI på Saab, flerårig erfarenhet krävs och rollen är strategisk snarare än statistisk. Starttid anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
-   "id": "31674545",
-   "headline": "Business/Data Analyst, Solna",
-   "employer": "PostNord Group AB",
-   "city": "Solna",
-   "scope": "Heltid",
-   "deadline": "2026-11-19",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31674545",
-   "published": "2026-11-02",
-   "score": 4,
-   "reason": "Business/Data Analyst med BI, men kräver några års erfarenhet som business analyst/controller och ekonomi/IT-examen. Starttid anges ej.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
    "summary": null
   },
   {
