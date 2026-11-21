@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T16:18:03",
+ "updated": "2026-11-21T06:15:55",
  "jobs": [
   {
    "id": "31712502",
@@ -336,22 +336,6 @@
    "extent": "100%",
    "duration": "6 månader eller längre",
    "summary": "**Rollen:** Data & AI Engineer hos ett Stockholmsbaserat skönhetsvarumärke; bygger datamodeller (Dataform/BigQuery), pipelines och AI-tjänster (MCP-servrar) som stöd för analys.\n**Krav:** Tidig karriär eller några års erfarenhet, bra SQL, Python eller TypeScript, rena och testade kodlösningar, Google Cloud.\n**Bra att veta:** Stockholm, heltid, konsultuppdrag via Academic Work (6+ månader), starttid ej angiven, ingen tydlig sista ansökningsdag."
-  },
-  {
-   "id": "31617564",
-   "headline": "Analytics / BI Engineer till Synsam",
-   "employer": "Synsam Group Sweden AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-20",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31617564",
-   "published": "2026-10-20",
-   "score": 5,
-   "reason": "BI-/analytics-engineer med SQL och Qlik; analysdel men mer BI-utveckling än statistik. Inget tydligt årskrav, start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Analytics/BI Engineer i Synsams analytics-team: undersöker data, utvecklar analyser, Qlik-appar och visualiseringar i Snowflake, utreder förändrade nyckeltal.\n**Krav:** Erfarenhet av analys och utveckling av BI-lösningar, goda SQL-kunskaper och datamodellering, erfarenhet av Qlik eller liknande, analytiskt arbetssätt.\n**Meriterande:** Qlik Cloud, Snowflake, dbt, prenumerationsbaserad verksamhet.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven. Sista ansökan 2026-11-20."
   },
   {
    "id": "31637094",
@@ -1183,6 +1167,22 @@
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31761697",
+   "headline": "Junior Digital Analyst  Marketing Data & Conversion Optimization - 20936",
+   "employer": "Veritaz AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-20",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31761697",
+   "published": "2026-11-20",
+   "score": 4,
+   "reason": "Dataanalys-roll (digital analytics, SQL/Python, A/B-test) som passar området, men kräver ca 1–3 års erfarenhet och är ett 6–12 mån konsultuppdrag utan angiven starttid, sannolikt före maj 2027.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader – upp till 12 månader",
    "summary": null
   },
   {
