@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:18:00",
+ "updated": "2026-11-24T06:15:10",
  "jobs": [
   {
    "id": "31712502",
@@ -48,38 +48,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Teknisk dataanalytiker på Region Uppsalas AI Center: analyserar data, bedömer datakvalitet, gör kontroller reproducerbara och utvecklar plattformskomponenter för datainläsning och omvandling.\n**Krav:** Högskole-/universitetsutbildning i t.ex. statistik, matematik eller dataanalys (eller motsvarande erfarenhet); erfarenhet av att självständigt analysera data och förklara resultat; goda kunskaper i SQL och Python, Git; svenska i tal och skrift.\n**Meriterande:** Dataarbete inom hälso- och sjukvård/offentlig verksamhet, metadata och datakataloger, open source.\n**Bra att veta:** Uppsala, heltid, tillsvidare. Tillträde enligt överenskommelse (starttid ej angiven). Verktyg: Python, SQL, DuckDB, Parquet, Prefect. Sista ansökningsdag 2027-01-15."
-  },
-  {
-   "id": "31671370",
-   "headline": "Strateg/utredare med inriktning mot vårdanalys, prognoser och utveckling",
-   "employer": "REGION UPPSALA",
-   "city": "Uppsala",
-   "scope": "Deltid",
-   "deadline": "2026-11-23",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31671370",
-   "published": "2026-11-02",
-   "score": 7,
-   "reason": "Prognoser och analys av vårdkonsumtion i Uppsala, statistik uttryckligen nämnd i utbildningskravet; kräver viss erfarenhet av kvalificerat analysarbete (ej antal år angivet). Tillträde enl. överenskommelse.",
-   "start": "Enl. överenskommelse",
-   "extent": "0–100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Strateg/utredare i Region Uppsalas Vårduppdragsenhet: utvecklar prognoser för vårdkonsumtion och vårdbehov, kapacitets- och produktionsplanering samt scenarier för hälso- och sjukvården.\n**Krav:** Akademisk utbildning t.ex. statistik, hälsoekonomi, samhällsvetenskap eller ekonomi; erfarenhet av kvalificerat analys-/utredningsarbete; vana vid verksamhetsdata och statistik; mycket god svenska.\n**Meriterande:** Bakgrund från hälso- och sjukvård.\n**Bra att veta:** Uppsala, tillsvidare, tillträde enligt överenskommelse. Sista ansökan 2026-11-23."
-  },
-  {
-   "id": "31703620",
-   "headline": "Telecom Data Scientist | Early Career Program",
-   "employer": "Ericsson AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-23",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31703620",
-   "published": "2026-11-09",
-   "score": 7,
-   "reason": "Early Career Program (18 mån) för nyexaminerade, data science/ML/GenAI på Ericsson i Stockholm; MSc i data science/matematik efterfrågas. Kräver viss telekomkunskap och programmering; starttid anges inte (-1).",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Telecom Data Scientist i Ericssons Early Career Program (18 mån, tre rotationer) i Stockholm. Du använder data science, ML och generativ AI i Applied Generative AI-teamet för att göra ingenjörsdata användbar för AI, bygga pipelines och utvärdera LLM-/agentlösningar.\n**Krav:** MSc/PhD i data science, AI, matematik, datateknik eller liknande; tillämpad data science/ML (statistik, experiment, modellutvärdering); programmering; engelska. Nyexaminerade eller upp till 5 års erfarenhet.\n**Meriterande:** Kunskap om radionät/telekom, praktisk GenAI (LLM, RAG, agenter).\n**Bra att veta:** Stockholm, heltid, tillsvidare. Starttid ej angiven. Sista ansökningsdag 2026-11-23."
   },
   {
    "id": "31652302",
@@ -320,22 +288,6 @@
    "extent": "100%",
    "duration": "6 månader eller längre",
    "summary": "**Rollen:** Data & AI Engineer hos ett Stockholmsbaserat skönhetsvarumärke; bygger datamodeller (Dataform/BigQuery), pipelines och AI-tjänster (MCP-servrar) som stöd för analys.\n**Krav:** Tidig karriär eller några års erfarenhet, bra SQL, Python eller TypeScript, rena och testade kodlösningar, Google Cloud.\n**Bra att veta:** Stockholm, heltid, konsultuppdrag via Academic Work (6+ månader), starttid ej angiven, ingen tydlig sista ansökningsdag."
-  },
-  {
-   "id": "31685418",
-   "headline": "Data Analyst & Steward",
-   "employer": "Aktiebolaget Electrolux",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-23",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31685418",
-   "published": "2026-11-04",
-   "score": 5,
-   "reason": "Data Analyst & Steward hos Electrolux, Stockholm: dataanalys, dashboards och data governance, inga explicita erfarenhets- eller utbildningskrav. Mer styrning/metadata än statistik och modellering; start anges inte (-1).",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Data Analyst & Steward: ansvar för datakvalitet, mätvärdesdefinitioner, metadata/katalog, dashboards och komplexa analysfrågor samt utbildning i self-service.\n**Krav:** Inga explicita utbildnings-/erfarenhetskrav angivna; analytisk förmåga, vana vid BI och dataprodukter.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Start ej angiven. Sista ansökningsdag 2026-11-23."
   },
   {
    "id": "31548431",
