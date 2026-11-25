@@ -1,22 +1,6 @@
 {
- "updated": "2026-11-24T06:15:10",
+ "updated": "2026-11-25T06:16:27",
  "jobs": [
-  {
-   "id": "31712502",
-   "headline": "Quantitative Risk Analyst (Credit Risk)",
-   "employer": "Nordea Bank Abp, filial i Sverige",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-24",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31712502",
-   "published": "2026-11-10",
-   "score": 8,
-   "reason": "Kvantitativ kreditriskmodellering (IRB) i Stockholm i Python/SQL; kräver master i kvantitativt ämne inkl. statistik, ingen specifik erfarenhetsnivå (nivå efter erfarenhet). Starttid anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Utveckla, underhålla och implementera kreditriskmodeller (IRB, IFRS9) i Nordeas modelleringsteam, bygga verktyg i Python och presentera resultat för intressenter.\n**Krav:** Master eller PhD i kvantitativt ämne (t.ex. statistik, matematik), intresse för eller erfarenhet av data och modellering inom finans, programmering (Python/SQL). Nivå (assistant till senior) sätts efter erfarenhet.\n**Bra att veta:** Stockholm, heltid, tillsvidare, minst 60 % på kontoret. Arbetsspråk engelska. Start ej angiven. Sista ansökningsdag 2026-11-24."
-  },
   {
    "id": "31552681",
    "headline": "Associate Forward Deployed AI Scientist",
@@ -176,6 +160,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Data analyst i Sandviks Cloud Product Organization: äger produktanalys, KPI:er och dashboards samt analyserar användarbeteende.\n**Krav:** Erfarenhet av dataanalys/produktanalys eller BI, analytisk förmåga med stora datamängder, Power BI, SQL eftersträvas, tydlig kommunikation.\n**Meriterande:** SaaS-/produktmetrik, experiment och produktledd miljö.\n**Bra att veta:** Heltid, kan arbeta på distans eller från kontor i Sverige. Start ej angiven. Sista ansökningsdag 2026-12-04."
+  },
+  {
+   "id": "31769760",
+   "headline": "Nordic Digital Analyst - Carglass",
+   "employer": "Carglass Sweden AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-11",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31769760",
+   "published": "2026-11-24",
+   "score": 6,
+   "reason": "Digital analytiker (GA4, BigQuery, Looker Studio) i Stockholm; kräver erfarenhet av digital analys men inga årtal anges, kärnan är webbanalys snarare än statistisk modellering. Starttid anges inte (−1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Digital analytiker som analyserar kundbeteende, konverteringstrattar och digitala kundresor för Carglass i Norden, med rekommendationer till den nordiska digitala roadmapen.\n**Krav:** Erfarenhet av digital analys/CRO/e-handel, GA4 och BigQuery, praktisk GTM-erfarenhet, Looker Studio-dashboards, flytande engelska. Inga årtal anges.\n**Meriterande:** Contentsquare, experimentprogram, nordiskt språk.\n**Bra att veta:** Stockholm (hybrid, Gärdet), heltid, tillsvidare, start ej angiven. Sista ansökningsdag 2026-12-11."
   },
   {
    "id": "31726033",
@@ -450,6 +450,38 @@
    "summary": "**Rollen:** Nordic Value Proposition Analyst på PostNord: bygger faktabas av kund-, marknads- och försäljningsdata, definierar KPI:er, tar fram dashboards och rekommendationer till produktchefer.\n**Krav:** Analytisk, kommersiellt inriktad profil; erfarenhet av kund-/marknadsinsikter eller commercial analytics; dashboards/beslutsstöd; engelska och nordiskt språk.\n**Bra att veta:** Stockholm (eller Helsingfors/Oslo/Köpenhamn), hybrid 3 dagar på kontor, heltid, tills vidare. Start ej angiven. Sista ansökan 2026-12-18."
   },
   {
+   "id": "31773322",
+   "headline": "Lead Data Analyst",
+   "employer": "H & M Hennes & Mauritz GBC AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-24",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31773322",
+   "published": "2026-11-24",
+   "score": 5,
+   "reason": "Lead Data Analyst med statistiska metoder, Python/R och SQL, men kräver \"extensive experience\" i avancerad analys, vilket William (ca 6 mån) saknar. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Lead Data Analyst inom Retail Strategy på H&M; driver analysprojekt från affärsfråga till skalbar lösning med statistiska metoder.\n**Krav:** Universitetsexamen inom kvantitativt område eller motsvarande erfarenhet, omfattande erfarenhet av avancerad analys/data science, starka Python- eller R-kunskaper och SQL.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven. Erfarenhetskravet är högt för en nyexaminerad. Sista ansökningsdag 2026-12-24."
+  },
+  {
+   "id": "31773376",
+   "headline": "Senior Data Scientist",
+   "employer": "H & M Hennes & Mauritz GBC AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-24",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31773376",
+   "published": "2026-11-24",
+   "score": 5,
+   "reason": "Senior Data Scientist (ML, MLOps på GCP); utbildning i statistik passar men rollen är senior med krav på produktionssatta modeller och MLOps. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Senior Data Scientist i H&M:s Markdown Retail-team; bygger och driftsätter ML-modeller som styr prissänkningar i produktion på GCP (Vertex AI).\n**Krav:** Kandidat/master i statistik, teknik eller datavetenskap, stark kunskap om statistik och ML, erfarenhet av att bygga och driftsätta AI-applikationer, Python (LightGBM, scikit-learn), MLOps/CI/CD, SQL/DBT.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven. Seniorroll. Sista ansökningsdag 2026-12-24."
+  },
+  {
    "id": "31665366",
    "headline": "SENIOR AI ENGINEER, PERSONALIZATION",
    "employer": "Q Innovations Sweden AB",
@@ -576,22 +608,6 @@
    "extent": null,
    "duration": null,
    "summary": null
-  },
-  {
-   "id": "31713428",
-   "headline": "AI-Native CI/CD Engineer | Early Career Program",
-   "employer": "Ericsson AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-24",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31713428",
-   "published": "2026-11-10",
-   "score": 4,
-   "reason": "Early Career-program (nyexaminerade) men rollen är CI/CD/DevOps-mjukvara, inte statistik/dataanalys; start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** AI-Native CI/CD Engineer i Ericssons Early Career Program (18 mån, tre rotationer); bygger CI/CD, automation och utvecklarverktyg.\n**Krav:** Nyexaminerad eller upp till 5 års erfarenhet; CI/CD (GitLab, Jenkins, Azure DevOps), Python/Bash, moln och containrar.\n**Bra att veta:** Stockholm, heltid, tillsvidare, start ej angiven, sista ansökningsdag 2026-11-24. Mjukvaru-/DevOps-spår, inte statistik."
   },
   {
    "id": "31667003",
@@ -1055,6 +1071,22 @@
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "6 månader – upp till 12 månader",
+   "summary": null
+  },
+  {
+   "id": "31774370",
+   "headline": "Underrättelseanalytiker",
+   "employer": "Försvarets Radioanstalt",
+   "city": "Bromma",
+   "scope": "Heltid",
+   "deadline": "2026-12-20",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31774370",
+   "published": "2026-11-24",
+   "score": 4,
+   "reason": "Underrättelseanalytiker vid FRA; statistik är meriterande men rollen är underrättelseanalys, inte statistik/data. Inget erfarenhetskrav, starttid anges inte, säkerhetsprövning krävs.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
    "summary": null
   },
   {
