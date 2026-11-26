@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T06:15:41",
+ "updated": "2026-11-26T16:16:34",
  "jobs": [
   {
    "id": "31552681",
@@ -192,6 +192,38 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Analytics Engineer i Affärsenhet Sak; samla in, bearbeta och visualisera data i Databricks och Microsoft Fabric, bygga semantiska modeller och Power BI-rapporter.\n**Krav:** Stark datavisualisering (Power BI), datamodellering och analys, praktisk erfarenhet av SQL och Python, god kommunikation, svenska i tal och skrift. Erfarenhetsnivå anges inte.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Start ej angiven. Löpande urval. Sista ansökningsdag 2026-12-13."
+  },
+  {
+   "id": "31780997",
+   "headline": "Market Analyst",
+   "employer": "SSC Space AB",
+   "city": "Solna",
+   "scope": "Heltid",
+   "deadline": "2026-12-20",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31780997",
+   "published": "2026-11-26",
+   "score": 6,
+   "reason": "Kvantitativ marknadsanalys, prognoser och modeller; examen i kvantitativt ämne/data analytics räcker, Excel avancerat. Erfarenhet av marknads-/affärsanalys efterfrågas (ej antal år). Solna/Kiruna, tillsvidare, starttid ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Analysera marknadstrender, marknadsstorlek och konkurrenter; bygga prognosmodeller, dashboards och en marknadsdatabas som stöd för strategi och affärsbeslut.\n**Krav:** Universitetsexamen inom bl.a. ekonomi, data analytics eller annan kvantitativ disciplin; erfarenhet av marknads-/affärsanalys; starka kvantitativa färdigheter, avancerad Excel, marknadssizing/prognoser; flytande engelska.\n**Meriterande:** Erfarenhet av automation/AI-verktyg för omvärldsbevakning.\n**Bra att veta:** Solna (eller Kiruna), heltid, tillsvidare. Start ej angiven. Sista ansökningsdag 2026-12-20."
+  },
+  {
+   "id": "31782548",
+   "headline": "Senior Data Analyst",
+   "employer": "H & M Hennes & Mauritz GBC AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-26",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31782548",
+   "published": "2026-11-26",
+   "score": 6,
+   "reason": "Dataanalys med SQL och Python/R i H&M Retail Tech; kandidat i statistik eller motsvarande arbetslivserfarenhet, men seniortitel och \"solid erfarenhet\" kan vara för mycket för 6 månaders erfarenhet. Stockholm, starttid ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Analysera data kring butikstekniska initiativ (självbetjäningskassor, kundflöden) och ge rekommendationer till produktteam; driva analyser från behov till slutsats.\n**Krav:** Kandidat i statistik/teknik/ekonomi eller motsvarande arbetslivserfarenhet; solid erfarenhet av dataanalys; SQL samt Python eller R.\n**Meriterande:** Intresse för retail och kundbeteende.\n**Bra att veta:** Stockholm, heltid, tillsvidare. Start ej angiven. Sista ansökningsdag 2026-12-26. Seniortitel – erfarenhetsnivån kan vara hög."
   },
   {
    "id": "31576617",
@@ -1279,6 +1311,22 @@
    "start": "Enl. överenskommelse",
    "extent": "100%",
    "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31780260",
+   "headline": "Data Engineer till PayEx – Var med och forma framtidens analysdataplattform",
+   "employer": "Academic Work Sweden AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-25",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31780260",
+   "published": "2026-11-26",
+   "score": 4,
+   "reason": "Data Engineer (Fabric, dbt) med 1–2 års erfarenhet; kräver utbildning inom systemvetenskap/programvaruteknik, visstid via Academic Work, ingenjörsfokus snarare än statistik. Stockholm, starttid ej angiven.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "6 månader eller längre",
    "summary": null
   }
  ]
