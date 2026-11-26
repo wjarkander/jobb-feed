@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:21:36",
+ "updated": "2026-11-26T06:15:41",
  "jobs": [
   {
    "id": "31552681",
@@ -288,38 +288,6 @@
    "extent": "100%",
    "duration": "6 månader eller längre",
    "summary": "**Rollen:** Data & AI Engineer hos ett Stockholmsbaserat skönhetsvarumärke; bygger datamodeller (Dataform/BigQuery), pipelines och AI-tjänster (MCP-servrar) som stöd för analys.\n**Krav:** Tidig karriär eller några års erfarenhet, bra SQL, Python eller TypeScript, rena och testade kodlösningar, Google Cloud.\n**Bra att veta:** Stockholm, heltid, konsultuppdrag via Academic Work (6+ månader), starttid ej angiven, ingen tydlig sista ansökningsdag."
-  },
-  {
-   "id": "31548431",
-   "headline": "Doktorand i Limnologi: Modellering av växtplanktonsuccession i sjöar",
-   "employer": "Uppsala Universitet",
-   "city": "Uppsala",
-   "scope": "Heltid",
-   "deadline": "2026-11-25",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31548431",
-   "published": "2026-10-02",
-   "score": 5,
-   "reason": "Doktorandtjänst i Uppsala med fokus på datahantering och dynamisk modellering (R/Python) inom limnologi; ämnet ligger utanför statistik och är en forskarutbildning snarare än heltidsjobb. Start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "6 månader eller längre",
-   "summary": "**Rollen:** Doktorand vid Uppsala universitet (Ekologi och Genetik, Limnologiprogrammet) som modellerar växtplanktonsuccession i sjöar med processbaserade modeller; fokus på datahantering och modellering samt undervisning.\n**Krav:** Avancerad examen i limnologi/ekologi/miljö m.fl. eller motsvarande, avancerade numeriska metoder (modellering, statistik, dataanalys), programmering i R eller Python, mycket god engelska.\n**Meriterande:** Erfarenhet av sjömodeller/processbaserade modeller.\n**Bra att veta:** Uppsala, heltid, start ej angiven. Sista ansökningsdag 2026-11-25."
-  },
-  {
-   "id": "31684415",
-   "headline": "Dataanalytiker",
-   "employer": "Svenska Kraftnät",
-   "city": "Sundbyberg",
-   "scope": "Heltid",
-   "deadline": "2026-11-25",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31684415",
-   "published": "2026-11-04",
-   "score": 5,
-   "reason": "Dataanalytiker hos Svenska kraftnät (Sundbyberg), Excel/Power BI/SQL, utbildning i statistik godkänns, statistik meriterande. Beskrivs som senior roll med erfarenhetskrav men utan angivet antal år; start ej angiven (-1).",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Dataanalytiker med fokus Excel och Power BI: kvalificerade analyser, beslutsstöd, datamodeller och rapporter, dataflöden med utvecklare.\n**Krav:** Högskoleutbildning inom bl.a. statistik/teknik/ekonomi; expertkunskaper i Excel, Power BI, SQL/DAX; erfarenhet av självständig leverans av analyser (senior profil).\n**Meriterande:** Statistik, generativ AI, energibranschen, offentlig verksamhet.\n**Bra att veta:** Sundbyberg, upp till 50 % distans, tillsvidare. Start ej angiven. Sista ansökan 2026-11-25."
   },
   {
    "id": "31777834",
@@ -623,70 +591,6 @@
    "start": "Ej angiven",
    "extent": null,
    "duration": null,
-   "summary": null
-  },
-  {
-   "id": "31667003",
-   "headline": "Junior analytiker för utvecklingen av balansmarknaden",
-   "employer": "Svenska Kraftnät",
-   "city": "Sundbyberg",
-   "scope": "Heltid",
-   "deadline": "2026-11-25",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31667003",
-   "published": "2026-10-30",
-   "score": 4,
-   "reason": "Passar ämnesmässigt (kvantitativa beräkningar, elmarknad) men kräver minst 2 års arbetserfarenhet och startdatum anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
-   "id": "31666891",
-   "headline": "Analytiker för utvecklingen av balansmarknaden",
-   "employer": "Svenska Kraftnät",
-   "city": "Sundbyberg",
-   "scope": "Heltid",
-   "deadline": "2026-11-25",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31666891",
-   "published": "2026-10-30",
-   "score": 4,
-   "reason": "Analytiker för balansmarknaden (prognoser, elmarknad) hos Svenska kraftnät, men kräver minst 5 års erfarenhet av kvantitativt analysarbete och flera års elmarknadserfarenhet. Starttid anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
-   "id": "31685784",
-   "headline": "Data scientist",
-   "employer": "Svenska Kraftnät",
-   "city": "sundbyberg",
-   "scope": "Heltid",
-   "deadline": "2026-11-25",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31685784",
-   "published": "2026-11-04",
-   "score": 4,
-   "reason": "Data scientist (ML, modellering) hos Svenska kraftnät, utbildning i statistik/data science passar, men kräver minst 3 års erfarenhet av Python/statistik och 1 år data governance, vilket är över Williams ca 6 mån. Start ej angiven; sista ansökan 25 nov.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Data scientist i enheten Anläggningsanalys: utforma data-/BI-/AI-lösningar, utveckla ML-modeller och analysmetoder.\n**Krav:** Utbildning inom data science/matematik/statistik; minst 3 års erfarenhet av Python för dataanalys och 3 år av statistik/modellutvärdering, 1 år data governance.\n**Meriterande:** ML-ramverk (scikit-learn, PyTorch), dataplattformar, statlig/energi-erfarenhet.\n**Bra att veta:** Sundbyberg/Västerås/Sundsvall, upp till 50 % distans, tillsvidare. Start ej angiven. Sista ansökan 2026-11-25."
-  },
-  {
-   "id": "31717221",
-   "headline": "Strategy Manager | Early Career Program",
-   "employer": "Ericsson AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-25",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31717221",
-   "published": "2026-11-11",
-   "score": 4,
-   "reason": "Ericssons Early Career Program (18 mån, nyexaminerade välkomna) men strategi/affärsanalys snarare än statistik – tak 5, start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "6 månader eller längre",
    "summary": null
   },
   {
@@ -1359,6 +1263,22 @@
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "6 månader eller längre",
+   "summary": null
+  },
+  {
+   "id": "31775786",
+   "headline": "Pris- och Produktanalysansvarig till ApoEx",
+   "employer": "Bravura Sverige AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-05-24",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31775786",
+   "published": "2026-11-25",
+   "score": 4,
+   "reason": "Pris- och lönsamhetsanalys med BI/dashboards i Stockholm, men kräver ca 5 års erfarenhet och ekonomi/teknik-utbildning. Start enligt överenskommelse.",
+   "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
    "summary": null
   }
  ]
