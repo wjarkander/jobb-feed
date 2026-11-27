@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:16:34",
+ "updated": "2026-11-27T06:15:32",
  "jobs": [
   {
    "id": "31552681",
@@ -32,22 +32,6 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Teknisk dataanalytiker på Region Uppsalas AI Center: analyserar data, bedömer datakvalitet, gör kontroller reproducerbara och utvecklar plattformskomponenter för datainläsning och omvandling.\n**Krav:** Högskole-/universitetsutbildning i t.ex. statistik, matematik eller dataanalys (eller motsvarande erfarenhet); erfarenhet av att självständigt analysera data och förklara resultat; goda kunskaper i SQL och Python, Git; svenska i tal och skrift.\n**Meriterande:** Dataarbete inom hälso- och sjukvård/offentlig verksamhet, metadata och datakataloger, open source.\n**Bra att veta:** Uppsala, heltid, tillsvidare. Tillträde enligt överenskommelse (starttid ej angiven). Verktyg: Python, SQL, DuckDB, Parquet, Prefect. Sista ansökningsdag 2027-01-15."
-  },
-  {
-   "id": "31652302",
-   "headline": "Data Scientist – Machine Learning",
-   "employer": "Agile Resources AB",
-   "city": "Södertälje",
-   "scope": "Heltid",
-   "deadline": "2026-11-26",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31652302",
-   "published": "2026-10-27",
-   "score": 7,
-   "reason": "Data scientist (statistik, ML, optimering) i Södertälje, utbildning i statistik uppfyller kravet. Inget årskrav anges men Python-mjukvaruutveckling och AWS/Snowflake efterfrågas. Starttiden anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": "**Rollen:** Data scientist som utvecklar och driftsätter modeller för maskininlärning, deep learning och optimering inom prissättning, garantiärenden och kostnadsanalys.\n**Krav:** Utbildning inom data, matematik, statistik, fysik eller annat kvantitativt område; mycket goda Python-kunskaper och erfarenhet av mjukvaruutveckling; erfarenhet av ML-/statistiska modeller; Git; engelska.\n**Meriterande:** PyTorch/TensorFlow, RAG, AWS Bedrock, Streamlit; svenska.\n**Bra att veta:** Södertälje, heltid, hybrid (kontor 3 dagar/vecka). Start ej angiven. Sista ansökningsdag 2026-11-26."
   },
   {
    "id": "31696102",
@@ -320,22 +304,6 @@
    "extent": "100%",
    "duration": "6 månader eller längre",
    "summary": "**Rollen:** Data & AI Engineer hos ett Stockholmsbaserat skönhetsvarumärke; bygger datamodeller (Dataform/BigQuery), pipelines och AI-tjänster (MCP-servrar) som stöd för analys.\n**Krav:** Tidig karriär eller några års erfarenhet, bra SQL, Python eller TypeScript, rena och testade kodlösningar, Google Cloud.\n**Bra att veta:** Stockholm, heltid, konsultuppdrag via Academic Work (6+ månader), starttid ej angiven, ingen tydlig sista ansökningsdag."
-  },
-  {
-   "id": "31777834",
-   "headline": "Strategy Manager | Early Career Program",
-   "employer": "Ericsson AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-26",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31777834",
-   "published": "2026-11-25",
-   "score": 5,
-   "reason": "Ericsson Early Career Program (strategi, kvantitativ analys, nyexaminerade välkomna) men en generell strategi-/ledarskapstrainee utan tydlig statistikkärna, därav max 5. Start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "6 månader eller längre",
-   "summary": "**Rollen:** Strategy Manager i Ericssons 18-månaders Early Career Program (BA Networks Strategy): strukturerar strategiska frågor, gör kvantitativ och kvalitativ analys och tar fram beslutsunderlag; rotation mellan olika funktioner.\n**Krav:** Starka analytiska och problemlösande färdigheter, trygg med data, tydlig kommunikation. Nyexaminerade eller upp till 5 års erfarenhet.\n**Meriterande:** Erfarenhet av konsulting, strategi, business analysis, finans eller teknik.\n**Bra att veta:** Stockholm, heltid, 6 månader eller längre. Start ej angiven. Sista ansökan 2026-11-26."
   },
   {
    "id": "31652177",
@@ -1100,6 +1068,22 @@
    "published": "2026-11-10",
    "score": 4,
    "reason": "Junior finance analyst i Uppsala för nyexaminerade, men ekonomi/bokslut snarare än statistik och uppdrag via konsultbolag. Starttid anges inte.",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": null
+  },
+  {
+   "id": "31784256",
+   "headline": "Junior Data Engineer",
+   "employer": "Avanade Sweden AB",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2027-01-31",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31784256",
+   "published": "2026-11-26",
+   "score": 4,
+   "reason": "Junior Data Engineer i Stockholm, men kräver 'ett par års' erfarenhet av data engineering och är mer ingenjörs- än analysroll (SQL/Python, Fabric). Start ej angiven.",
    "start": "Ej angiven",
    "extent": "100%",
    "duration": "Tills vidare",
