@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T06:15:32",
+ "updated": "2026-11-27T16:16:06",
  "jobs": [
   {
    "id": "31552681",
@@ -144,6 +144,38 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Data analyst i Sandviks Cloud Product Organization: äger produktanalys, KPI:er och dashboards samt analyserar användarbeteende.\n**Krav:** Erfarenhet av dataanalys/produktanalys eller BI, analytisk förmåga med stora datamängder, Power BI, SQL eftersträvas, tydlig kommunikation.\n**Meriterande:** SaaS-/produktmetrik, experiment och produktledd miljö.\n**Bra att veta:** Heltid, kan arbeta på distans eller från kontor i Sverige. Start ej angiven. Sista ansökningsdag 2026-12-04."
+  },
+  {
+   "id": "31787481",
+   "headline": "Data Scientist",
+   "employer": "Scania CV Aktiebolag",
+   "city": "Södertälje",
+   "scope": "Heltid",
+   "deadline": "2026-12-07",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31787481",
+   "published": "2026-11-27",
+   "score": 6,
+   "reason": "Data Scientist med statistik/ML i Södertälje, passar kärnan, men söker \"experienced\" med AWS/Snowflake/MLOps och produktionskod; antal år ej angivet. Starttid ej angiven (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Data Scientist inom TRATON R&D (Advanced Analytics & AI Solutions): datapreparering, statistiska modeller, ML och AI-lösningar för servicemarknaden, från modellering till drift.\n**Krav:** Erfaren data scientist med starka kunskaper i Python, SQL, statistik och ML; relevant universitetsexamen; erfarenhet av AWS, Snowflake, versionshantering och gärna MLOps/modellserving; god engelska.\n**Meriterande:** Generativ AI/LLM, retrieval-tjänster, orkestrering och observability.\n**Bra att veta:** Södertälje (pendlarbuss från Stockholm), tillsvidare, heltid, start ej angiven, sista ansökningsdag 2026-12-07."
+  },
+  {
+   "id": "31788871",
+   "headline": "CUSTOMER INSIGHTS ANALYST",
+   "employer": "Scandinavian Airlines System Denmark -Norway-Swe",
+   "city": "Solna",
+   "scope": "Heltid",
+   "deadline": "2026-12-07",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31788871",
+   "published": "2026-11-27",
+   "score": 6,
+   "reason": "Analytiker-roll för tidig karriär (SQL, survey, dashboards, statistikkännedom) i Solna, men mer CX/kundinsikt än statistik och kräver 1-3 års erfarenhet. Starttid ej angiven (-1).",
+   "start": "Ej angiven",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** CX/Customer Insights Analyst på SAS: driver Voice of the Customer-programmet (Qualtrics), analyserar kundfeedback och kunddata, bygger dashboards och rapportering (NPS, CSAT).\n**Krav:** 1-3 års erfarenhet inom analytics, kundinsikt eller marknadsundersökningar; SQL (eller intresse); Qualtrics eller liknande; kvantitativ förmåga, statistik och survey-metodik; kandidatexamen.\n**Meriterande:** Erfarenhet från agila/tvärfunktionella team.\n**Bra att veta:** Solna (på plats, ev. distans enligt överenskommelse), heltid med 6 mån provanställning, start ej angiven, sista ansökningsdag 2026-12-07."
   },
   {
    "id": "31769760",
@@ -432,6 +464,22 @@
    "extent": "100%",
    "duration": "Tills vidare",
    "summary": "**Rollen:** Nordic Value Proposition Analyst på PostNord: bygger faktabas av kund-, marknads- och försäljningsdata, definierar KPI:er, tar fram dashboards och rekommendationer till produktchefer.\n**Krav:** Analytisk, kommersiellt inriktad profil; erfarenhet av kund-/marknadsinsikter eller commercial analytics; dashboards/beslutsstöd; engelska och nordiskt språk.\n**Bra att veta:** Stockholm (eller Helsingfors/Oslo/Köpenhamn), hybrid 3 dagar på kontor, heltid, tills vidare. Start ej angiven. Sista ansökan 2026-12-18."
+  },
+  {
+   "id": "31785342",
+   "headline": "Underrättelseanalytiker - inriktning Centrum mot ekonomisk brottslighet",
+   "employer": "Ekobrottsmyndigheten",
+   "city": "Stockholm",
+   "scope": "Heltid",
+   "deadline": "2026-12-18",
+   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31785342",
+   "published": "2026-11-27",
+   "score": 5,
+   "reason": "Analytiker på Ekobrottsmyndigheten; statistikexamen godtas, men kräver flera års erfarenhet av underrättelseanalys och är mer kvalitativ/omvärldsanalys. Start enl. överenskommelse.",
+   "start": "Enl. överenskommelse",
+   "extent": "100%",
+   "duration": "Tills vidare",
+   "summary": "**Rollen:** Strategisk underrättelseanalytiker vid Centrum mot ekonomisk brottslighet: inhämtar och analyserar data, utvecklar metoder för ostrukturerad data, tar fram kunskapsunderlag och rapporter, samverkar med externa aktörer.\n**Krav:** Akademisk examen (t.ex. statistik, kriminologi, nationalekonomi); flera års erfarenhet av underrättelseanalys inom brottsbekämpning; kvalitativ/kvantitativ analys; mycket goda svenskakunskaper; Office.\n**Meriterande:** Analys av ostrukturerad data, textanalys/automatisering, AI-verktyg.\n**Bra att veta:** Stockholm, tillsvidare med 6 mån provanställning, tillträde enl. överenskommelse, sista ansökningsdag 2026-12-18."
   },
   {
    "id": "31773322",
