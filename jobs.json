@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:16:06",
+ "updated": "2026-11-28T06:15:05",
  "jobs": [
   {
    "id": "31552681",
@@ -639,54 +639,6 @@
    "start": "Ej angiven",
    "extent": null,
    "duration": null,
-   "summary": null
-  },
-  {
-   "id": "31653905",
-   "headline": "Digital Business Analyst till Synsam",
-   "employer": "Synsam Group Sweden AB",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-27",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31653905",
-   "published": "2026-10-28",
-   "score": 4,
-   "reason": "Digital Business Analyst med kvantitativ analys inom e-handel, men efterfrågar 2-4 års erfarenhet och är kommersiellt inriktad. Starttid anges inte.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
-   "id": "31667542",
-   "headline": "Digital & Management Talent Program 2027",
-   "employer": "Combitech Aktiebolag",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-27",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31667542",
-   "published": "2026-10-30",
-   "score": 4,
-   "reason": "Junior managementkonsult – generellt konsult-/managementprogram, inte statistik eller dataanalys.",
-   "start": "Ej angiven (efter examen 2027)",
-   "extent": "100%",
-   "duration": "Tills vidare",
-   "summary": null
-  },
-  {
-   "id": "31723066",
-   "headline": "Finansinspektionen söker Data Engineer",
-   "employer": "Finansinspektionen",
-   "city": "Stockholm",
-   "scope": "Heltid",
-   "deadline": "2026-11-27",
-   "url": "https://arbetsformedlingen.se/platsbanken/annonser/31723066",
-   "published": "2026-11-12",
-   "score": 4,
-   "reason": "Data Engineer på FI (SQL, Python, dbt, Airflow) som kräver tidigare erfarenhet som data engineer och ingenjörs-/IT-utbildning; ingen analys/statistik i kärnan. Start ej angiven.",
-   "start": "Ej angiven",
-   "extent": "100%",
-   "duration": "Tills vidare",
    "summary": null
   },
   {
